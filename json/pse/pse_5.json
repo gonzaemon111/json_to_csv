@@ -1,0 +1,8629 @@
+[
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (田中愛治)",
+    "professor": "遠藤　晶久／田中　愛治",
+    "time": "秋学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (福田耕治)",
+    "professor": "福田　耕治",
+    "time": "春学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ],
+    "textbook": "福田耕治『国際行政学－国際公益と国際公共政策（新版）』有斐閣、2012年\n英文ジャーナル所収の最新の論文を教材とする。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "実施しない。"
+      },
+      {
+        "name": "レポート",
+        "rate": "80％",
+        "detail": "研究テーマについてのレポートについて絶対評価する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "毎週の報告と討論を基礎に総合的に評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (福田耕治)",
+    "professor": "福田　耕治",
+    "time": "秋学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ],
+    "textbook": "福田耕治『国際行政学－国際公益と国際公共政策（新版）』有斐閣、2012年\n英文ジャーナル所収の最新の論文を教材とする。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "実施しない。"
+      },
+      {
+        "name": "レポート",
+        "rate": "80％",
+        "detail": "研究テーマについてのレポートについて絶対評価する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "毎週の報告と討論を基礎に総合的に評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (谷澤正嗣)",
+    "professor": "谷澤　正嗣",
+    "time": "春学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ],
+    "evaluation_method": [
+      {
+        "name": "その他",
+        "rate": "100％",
+        "detail": "演習論文の完成度で評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (谷澤正嗣)",
+    "professor": "谷澤　正嗣",
+    "time": "秋学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ],
+    "evaluation_method": [
+      {
+        "name": "その他",
+        "rate": "100％",
+        "detail": "演習論文の完成度で評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (眞柄秀子)",
+    "professor": "真柄　秀子",
+    "time": "春学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (眞柄秀子)",
+    "professor": "真柄　秀子",
+    "time": "秋学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (河野勝)",
+    "professor": "河野　勝",
+    "time": "春学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ],
+    "subtitle": "現代日本政治の諸問題",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "先行研究の理解、独創性、分析の精度、文章・表現力。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (河野勝)",
+    "professor": "河野　勝",
+    "time": "秋学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ],
+    "subtitle": "現代日本政治の諸問題",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "先行研究の理解、独創性、分析の精度、文章・表現力。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (中村英俊)",
+    "professor": "中村　英俊",
+    "time": "春学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (中村英俊)",
+    "professor": "中村　英俊",
+    "time": "秋学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ],
+    "subtitle": "国際政治の理論と現実－英国学派を中心に",
+    "textbook": "特になし",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "卒業論文そのもの"
+      },
+      {
+        "name": "レポート",
+        "rate": "0％",
+        "detail": "thesis"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "0％",
+        "detail": "updating/upgrading your drafts"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "特になし"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (田中孝彦)",
+    "professor": "田中　孝彦",
+    "time": "春学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (田中孝彦)",
+    "professor": "田中　孝彦",
+    "time": "秋学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ],
+    "textbook": "なし。\n教材は、田中孝彦作成の「研究の手法」。適宜配付する。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "卒業論文の内容による。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (小原隆治)",
+    "professor": "小原　隆治",
+    "time": "春学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ],
+    "subtitle": "自治・分権を考える",
+    "textbook": "なし。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "通常の試験・レポートと同じ観点から評価する。卒業論文はA＋、A、B等の評価結果を明記し、コメントをつけて返却する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (小原隆治)",
+    "professor": "小原　隆治",
+    "time": "秋学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ],
+    "subtitle": "自治・分権を考える",
+    "textbook": "なし。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "通常の試験・レポートと同じ観点から評価する。卒業論文はA＋、A、B等の評価結果を明記し、コメントをつけて返却する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (笹田栄司)",
+    "professor": "笹田　栄司",
+    "time": "春学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ],
+    "textbook": "その都度、指示する。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "実施しない。"
+      },
+      {
+        "name": "レポート",
+        "rate": "90％",
+        "detail": "論文の書き方についての理解、および先行研究の調査が十分であるか。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "10％",
+        "detail": "論文の準備作業に係る研究姿勢が真摯であること。"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "なし。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (笹田栄司)",
+    "professor": "笹田　栄司",
+    "time": "秋学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ],
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "実施しない。"
+      },
+      {
+        "name": "レポート",
+        "rate": "90％",
+        "detail": "論文の書き方についての理解、および先行研究の調査が十分であるか。自己の見解を述べているか。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "10％",
+        "detail": "論文作成における研究姿勢の真摯さ"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "なし。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (栗崎周平)",
+    "professor": "栗崎　周平",
+    "time": "春学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ],
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "ゼミのシラバスを参照してください"
+      },
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "ゼミのシラバスを参照してください"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "0％",
+        "detail": "ゼミのシラバスを参照してください"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "ゼミのシラバスを参照してください"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (栗崎周平)",
+    "professor": "栗崎　周平",
+    "time": "秋学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ],
+    "subtitle": "国際政治の理論研究・実証研究\nScientific Study of International Relations",
+    "textbook": "David A. Lake and Robert Powell. 1999. Strategic Choice and International Relations. Princeton University Press.\n\nAndrew Kydd. 2015. International Relations Theory: Game Theoretic Approach. Cambridge University Press.\n\n国際政治研究の主要学術雑誌：APSR, AJPS, IO, IS, JCR, ISQ,など.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "N/A"
+      },
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "The quality of the thesis fully determines the grade."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "0％",
+        "detail": "N/A"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "N/A"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (稲継裕昭)",
+    "professor": "稲継　裕昭",
+    "time": "春学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ],
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "卒論についての評価"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (稲継裕昭)",
+    "professor": "稲継　裕昭",
+    "time": "秋学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ],
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "卒論についての評価"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (浅野豊美)",
+    "professor": "浅野　豊美",
+    "time": "春学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ],
+    "subtitle": "近代日本とアジア・「西洋」をめぐるナショナリズム理論と国際関係学",
+    "textbook": "塩川 伸明『民族とネイション―ナショナリズムという難問』岩波新書、2008年。\nA・D・スミス『ネイションとエスニシティ―歴史社会学的考察』名古屋大学出版会、1999年。\nアーネスト・ゲルナー、加藤節監訳『民族とナショナリズム』岩波書店、 2000年）\nベネディクト・アンダーソン、白石隆・白石さや訳『想像の共同体―ナショナリズムの起源と流行』（書籍工房早山、2007年）\n\n周 婉窈 『増補版 図説 台湾の歴史』平凡社、 2013年。\n水野 俊平『韓国の歴史〈増補改訂版〉』川出書房、 2017年。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "最終レポート執筆以前に、予備的なレポートを少なくとも一回課す。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "演習への出席、授業態度、毎回の報告課題の達成度、議論への取り組みなどを総合的に評価する。\n三回以上無断欠席したものは単位を取れない。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (浅野豊美)",
+    "professor": "浅野　豊美",
+    "time": "秋学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ],
+    "subtitle": "近代日本とアジア・「西洋」－ナショナリズム理論と国際関係学",
+    "textbook": "塩川 伸明『民族とネイション―ナショナリズムという難問』岩波新書、2008年。\nA・D・スミス『ネイションとエスニシティ―歴史社会学的考察』名古屋大学出版会、1999年。\n\n周 婉窈 『増補版 図説 台湾の歴史』平凡社、 2013年。\n水野 俊平『韓国の歴史〈増補改訂版〉』川出書房、 2017年。\n\n衛藤瀋吉 『衛藤瀋吉著作集』東方書店、2004年。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "最終レポート執筆以前に、予備的なレポートを少なくとも一回課す。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "演習への出席、授業態度、毎回の報告課題の達成度、議論への取り組みなどを総合的に評価する。\n三回以上無断欠席したものは単位を取れない。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (稲村一隆)",
+    "professor": "稲村　一隆",
+    "time": "春学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ],
+    "subtitle": "政治哲学・思想史",
+    "textbook": "初回の授業で指定します。",
+    "evaluation_method": [
+      {
+        "name": "その他",
+        "rate": "100％",
+        "detail": "卒業論文の議論の明確性と新奇性"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (稲村一隆)",
+    "professor": "稲村　一隆",
+    "time": "秋学期  無7時限",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": -1,
+          "period": 7,
+          "classroom": ""
+        }
+      ]
+    ],
+    "subtitle": "政治哲学・思想史",
+    "textbook": "初回の授業で指定します。",
+    "evaluation_method": [
+      {
+        "name": "その他",
+        "rate": "100％",
+        "detail": "卒業論文の議論の明確性と新奇性"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済史入門A　01",
+    "professor": "本野　英一",
+    "time": "春学期  火2時限",
+    "category": "入門科目：必修以外",
+    "target_grade": 1,
+    "credit": 2,
+    "classroom": "3-305",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "経済史",
+    "field_small": "経済史",
+    "level": "初級レベル（入門・導入）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "3-305"
+        }
+      ]
+    ],
+    "subtitle": "グローバル経済史入門",
+    "textbook": "ティモシー･ブルック（本野英一訳）『フェルメールの帽子』（岩波書店、2014年）\nティモシー･ブルック（藤井美佐子訳）『セルデンの中国地図』（太田出版、2015年）\nピーター・ロージ（本野英一訳）『アジアの軍事革命』（昭和堂、2012年）",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "75％",
+        "detail": "1回30点満点の3回小テストを実施します。テストは全てCourse N@viを通じて行うレポート形式で行います。"
+      },
+      {
+        "name": "レポート",
+        "rate": "0％",
+        "detail": "出題しない。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "25％",
+        "detail": "Course N@viを通じて毎回レビューに質問、批評を書き込んでいただきます。各回2点満点。単なる講義内容の要約あるいはつまらない内容なら1点もしくは0点もありえます。"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "特になし。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済史入門A　02",
+    "professor": "川崎　亜紀子",
+    "time": "春学期  木2時限",
+    "category": "入門科目：必修以外",
+    "target_grade": 1,
+    "credit": 2,
+    "classroom": "15-101",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "経済史",
+    "field_small": "経済史",
+    "level": "初級レベル（入門・導入）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 2,
+          "classroom": "15-101"
+        }
+      ]
+    ],
+    "textbook": "特に指定しない、授業中にレジュメを配布する。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "70％",
+        "detail": "授業内容が正確に理解できているか、論理的な叙述がなされているか。"
+      },
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "授業中に2回程度実施する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済史入門B　01",
+    "professor": "川口　浩",
+    "time": "秋学期  火2時限",
+    "category": "入門科目：必修以外",
+    "target_grade": 1,
+    "credit": 2,
+    "classroom": "3-501",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "経済史",
+    "field_small": "経済史",
+    "level": "初級レベル（入門・導入）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "3-501"
+        }
+      ]
+    ],
+    "subtitle": "日本経済史の立場から",
+    "textbook": "特に指定しない。必要に応じて史料を配布する。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "70％",
+        "detail": "正確な事実認識と論理的な叙述"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "小テスト。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済史入門B　02",
+    "professor": "鎮目　雅人",
+    "time": "秋学期  木2時限",
+    "category": "入門科目：必修以外",
+    "target_grade": 1,
+    "credit": 2,
+    "classroom": "3-402",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "経済史",
+    "field_small": "経済史",
+    "level": "初級レベル（入門・導入）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 2,
+          "classroom": "3-402"
+        }
+      ]
+    ],
+    "textbook": "特になし",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "授業の理解度"
+      },
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "ポイントを抑えた論理的記述"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "授業への参加・授業への積極的な取り組み"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "日本経済論入門　01",
+    "professor": "篠　潤之介",
+    "time": "春学期  土2時限",
+    "category": "入門科目：必修以外",
+    "target_grade": 1,
+    "credit": 2,
+    "classroom": "3-301",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "応用経済学",
+    "level": "初級レベル（入門・導入）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 6,
+          "period": 2,
+          "classroom": "3-301"
+        }
+      ]
+    ],
+    "textbook": "適宜講義ノート、レジュメ、レポート等を配布します。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "50％",
+        "detail": "15回目に期末試験を行います。"
+      },
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "1回程度レポートの作成を課す予定です。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "ミクロ経済学A　01",
+    "professor": "永田　良",
+    "time": "春学期  水2時限",
+    "category": "基礎分野：必修（ミクロα）",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-401",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論経済学・経済思想",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 2,
+          "classroom": "3-401"
+        }
+      ]
+    ],
+    "textbook": "永田・荻沼・荒木『標準　ミクロ経済学』東洋経済新報社、2011年",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "70％",
+        "detail": "試験。"
+      },
+      {
+        "name": "その他",
+        "rate": "30％",
+        "detail": "4回の課題提出20％、および出席点10％。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "ミクロ経済学A　02",
+    "professor": "笠松　学",
+    "time": "春学期  火2時限",
+    "category": "基礎分野：必修（ミクロα）",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-402",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論経済学・経済思想",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "3-402"
+        }
+      ]
+    ],
+    "textbook": "永田・荻沼・荒木『標準　ミクロ経済学』東洋経済新報社、2011年",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "70％",
+        "detail": "試験。"
+      },
+      {
+        "name": "その他",
+        "rate": "30％",
+        "detail": "4回の課題提出20％、および出席点10％。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "ミクロ経済学A　03",
+    "professor": "荒木　一法",
+    "time": "春学期  月2時限",
+    "category": "基礎分野：必修（ミクロα）",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-301",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論経済学・経済思想",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 2,
+          "classroom": "3-301"
+        }
+      ]
+    ],
+    "textbook": "永田・荻沼・荒木『標準　ミクロ経済学』東洋経済新報社、2011年",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "70％",
+        "detail": "試験。"
+      },
+      {
+        "name": "その他",
+        "rate": "30％",
+        "detail": "4回の課題提出20％、および出席点10％。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "ミクロ経済学A　04",
+    "professor": "荻沼　隆",
+    "time": "秋学期  水2時限",
+    "category": "基礎分野：必修（ミクロα）",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-402",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論経済学・経済思想",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 2,
+          "classroom": "3-402"
+        }
+      ]
+    ],
+    "textbook": "永田・荻沼・荒木『標準　ミクロ経済学』東洋経済新報社、2011年",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "70％",
+        "detail": "試験。"
+      },
+      {
+        "name": "その他",
+        "rate": "30％",
+        "detail": "4回の課題提出20％、および出席点10％。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "ミクロ経済学B　01",
+    "professor": "荻沼　隆",
+    "time": "秋学期  月3時限",
+    "category": "基礎分野：必修以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-601",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論経済学・経済思想",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 3,
+          "classroom": "3-601"
+        }
+      ]
+    ],
+    "textbook": "永田・荻沼・荒木『標準　ミクロ経済学』東洋経済新報社、2011年",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "試験。"
+      },
+      {
+        "name": "その他",
+        "rate": "20％",
+        "detail": "2回の課題提出"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "ミクロ経済学B　02",
+    "professor": "永田　良",
+    "time": "秋学期  水2時限",
+    "category": "基礎分野：必修以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-405",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論経済学・経済思想",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 2,
+          "classroom": "3-405"
+        }
+      ]
+    ],
+    "textbook": "永田・荻沼・荒木『標準　ミクロ経済学』東洋経済新報社、2011年",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "試験。"
+      },
+      {
+        "name": "その他",
+        "rate": "20％",
+        "detail": "2回の課題提出"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "ミクロ経済学B　03",
+    "professor": "荒木　一法",
+    "time": "春学期  火2時限",
+    "category": "基礎分野：必修以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-710",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論経済学・経済思想",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "3-710"
+        }
+      ]
+    ],
+    "textbook": "永田・荻沼・荒木『標準　ミクロ経済学』東洋経済新報社、2011年",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "試験。"
+      },
+      {
+        "name": "その他",
+        "rate": "20％",
+        "detail": "2回の課題提出"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "上級ミクロ経済学A　01",
+    "professor": "永田　良",
+    "time": "春クォーター  01:火3時限／02:木3時限",
+    "category": "基礎分野：必修以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "01:3-304／02:3-304",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論経済学・経済思想",
+    "level": "総仕上げ",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春クォーター",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "3-304"
+        },
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-304"
+        }
+      ]
+    ],
+    "textbook": "Geoffrey A.Jehle and Philip J.Reny, Advanced Microeconomic Theory,3rd ed.,Prentice Hall,　2011",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "上級レベルの内容を正確に理解しているかどうかを問う。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "上級ミクロ経済学B　01",
+    "professor": "荒木　一法",
+    "time": "夏クォーター  01:月1時限／02:木1時限",
+    "category": "基礎分野：必修以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "01:3-703／02:3-703",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論経済学・経済思想",
+    "level": "総仕上げ",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "夏クォーター",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 1,
+          "classroom": "3-703"
+        },
+        {
+          "day": 4,
+          "period": 1,
+          "classroom": "3-703"
+        }
+      ]
+    ],
+    "textbook": "G. A. Jehle and P.H. Reny. Adavanced Microeconomics Theory(3rd.ed.). Prentice Hall.\nM.J.Osbourne and A.Rubinstein. Bargaining and Markets. Academic Press.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": ""
+      },
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "マクロ経済学A　02",
+    "professor": "笠松　学",
+    "time": "春学期  金3時限",
+    "category": "基礎分野：必修（マクロα）",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-401",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論経済学・経済思想",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 3,
+          "classroom": "3-401"
+        }
+      ]
+    ],
+    "textbook": "笹倉和幸『標準　マクロ経済学』（第2版）東洋経済新報社、2017年。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "答案で判断する。"
+      },
+      {
+        "name": "レポート",
+        "rate": "10％",
+        "detail": "レポート･エッセイ・小テストで判断する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "10％",
+        "detail": "授業への積極性で判断する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "マクロ経済学A　03",
+    "professor": "笹倉　和幸",
+    "time": "春学期  火2時限",
+    "category": "基礎分野：必修（マクロα）",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-301",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論経済学・経済思想",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "3-301"
+        }
+      ]
+    ],
+    "textbook": "笹倉和幸『標準　マクロ経済学』（第2版）東洋経済新報社、2017年。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "答案で判断する。"
+      },
+      {
+        "name": "レポート",
+        "rate": "10％",
+        "detail": "レポート･エッセイ・小テストで判断する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "10％",
+        "detail": "授業への積極性で判断する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "マクロ経済学A　04",
+    "professor": "笹倉　和幸",
+    "time": "秋学期  木3時限",
+    "category": "基礎分野：必修（マクロα）",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-801",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論経済学・経済思想",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-801"
+        }
+      ]
+    ],
+    "textbook": "笹倉和幸『標準　マクロ経済学』（第2版）東洋経済新報社、2017年。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "答案で判断する。"
+      },
+      {
+        "name": "レポート",
+        "rate": "10％",
+        "detail": "レポート･エッセイ・小テストで判断する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "10％",
+        "detail": "授業への積極性で判断する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "マクロ経済学B　01",
+    "professor": "笹倉　和幸",
+    "time": "秋学期  火2時限",
+    "category": "基礎分野：必修以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-301",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論経済学・経済思想",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "3-301"
+        }
+      ]
+    ],
+    "textbook": "笹倉和幸『標準　マクロ経済学』（第2版）東洋経済新報社、2017年。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "マクロ経済学の基本的知識"
+      },
+      {
+        "name": "その他",
+        "rate": "20％",
+        "detail": "講義内容に沿った宿題等。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "マクロ経済学B　02",
+    "professor": "笠松　学",
+    "time": "秋学期  金3時限",
+    "category": "基礎分野：必修以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-801",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論経済学・経済思想",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 3,
+          "classroom": "3-801"
+        }
+      ]
+    ],
+    "textbook": "フォーリー＆マイクル（佐藤・笠松監訳）『成長と分配』（日本経済評論社、2002）",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "90％",
+        "detail": "答案で判断。"
+      },
+      {
+        "name": "その他",
+        "rate": "10％",
+        "detail": "授業への積極性で判断。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "マクロ経済学B　03",
+    "professor": "笹倉　和幸",
+    "time": "春学期  木2時限",
+    "category": "基礎分野：必修以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-401",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論経済学・経済思想",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 2,
+          "classroom": "3-401"
+        }
+      ]
+    ],
+    "textbook": "笹倉和幸『標準　マクロ経済学』（第2版）東洋経済新報社、2017年。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "マクロ経済学の基本的知識。"
+      },
+      {
+        "name": "その他",
+        "rate": "20％",
+        "detail": "講義内容に沿った宿題等。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "上級マクロ経済学A　01",
+    "professor": "上田　晃三／及川　浩希",
+    "time": "春クォーター  01:月3時限／02:金2時限",
+    "category": "基礎分野：必修以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "01:3-304／02:3-304",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論経済学・経済思想",
+    "level": "総仕上げ",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春クォーター",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 3,
+          "classroom": "3-304"
+        },
+        {
+          "day": 5,
+          "period": 2,
+          "classroom": "3-304"
+        }
+      ]
+    ],
+    "subtitle": "経済成長・景気循環の分析",
+    "textbook": "A mainly used textbook is David Romer, Advanced Macroeconomics 4th eds., McGraw Hill.\nAdditional reading materials will be announced in the class of each module.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "Final examination only"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "上級マクロ経済学B　01",
+    "professor": "戸村　肇",
+    "time": "夏クォーター  01:水2時限／02:金2時限",
+    "category": "基礎分野：必修以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "01:3-306／02:3-306",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論経済学・経済思想",
+    "level": "総仕上げ",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "夏クォーター",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 2,
+          "classroom": "3-306"
+        },
+        {
+          "day": 5,
+          "period": 2,
+          "classroom": "3-306"
+        }
+      ]
+    ],
+    "textbook": "David Romer, Advanced Macroeconomics, fourth edition, McGraw-Hill, 2012.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "Final exam"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "実験経済学A　01",
+    "professor": "竹内　幹",
+    "time": "春学期  火2時限",
+    "category": "基礎分野：必修以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-501",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "実験経済学 / 行動経済学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "3-501"
+        }
+      ]
+    ],
+    "textbook": "特に指定はありませんが、参考文献をもとに講義をします。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "ふつうのペーパーテストです。過去問は毎年、全部コースナビにアップロードしています。"
+      },
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "A4　2－3枚相当のエッセイ「どうして経済学部に進学したいと決めたか、または、進学することになったか」。これはまじめに考えて正直に書いてください。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "簡単な宿題を3回ほど。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "実験経済学B　01",
+    "professor": "竹内　あい",
+    "time": "集中講義（春学期）  無2-4",
+    "category": "基礎分野：必修以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-903（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "実験経済学 / 行動経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "集中講義（春学期）",
+    "metadata": [
+      [
+        {
+          "day": -1,
+          "period": 2,
+          "classroom": "3-903（学部PCﾙｰﾑ）"
+        },
+        {
+          "day": -1,
+          "period": 3,
+          "classroom": "3-903（学部PCﾙｰﾑ）"
+        },
+        {
+          "day": -1,
+          "period": 4,
+          "classroom": "3-903（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "textbook": "特になし。",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "授業内課題\nレポート\nプレゼンテーション"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "統計学　01",
+    "professor": "西郷　浩",
+    "time": "春学期  火1時限",
+    "category": "基礎分野：必修以外",
+    "target_grade": 1,
+    "credit": 2,
+    "classroom": "3-304",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "統計学",
+    "field_middle": "統計学",
+    "field_small": "統計学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 1,
+          "classroom": "3-304"
+        }
+      ]
+    ],
+    "subtitle": "推測統計学の基礎",
+    "textbook": "野口和也・西郷浩(2014)『基本 統計学』培風館",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "期末試験の成績による。"
+      },
+      {
+        "name": "その他",
+        "rate": "20％",
+        "detail": "オンラインで実施する小テストの成績による。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "統計学　02",
+    "professor": "野口　和也",
+    "time": "秋学期  月1時限",
+    "category": "基礎分野：必修以外",
+    "target_grade": 1,
+    "credit": 2,
+    "classroom": "3-501",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "統計学",
+    "field_middle": "統計学",
+    "field_small": "統計学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 1,
+          "classroom": "3-501"
+        }
+      ]
+    ],
+    "textbook": "野口和也・西郷浩」(2014), 「基本統計学」, 培風館",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "95％",
+        "detail": "講義内容の理論と計算方法に関する理解度。"
+      },
+      {
+        "name": "その他",
+        "rate": "5％",
+        "detail": "場合によって計算課題を課することがある。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治経済の計量分析　01",
+    "professor": "戸堂　康之",
+    "time": "秋学期  木3時限",
+    "category": "",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-903（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "統計学",
+    "field_middle": "統計学",
+    "field_small": "統計学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-903（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "textbook": "Wooldridge，Introductory Econometrics, South-Western Cengage Learning\nMaddala and Lahiri, Introduction to Econometrics, 4th Edition\n松浦寿幸，2010，『Stataによるデータ分析入門』，東京図書 [戸堂]",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "学期末に教場試験を実施する\nIn-Class Final Exam"
+      },
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "複数回の実習課題を課す\nHomework exercises of statistical analysis"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "出席回数に応じる\nBased on class attendance"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治経済の計量分析　02",
+    "professor": "多湖　淳",
+    "time": "春学期  木1時限",
+    "category": "",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-901（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "統計学",
+    "field_middle": "統計学",
+    "field_small": "統計学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 1,
+          "classroom": "3-901（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "textbook": "Imai, Kosuke 2017 Quantitative Social Science: An Introduction Princeton University Press　（注意：購入はしなくてよい）\n\nWooldridge，Introductory Econometrics, South-Western Cengage Learning\nMaddala and Lahiri, Introduction to Econometrics, 4th Edition",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "学期末に教場試験を実施する\nIn-Class Final Exam"
+      },
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "複数回の実習課題を課す\nHomework exercises of statistical analysis"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "出席回数に応じる\nBased on class attendance"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治経済の計量分析　03",
+    "professor": "広瀬　健太郎",
+    "time": "秋学期  火2時限",
+    "category": "",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-903（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "統計学",
+    "field_middle": "統計学",
+    "field_small": "統計学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "3-903（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "textbook": "Wooldridge，Introductory Econometrics, South-Western Cengage Learning\nMaddala and Lahiri, Introduction to Econometrics, 4th Edition",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "学期末に教場試験を実施する\nIn-Class Final Exam"
+      },
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "複数回の実習課題を課す\nHomework exercises of statistical analysis"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "出席回数に応じる\nBased on class attendance"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治経済の計量分析　04",
+    "professor": "山本　竜市",
+    "time": "春学期  月4時限",
+    "category": "",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-903（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "統計学",
+    "field_middle": "統計学",
+    "field_small": "統計学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 4,
+          "classroom": "3-903（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "textbook": "Wooldridge，Introductory Econometrics, South-Western Cengage Learning\nMaddala and Lahiri, Introduction to Econometrics, 4th Edition\n松浦寿幸，2010，『Stataによるデータ分析入門』，東京図書 [戸堂]",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "学期末に教場試験を実施する\nIn-Class Final Exam"
+      },
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "複数回の実習課題を課す\nHomework exercises of statistical analysis"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "出席回数に応じる\nBased on class attendance"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治経済の計量分析　05",
+    "professor": "片山　宗親",
+    "time": "秋学期  木4時限",
+    "category": "",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-903（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "統計学",
+    "field_middle": "統計学",
+    "field_small": "統計学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-903（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "textbook": "Wooldridge，Introductory Econometrics, South-Western Cengage Learning",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "学期末に教場試験を実施する\nIn-Class Final Exam"
+      },
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "複数回の実習課題を課す\nHomework exercises of statistical analysis"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "出席回数に応じる\nBased on class attendance"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治経済の計量分析　06",
+    "professor": "片山　宗親",
+    "time": "春学期  木4時限",
+    "category": "",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-903（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "統計学",
+    "field_middle": "統計学",
+    "field_small": "統計学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-903（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "textbook": "Wooldridge，Introductory Econometrics, South-Western Cengage Learning",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "学期末に教場試験を実施する\nIn-Class Final Exam"
+      },
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "複数回の実習課題を課す\nHomework exercises of statistical analysis"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "出席回数に応じる\nBased on class attendance"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治経済の計量分析　07",
+    "professor": "高橋　遼",
+    "time": "春学期  木2時限",
+    "category": "",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-903（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "統計学",
+    "field_middle": "統計学",
+    "field_small": "統計学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 2,
+          "classroom": "3-903（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "textbook": "Wooldridge，Introductory Econometrics, South-Western Cengage Learning\nMaddala and Lahiri, Introduction to Econometrics, 4th Edition",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "学期末に教場試験を実施する\nIn-Class Final Exam"
+      },
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "複数回の実習課題を課す\nHomework exercises of statistical analysis"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "出席回数に応じる\nBased on class attendance"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治経済の計量分析　08",
+    "professor": "高橋　遼",
+    "time": "秋学期  火2時限",
+    "category": "",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-901（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "統計学",
+    "field_middle": "統計学",
+    "field_small": "統計学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "3-901（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "textbook": "Wooldridge，Introductory Econometrics, South-Western Cengage Learning\nMaddala and Lahiri, Introduction to Econometrics, 4th Edition",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "学期末に教場試験を実施する\nIn-Class Final Exam"
+      },
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "複数回の実習課題を課す\nHomework exercises of statistical analysis"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "出席回数に応じる\nBased on class attendance"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "応用計量経済学　01",
+    "professor": "星野　匡郎",
+    "time": "春学期  金2時限",
+    "category": "数学科目：必修以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-901（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "経済統計・計量経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 2,
+          "classroom": "3-901（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "textbook": "講義資料やスライドは事前にアップロードします．印刷されたスライドは配布しないので，注意してください．",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "70％",
+        "detail": "実証分析レポートで使用するデータの候補は提供する予定ですが，独自のデータを用いる場合は加点対象とします．"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "授業出席"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "応用計量経済学　02",
+    "professor": "星野　匡郎",
+    "time": "秋学期  火5時限",
+    "category": "数学科目：必修以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-902（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "経済統計・計量経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 5,
+          "classroom": "3-902（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "textbook": "講義資料やスライドは事前にアップロードします．印刷されたスライドは配布しないので，注意してください．",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "70％",
+        "detail": "実証分析レポートで使用するデータの候補は提供する予定ですが，独自のデータを用いる場合は加点対象とします．"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "授業出席"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学史　01",
+    "professor": "高見　典和",
+    "time": "春学期  火2時限",
+    "category": "基礎分野：必修以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-306",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論・計量経済学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "3-306"
+        }
+      ]
+    ],
+    "textbook": "なし",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "期末試験を行います。"
+      },
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "1,500字程度の読解レポートを2回課します。課題文献を理解しているかどうか，わかりやすい文章が書けているかどうか，設定した問いへの答えが明確に書かれているかどうか，という基準で評価します。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "トピックス経済学史　01",
+    "professor": "原谷　直樹",
+    "time": "秋学期  月5時限",
+    "category": "社会・行動科学",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-801",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論・計量経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 5,
+          "classroom": "3-801"
+        }
+      ]
+    ],
+    "subtitle": "経済学の方法論と哲学",
+    "textbook": "D・ウェイド・ハンズ『ルールなき省察：経済学方法論と現代科学論』慶應義塾大学出版会、2018年。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "50％",
+        "detail": "学期末に理解度を確認する試験を行います。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "受講者の数によって方法は変わりますが、授業への準備や参加度を報告や質問、リアクション・ペーパーによって評価します。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "現代経済政策分析　01",
+    "professor": "上田　貴子",
+    "time": "秋学期  01:月2時限／02:木2時限",
+    "category": "応用分野",
+    "target_grade": 2,
+    "credit": 4,
+    "classroom": "01:3-605／02:3-901（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "応用経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 2,
+          "classroom": "3-605"
+        },
+        {
+          "day": 4,
+          "period": 2,
+          "classroom": "3-901（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "subtitle": "StataとEViewsによる応用計量経済学",
+    "textbook": "「ミクロ計量経済学入門」　北村行伸（著）、日本評論社、3000円、2009年",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "90％",
+        "detail": "複数回の実習課題レポートの提出。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "10％",
+        "detail": "PC実習を含む授業であるため、出席状況を考慮する。3分の2以上の出席は最低条件である。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "外国書講読（独）A　01",
+    "professor": "森　宜人",
+    "time": "春学期  月5時限",
+    "category": "関連分野",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-304",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "経済学一般",
+    "field_small": "経済学一般",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 5,
+          "classroom": "3-304"
+        }
+      ]
+    ],
+    "subtitle": "ドイツ都市の歴史と現状",
+    "textbook": "テキストについては、コピーを配布します。",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "授業中の応答や、毎回の確認テスト、予習状況などを総合して評価します。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "外国書講読（独）B　01",
+    "professor": "森　宜人",
+    "time": "秋学期  月5時限",
+    "category": "関連分野",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-807（演習室）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "経済学一般",
+    "field_small": "経済学一般",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 5,
+          "classroom": "3-807（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "ドイツ都市の歴史と現状 II",
+    "textbook": "テキストについては、コピーを配布します。",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "授業中の応答や、毎回の確認テスト、予習状況などを総合して評価します。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "外国書講読（仏）A　01",
+    "professor": "内田　日出海",
+    "time": "春学期  月2時限",
+    "category": "関連分野",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-606",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "経済学一般",
+    "field_small": "経済学一般",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 2,
+          "classroom": "3-606"
+        }
+      ]
+    ],
+    "textbook": "上記のとおりです。そのつど事前にプリントを配布（または場合によってはCourse N@viにて提示）します。受講者のフランス語到達度等を勘案して一部変更することがあります。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "40％",
+        "detail": "形式は論文考査（レポートのかたちをとります）。"
+      },
+      {
+        "name": "レポート",
+        "rate": "10％",
+        "detail": "宿題のかたちをとり、2回課します。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "予習内容（20％）・テクスト読解度（20％）。"
+      },
+      {
+        "name": "その他",
+        "rate": "10％",
+        "detail": "出欠、授業参加度など。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "外国書講読（仏）B　01",
+    "professor": "内田　日出海",
+    "time": "秋学期  月4時限",
+    "category": "関連分野",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-304",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "経済学一般",
+    "field_small": "経済学一般",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 4,
+          "classroom": "3-304"
+        }
+      ]
+    ],
+    "textbook": "上記のとおりです。そのつど事前にプリント（テクストおよびカラー図版）を配布（または場合によってはCourse N@viにて提示）します。受講者のフランス語到達度等を勘案して一部変更することがあります。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "40％",
+        "detail": "形式は論文考査（レポート）。"
+      },
+      {
+        "name": "レポート",
+        "rate": "10％",
+        "detail": "時事関連の和訳レポート（宿題形式）を2回課します。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "予習内容（20％）・テクスト読解度（20％）。"
+      },
+      {
+        "name": "その他",
+        "rate": "10％",
+        "detail": "出欠、授業参加度など。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "国際日本経済史　01",
+    "professor": "鎮目　雅人",
+    "time": "春学期  01:火1時限／02:木1時限",
+    "category": "社会・行動科学",
+    "target_grade": 3,
+    "credit": 4,
+    "classroom": "01:3-301／02:3-301",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "経済史",
+    "field_small": "経済史",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 1,
+          "classroom": "3-301"
+        },
+        {
+          "day": 4,
+          "period": 1,
+          "classroom": "3-301"
+        }
+      ]
+    ],
+    "textbook": "使用しない",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "授業に対する理解度"
+      },
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "授業内容を踏まえた論理的展開と分析の充実度"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "授業への参加・授業への積極的な取り組み"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済統計　01",
+    "professor": "野口　和也",
+    "time": "春学期  01:月1時限／02:木1時限",
+    "category": "基礎分野：必修以外",
+    "target_grade": 2,
+    "credit": 4,
+    "classroom": "01:3-501／02:3-501",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "経済統計・計量経済学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 1,
+          "classroom": "3-501"
+        },
+        {
+          "day": 4,
+          "period": 1,
+          "classroom": "3-501"
+        }
+      ]
+    ],
+    "textbook": "佐竹元一郎編著「経済の統計的分析」中央経済社（2004）。\n　必要に応じてCourseNaviにて資料を提示する。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "55％",
+        "detail": "授業の内容に関する理解度"
+      },
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "4年生以上で，就職活動により小テスト(*)を欠席した学生にレポートを課することがある．\nなお，3年生以下の学生には小テストの代替措置はありません．"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "0％",
+        "detail": "特に平常点はないが，場合により計算課題を課することがある"
+      },
+      {
+        "name": "その他",
+        "rate": "5％",
+        "detail": "CorseNavi上に計算課題などを提示することがある．"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "日本経済史　01",
+    "professor": "川口　浩",
+    "time": "春学期  01:木2時限／02:金2時限",
+    "category": "基礎分野：必修以外",
+    "target_grade": 2,
+    "credit": 4,
+    "classroom": "01:3-501／02:3-501",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "経済史",
+    "field_small": "経済史",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 2,
+          "classroom": "3-501"
+        },
+        {
+          "day": 5,
+          "period": 2,
+          "classroom": "3-501"
+        }
+      ]
+    ],
+    "textbook": "太田愛之、川口浩、藤井信幸『日本経済の二千年〔改訂版〕』勁草書房　2006",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "70％",
+        "detail": "正確な事実認識と論理的な叙述。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "小テスト。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "西洋経済史　02",
+    "professor": "内田　日出海",
+    "time": "秋学期  01:月2時限／02:月3時限",
+    "category": "基礎分野：必修以外",
+    "target_grade": 2,
+    "credit": 4,
+    "classroom": "01:3-501／02:3-501",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "経済史",
+    "field_small": "経済史",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 2,
+          "classroom": "3-501"
+        },
+        {
+          "day": 1,
+          "period": 3,
+          "classroom": "3-501"
+        }
+      ]
+    ],
+    "textbook": "朝倉弘教・内田日出海『ヨーロッパ経済――過去からの照射』勁草書房、2018年（改訂版第7刷）、3000円+税（ISBN:978-4--326-50233-2）\n\n講義メモ（短縮版パワーポイント・ファイル）を事前にコースナヴィ上にアップするとともに、同じものを印刷して別紙資料とともに教場で配布します（ただし空欄付きのパワーポイント・ファイル）。\n講義メモは基本的に教科書に準じたものですが、その枠を超えた内容を含むことが多々あります。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "中間の筆記試験(40%)、学期末の筆記試験(40%)"
+      },
+      {
+        "name": "レポート",
+        "rate": "10％",
+        "detail": "2回提出"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "8％",
+        "detail": "授業への参加の度合い（出席状況、授業態度など）"
+      },
+      {
+        "name": "その他",
+        "rate": "2％",
+        "detail": "各授業後のレビューの内容など"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "アジア経済史　01",
+    "professor": "本野　英一",
+    "time": "秋学期  01:火2時限／02:水2時限",
+    "category": "基礎分野：必修以外",
+    "target_grade": 2,
+    "credit": 4,
+    "classroom": "01:3-406／02:3-404",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "経済史",
+    "field_small": "経済史",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "3-406"
+        },
+        {
+          "day": 3,
+          "period": 2,
+          "classroom": "3-404"
+        }
+      ]
+    ],
+    "subtitle": "「グローバル経済」形成以降のアジア大陸の社会構造",
+    "textbook": "特に指定しない。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "35％",
+        "detail": "後半の内容に基づく期末試験。"
+      },
+      {
+        "name": "レポート",
+        "rate": "35％",
+        "detail": "前半の内容にもとづくレポートを提出させる。Course N@viで提出させる。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "各章毎に行う討論課題に対するコメント内容を審査する。Course N@viを通じて送られて来たコメントの内容が優れている学生には、毎回5天満点で評価を与える。単なる講義内容の要約や感想しか送らない場合は、3点以下。これは一人20点満点。"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "特になし。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "財政学　01",
+    "professor": "馬場　義久",
+    "time": "秋学期  01:火4時限／02:金4時限",
+    "category": "応用分野",
+    "target_grade": 2,
+    "credit": 4,
+    "classroom": "01:3-501／02:3-302",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "財政学・公共経済学・経済政策",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "3-501"
+        },
+        {
+          "day": 5,
+          "period": 4,
+          "classroom": "3-302"
+        }
+      ]
+    ],
+    "textbook": "特定の教科書は使用しない。代わりにレジメをもとに講義する。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "定期試験を行う。講義内容について的確に理解しているか、さらに、自分自身で\n十分に考察しているか否か、を評価する。"
+      },
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "課題は第12回ごろの授業で提示し、あわせてCourse N@viで知らせる。与えられた課題を講義内容の視点と絡めて深く考察しているかどうかを評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "金融論　01",
+    "professor": "折原　正訓",
+    "time": "春学期  01:土4時限／02:土5時限",
+    "category": "応用分野",
+    "target_grade": 2,
+    "credit": 4,
+    "classroom": "01:3-301／02:3-301",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "金融論・ファイナンス",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 6,
+          "period": 4,
+          "classroom": "3-301"
+        },
+        {
+          "day": 6,
+          "period": 5,
+          "classroom": "3-301"
+        }
+      ]
+    ],
+    "textbook": "なし\n講義スライドを準備します。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "70％",
+        "detail": "講義内容の理解を確認します。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "毎回の出席を前提とします。出席回数が2/3に満たない場合、期末試験は受けられません。\n受講生数がそれほど多くなければ、学生をランダムに指名し質問に答えてもらう予定です。\n受講生からの積極的なコメントを平常点に加点します。平常点が顕著に高い場合、期末試験を免除します。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "社会政策　01",
+    "professor": "白木　三秀",
+    "time": "春学期  01:月2時限／02:木2時限",
+    "category": "応用分野",
+    "target_grade": 2,
+    "credit": 4,
+    "classroom": "01:3-401／02:3-302",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "応用経済学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 2,
+          "classroom": "3-401"
+        },
+        {
+          "day": 4,
+          "period": 2,
+          "classroom": "3-302"
+        }
+      ]
+    ],
+    "subtitle": "内部労働市場、人的資源管理の視点も入れながら",
+    "textbook": "講義の中で以下の文献を用いる。白木三秀編著『人的資源管理の力』（文眞堂、 2018年）、白木三秀編著『グローバル・マネジャーの育成と評価』（早稲田大学出版部、 2014年）。\n他は授業中、適宜、紹介する。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "70％",
+        "detail": "講義の理解度を中心に設問を作成し、その達成度を評価する。数回の小テストと期末テストからなる。"
+      },
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "時間制約等の関係で、講義で取り上げたり、十分深めたりすることが出来ない課題を数回、自分で調べ考察してもらうが、書いたものの緻密さとかけた労力の大きさを基準に評価する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "0％",
+        "detail": "特になし。"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "特になし。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "社会政策　02",
+    "professor": "白木　三秀",
+    "time": "秋学期  01:月2時限／02:木2時限",
+    "category": "応用分野",
+    "target_grade": 2,
+    "credit": 4,
+    "classroom": "01:3-302／02:3-302",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "応用経済学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 2,
+          "classroom": "3-302"
+        },
+        {
+          "day": 4,
+          "period": 2,
+          "classroom": "3-302"
+        }
+      ]
+    ],
+    "subtitle": "内部労働市場、人的資源管理の視点も入れながら",
+    "textbook": "講義の中で以下の文献を用いる。白木三秀編著『人的資源管理の力』（文眞堂、 2018年）、および白木三秀編著『グローバル・マネジャーの育成と評価』(早稲田大学出版部、2014年)。他は授業中、適宜、紹介する。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "70％",
+        "detail": "講義の理解度を中心に設問を作成し、その達成度を評価する。小テスト数回と期末試験を行う。"
+      },
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "時間制約等の関係で、講義で取り上げたり、十分深めたりすることが出来ない課題を、自分で調べ考察してもらうレポート課題数回を出し、その緻密さとかけた労力の大きさを基準に評価する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "0％",
+        "detail": "特になし。"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "特になし。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "産業エコロジーA　01",
+    "professor": "中村　慎一郎",
+    "time": "春学期  水1時限",
+    "category": "基礎分野：必修以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-704",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論・計量経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 1,
+          "classroom": "3-704"
+        }
+      ]
+    ],
+    "subtitle": "持続可能性を定量的に考える",
+    "textbook": "なし",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "成績"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "理解度把握のため小テストを不定期に行う"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "産業エコロジーB　01",
+    "professor": "中村　慎一郎",
+    "time": "秋学期  水1時限",
+    "category": "基礎分野：必修以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-405",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論・計量経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 1,
+          "classroom": "3-405"
+        }
+      ]
+    ],
+    "subtitle": "環境産業連関分析の応用",
+    "textbook": "なし",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "成績"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "理解度把握のため小テストを不定期に行う"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "計量経済学　01",
+    "professor": "近藤　康之",
+    "time": "春学期  01:火2時限／02:無フルOD",
+    "category": "基礎分野：必修以外",
+    "target_grade": 2,
+    "credit": 4,
+    "classroom": "3-601",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "経済統計・計量経済学",
+    "level": "中級レベル（発展・応用）",
+    "form": "対面／オンデマンド",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "3-601"
+        }
+      ]
+    ],
+    "textbook": "Jeffrey M. Wooldridge (2016) CTE Introductory Econometrics: A Modern Approach with MindTap (One-year Online Access), 6th edition, Cengage Learning ISBN: 9789814780216\n【注意】アジア向けのCTE版（2分冊の冊子版と電子版・学習システムの組合せ）が特価で早大生協において販売されます。この本を購入済みで、電子版の有効期限が切れている人は担当教員に相談してください。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "筆記試験を実施します。授業の内容全般についての理解度を評価します。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "オンデマンド授業の理解度を確認する小テストと参加型授業への貢献を評価します。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "開発経済学　01",
+    "professor": "深川　由起子",
+    "time": "春学期  01:月2時限／02:木2時限",
+    "category": "応用分野",
+    "target_grade": 3,
+    "credit": 4,
+    "classroom": "01:3-405／02:3-405",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "国際経済学・開発経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 2,
+          "classroom": "3-405"
+        },
+        {
+          "day": 4,
+          "period": 2,
+          "classroom": "3-405"
+        }
+      ]
+    ],
+    "subtitle": "経済開発とは何かを考える",
+    "textbook": "ジェトロ・アジア経済研究所編｢テキストブック開発経済学｣(2015)　有斐閣ブックス\n下村恭民・辻一人・稲田十一・深川由起子(2016)｢国際協力第3版--新しい潮流｣有斐閣選書",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "70％",
+        "detail": "問題について理解し、過不足なく論理的な整理ができているか"
+      },
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "自分の問題意識に基づき、積極的に研究し、議論に参加できたか。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済数学　01",
+    "professor": "安達　剛",
+    "time": "秋学期  月3時限",
+    "category": "関連分野",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-406",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論経済学・経済思想",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 3,
+          "classroom": "3-406"
+        }
+      ]
+    ],
+    "subtitle": "最適化数学の経済学への応用",
+    "textbook": "永田 良，田中 久稔　「 経済数学 (経済学教室) 」　培風館",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "教場試験を実施します．試験問題は事前に発表されます．"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "社会主義経済学　01",
+    "professor": "佐藤　良一",
+    "time": "秋学期  01:月3時限／02:月4時限",
+    "category": "基礎分野：必修以外",
+    "target_grade": 3,
+    "credit": 4,
+    "classroom": "01:3-801／02:3-801",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論・計量経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 3,
+          "classroom": "3-801"
+        },
+        {
+          "day": 1,
+          "period": 4,
+          "classroom": "3-801"
+        }
+      ]
+    ],
+    "subtitle": "資本主義を〈批判的〉に理解する",
+    "textbook": "特に指定しない",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "70％",
+        "detail": "前半を終えた段階での中間試験と学期末試験"
+      },
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "授業内に適宜レポート課題を与える。授業内完結。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "公共経済学　01",
+    "professor": "安達　剛",
+    "time": "春学期  01:月3時限／02:月4時限",
+    "category": "応用分野",
+    "target_grade": 3,
+    "credit": 4,
+    "classroom": "01:15-201／02:15-201",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "財政学・公共経済学・経済政策",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 3,
+          "classroom": "15-201"
+        },
+        {
+          "day": 1,
+          "period": 4,
+          "classroom": "15-201"
+        }
+      ]
+    ],
+    "textbook": "須賀晃一編『公共経済学講義－理論から政策へ』有斐閣",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "中間試験と期末試験の合計点によって評価します。"
+      },
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "宿題を課します（複数回）。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "10％",
+        "detail": "授業への積極的な参加を評価します"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "現代日本経済史　01",
+    "professor": "大森　一宏",
+    "time": "春学期  01:金2時限／02:金3時限",
+    "category": "基礎分野：必修以外",
+    "target_grade": 3,
+    "credit": 4,
+    "classroom": "01:3-602／02:3-602",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "経済史",
+    "field_small": "経済史",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 2,
+          "classroom": "3-602"
+        },
+        {
+          "day": 5,
+          "period": 3,
+          "classroom": "3-602"
+        }
+      ]
+    ],
+    "subtitle": "日本的経済システムの形成と展開",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "定期試験は小論文形式とし、その採点においては、設問に対して的確に解答しているか否か重視する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "講義内容の理解度の深浅で評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "現代西洋経済史　01",
+    "professor": "篠永　宣孝",
+    "time": "秋学期  01:水3時限／02:水4時限",
+    "category": "基礎分野：必修以外",
+    "target_grade": 3,
+    "credit": 4,
+    "classroom": "01:3-602／02:3-602",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "経済史",
+    "field_small": "経済史",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 3,
+          "classroom": "3-602"
+        },
+        {
+          "day": 3,
+          "period": 4,
+          "classroom": "3-602"
+        }
+      ]
+    ],
+    "subtitle": "19世紀ヨーロッパから20世紀アメリカへの経済覇権の転換",
+    "textbook": "特になし。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "試験"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "10％",
+        "detail": "小テストを行う場合がある。"
+      },
+      {
+        "name": "その他",
+        "rate": "10％",
+        "detail": "主体的な授業参加度を重視する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "現代アジア経済史　01",
+    "professor": "角崎　信也",
+    "time": "秋学期  01:水4時限／02:水5時限",
+    "category": "基礎分野：必修以外",
+    "target_grade": 3,
+    "credit": 4,
+    "classroom": "01:3-302／02:3-302",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "経済史",
+    "field_small": "経済史",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 4,
+          "classroom": "3-302"
+        },
+        {
+          "day": 3,
+          "period": 5,
+          "classroom": "3-302"
+        }
+      ]
+    ],
+    "subtitle": "中国経済の近現代史",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "計2回の考査（論述問題）において、講義内容を理解した上で、自分なりの考えを論理的に表現できる。"
+      },
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "毎回の講義のミニ・レポートにおいて、講義内容を理解した上で、自分なりの考えを論理的に表現できる。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "日本経済思想史　01",
+    "professor": "川口　浩",
+    "time": "秋学期  01:木2時限／02:金2時限",
+    "category": "基礎分野：必修以外",
+    "target_grade": 3,
+    "credit": 4,
+    "classroom": "01:3-301／02:3-301",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "経済史",
+    "field_small": "経済史",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 2,
+          "classroom": "3-301"
+        },
+        {
+          "day": 5,
+          "period": 2,
+          "classroom": "3-301"
+        }
+      ]
+    ],
+    "textbook": "川口浩、石井寿美世、ベティーナ・グラムリヒ=オカ、劉群芸『日本経済思想史　江戸から昭和』、勁草書房、2015年",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "70％",
+        "detail": "定期試験"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "小テスト"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "労働経済学　01",
+    "professor": "村上　由紀子",
+    "time": "春学期  01:火2時限／02:金2時限",
+    "category": "応用分野",
+    "target_grade": 3,
+    "credit": 4,
+    "classroom": "01:3-401／02:3-401",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "労働経済学・医療経済学・教育経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "3-401"
+        },
+        {
+          "day": 5,
+          "period": 2,
+          "classroom": "3-401"
+        }
+      ]
+    ],
+    "textbook": "授業中に指示する。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "中間と学期末の両試験の得点を合計する。両試験のウエイトは同じである。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "出席点\n必要に応じて授業中に宿題を出す"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "産業組織論　01",
+    "professor": "堀内　俊洋",
+    "time": "春学期  01:火3時限／02:金3時限",
+    "category": "応用分野",
+    "target_grade": 3,
+    "credit": 4,
+    "classroom": "01:3-301／02:3-301",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "産業組織論・法と経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "3-301"
+        },
+        {
+          "day": 5,
+          "period": 3,
+          "classroom": "3-301"
+        }
+      ]
+    ],
+    "subtitle": "企業の行動を念頭に置いたミクロ応用経済学と政策論",
+    "textbook": "なし",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "授業内容の理解の確認のために最終の30回目に1時間のテストを実施。配分は50％。\n前半の15回目の当日に実施する1時間のテスト。配分は50％。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "社会保障論　01",
+    "professor": "于　洋",
+    "time": "春学期  01:月4時限／02:月5時限",
+    "category": "応用分野",
+    "target_grade": 3,
+    "credit": 4,
+    "classroom": "01:3-501／02:3-501",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "労働経済学・医療経済学・教育経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 4,
+          "classroom": "3-501"
+        },
+        {
+          "day": 1,
+          "period": 5,
+          "classroom": "3-501"
+        }
+      ]
+    ],
+    "textbook": "土田武史編著（2015）、『社会保障論』成文堂。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "期末試験の成績評価"
+      },
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "感想文や課題レポートへの評価"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "出席状況と授業への参加度"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "国際金融理論　01",
+    "professor": "竹田　憲史",
+    "time": "秋学期  水1時限",
+    "category": "応用分野",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-302",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "国際経済学・開発経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 1,
+          "classroom": "3-302"
+        }
+      ]
+    ],
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "70％",
+        "detail": "試験"
+      },
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "レポート"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "国際貿易理論　01",
+    "professor": "岡村　誠",
+    "time": "秋学期  金3時限",
+    "category": "応用分野",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-402",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "国際経済学・開発経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 3,
+          "classroom": "3-402"
+        }
+      ]
+    ],
+    "textbook": "国際経済学　国際貿易編　ミネルバ書房",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "期末試験1回"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "日本経済論　01",
+    "professor": "上田　晃三",
+    "time": "秋学期  水2時限",
+    "category": "応用分野",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-401",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "応用経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 2,
+          "classroom": "3-401"
+        }
+      ]
+    ],
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "最終試験のみ"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "外国書講読（英）A　02",
+    "professor": "長江　亮",
+    "time": "春学期  木4時限",
+    "category": "関連分野",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-405",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "経済学一般",
+    "field_small": "経済学一般",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-405"
+        }
+      ]
+    ],
+    "subtitle": "経済学の研究を学ぶ",
+    "textbook": "各テーマごとに、使用する資料をコピーして配布する。論文に関しては、初回のオリエンテーションでリーディングリストの形で配布し、ダウンロードの方法も含めて解説します。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "講義で取り上げたテーマで関心のあるものについて、報告内容と授業での議論を踏まえ、自分で論題を立てるレポートを課します。テーマは自分が報告したものでも構いません。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "授業・議論への参加等。"
+      },
+      {
+        "name": "その他",
+        "rate": "50％",
+        "detail": "報告の内容・方法。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "外国書講読（英）B　02",
+    "professor": "長江　亮",
+    "time": "秋学期  木4時限",
+    "category": "関連分野",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-404",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "経済学一般",
+    "field_small": "経済学一般",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-404"
+        }
+      ]
+    ],
+    "subtitle": "経済学の研究を学ぶ",
+    "textbook": "各テーマごとに、使用する資料をコピーして配布する。論文に関しては、初回のオリエンテーションでリーディングリストの形で配布し、ダウンロードの方法も含めて解説します。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "講義で取り上げたテーマを一つ選択し、報告内容と議論をまとめ、自分で論題を立てるレポートを義務付けます。選択するテーマは自分の報告したテーマで構いません。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "授業・議論への参加等。"
+      },
+      {
+        "name": "その他",
+        "rate": "50％",
+        "detail": "報告の内容・方法。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "ファイナンス　01",
+    "professor": "山本　竜市",
+    "time": "秋学期  01:月3時限／02:木3時限",
+    "category": "応用分野",
+    "target_grade": 3,
+    "credit": 4,
+    "classroom": "01:3-404／02:3-701",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "金融論・ファイナンス",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 3,
+          "classroom": "3-404"
+        },
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-701"
+        }
+      ]
+    ],
+    "textbook": "\"Investments and Portfolio Management,\" or \"Investments\" by Bodie, Kane, Marcus (BKM).",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "90％",
+        "detail": "授業内容の理解度を評価します。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "10％",
+        "detail": "授業中の討論内容などを評価します。"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "宿題 授業で習ったことの復習を兼ね、ファイナンス理論の応用力を身につける目的があります。学生は宿題の解答を提出する必要はありません。宿題の解答は採点しません。しかし、定期試験の準備としてまじめに宿題に取り組むことを勧めます。できるだけ学生同士で宿題について議論してください。そして答えは自分自身で書き上げてください。答えへの理解度を自分自身で確認するためです。答えは公開します。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "都市経済学A　01",
+    "professor": "高橋　孝明",
+    "time": "春学期  木3時限",
+    "category": "応用分野",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "15-402",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "都市経済学・地域経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "15-402"
+        }
+      ]
+    ],
+    "textbook": "高橋孝明著　『都市経済学』　有斐閣　2012",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "相対評価に基づく"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "都市経済学B　01",
+    "professor": "高橋　孝明",
+    "time": "秋学期  木3時限",
+    "category": "応用分野",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "15-302",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "都市経済学・地域経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "15-302"
+        }
+      ]
+    ],
+    "textbook": "高橋孝明著　『都市経済学』　有斐閣　2012",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "相対評価に基づく"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "ゲーム理論　01",
+    "professor": "船木　由喜彦",
+    "time": "秋学期  01:月2時限／02:木2時限",
+    "category": "基礎分野：必修以外",
+    "target_grade": 2,
+    "credit": 4,
+    "classroom": "01:3-401／02:3-401",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論経済学・経済思想",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 2,
+          "classroom": "3-401"
+        },
+        {
+          "day": 4,
+          "period": 2,
+          "classroom": "3-401"
+        }
+      ]
+    ],
+    "subtitle": "ゲーム理論の確実な知識の修得：講義と演習",
+    "textbook": "船木由喜彦『ゲーム理論講義』新世社（2012年）\n　船木由喜彦『演習ゲーム理論』新世社（2004年）",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "85％",
+        "detail": "中間試験と期末試験の合計点で評価する。"
+      },
+      {
+        "name": "レポート",
+        "rate": "15％",
+        "detail": "講義中に6回程度のレポート課題を課す。その内容によって試験に加点する。また出席点としてもカウントする。"
+      },
+      {
+        "name": "その他",
+        "rate": "",
+        "detail": "出席点やアンケート点も若干加点する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経営学　01",
+    "professor": "榊原　清則",
+    "time": "春学期  木1時限",
+    "category": "応用分野",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "15-101",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経営学",
+    "field_middle": "経営学",
+    "field_small": "概論",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 1,
+          "classroom": "15-101"
+        }
+      ]
+    ],
+    "textbook": "榊原清則著『経営学入門[上][下]<第2版>』日経文庫",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "（A)授業でとりあげた論点と議論の内容、及び（B)教科書で書かれてあることを正しく理解していれば、アベレージの評価を得ることができる。それ以下の場合は、アベレージを下回る評価となる。\n　授業でとりあげた論点と議論の内容、及び教科書で書かれてあることを正しく理解し、（C)その上になお独自の立論をプラス・アルファしている場合には、アベレージを上回る評価となる。\n　A+B+Cが総合評価である。年々わずかづつながらAのウエートを大きくしている。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "基礎会計学　01",
+    "professor": "山内　暁",
+    "time": "秋学期  01:火3時限／02:金3時限",
+    "category": "応用分野",
+    "target_grade": 1,
+    "credit": 4,
+    "classroom": "01:3-601／02:3-601",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "会計学",
+    "field_middle": "会計学",
+    "field_small": "会計学",
+    "level": "初級レベル（入門・導入）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "3-601"
+        },
+        {
+          "day": 5,
+          "period": 3,
+          "classroom": "3-601"
+        }
+      ]
+    ],
+    "textbook": "早稲田大学会計学研究室編『基礎会計学』、2018年度版",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "2回の中間試験（合計40％）および期末試験（40％）で評価する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "提出課題および出席等に基づいて評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "基礎会計学　02",
+    "professor": "鈴木　智英",
+    "time": "秋学期  01:火4時限／02:金4時限",
+    "category": "応用分野",
+    "target_grade": 1,
+    "credit": 4,
+    "classroom": "01:11-501／02:11-501",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "会計学",
+    "field_middle": "会計学",
+    "field_small": "会計学",
+    "level": "初級レベル（入門・導入）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "11-501"
+        },
+        {
+          "day": 5,
+          "period": 4,
+          "classroom": "11-501"
+        }
+      ]
+    ],
+    "textbook": "早稲田大学会計学研究室編『基礎会計学』、2018年度版",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "2回の中間試験（合計40％）および期末試験（40％）で評価する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "提出課題および出席等に基づいて評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "基礎会計学　03",
+    "professor": "高橋　克幸",
+    "time": "秋学期  01:火5時限／02:金5時限",
+    "category": "応用分野",
+    "target_grade": 1,
+    "credit": 4,
+    "classroom": "01:3-302／02:3-302",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "会計学",
+    "field_middle": "会計学",
+    "field_small": "会計学",
+    "level": "初級レベル（入門・導入）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 5,
+          "classroom": "3-302"
+        },
+        {
+          "day": 5,
+          "period": 5,
+          "classroom": "3-302"
+        }
+      ]
+    ],
+    "textbook": "早稲田大学会計学研究室編『基礎会計学』、2018年度版",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "2回の中間試験（合計40％）および期末試験（40％）で評価する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "提出課題および出席等に基づいて評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "基礎会計学　04",
+    "professor": "山口　桂子",
+    "time": "秋学期  01:火1時限／02:金1時限",
+    "category": "応用分野",
+    "target_grade": 1,
+    "credit": 4,
+    "classroom": "01:3-402／02:3-402",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "会計学",
+    "field_middle": "会計学",
+    "field_small": "会計学",
+    "level": "初級レベル（入門・導入）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 1,
+          "classroom": "3-402"
+        },
+        {
+          "day": 5,
+          "period": 1,
+          "classroom": "3-402"
+        }
+      ]
+    ],
+    "textbook": "早稲田大学会計学研究室編『基礎会計学』、2018年度版",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "2回の中間試験（合計40％）および期末試験（40％）で評価する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "提出課題および出席等に基づいて評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "流通経済論　01",
+    "professor": "野口　智雄",
+    "time": "秋学期  金2時限",
+    "category": "応用分野",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-501",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "産業組織論・法と経済学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 2,
+          "classroom": "3-501"
+        }
+      ]
+    ],
+    "textbook": "なし",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "教場試験"
+      },
+      {
+        "name": "レポート",
+        "rate": "0％",
+        "detail": "なし"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "0％",
+        "detail": "なし"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "なし"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "環境経済学　01",
+    "professor": "功刀　祐之",
+    "time": "春学期  01:月2時限／02:水1時限",
+    "category": "応用分野",
+    "target_grade": 3,
+    "credit": 4,
+    "classroom": "01:3-404／02:3-404",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "農業経済学・環境経済学・資源経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 2,
+          "classroom": "3-404"
+        },
+        {
+          "day": 3,
+          "period": 1,
+          "classroom": "3-404"
+        }
+      ]
+    ],
+    "textbook": "前半：「入門 環境経済学」　日引聡・有村俊秀　著（中央公論新社）\n後半：「環境規制の政策評価：環境経済学の定量的　アプローチ」 有村俊秀・岩田和之著（上智大学出版会・ぎょうせい）",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "中間試験と期末試験で評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "地方財政論　01",
+    "professor": "馬場　義久",
+    "time": "春学期  01:火2時限／02:金2時限",
+    "category": "応用分野",
+    "target_grade": 3,
+    "credit": 4,
+    "classroom": "01:3-502／02:3-502",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "財政学・公共経済学・経済政策",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "3-502"
+        },
+        {
+          "day": 5,
+          "period": 2,
+          "classroom": "3-502"
+        }
+      ]
+    ],
+    "textbook": "特定の教科書は使用しない。その代わり、講義を円滑に進めるためのレジメを適宜配布する。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "定期試験を行う。授業内容全般についての理解度を評価する。"
+      },
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "課題は第12回ごろの授業で提示し、あわせてCourse N@viで知らせる。与えられた課題を講義内容の視点と絡めて深く考察しているかどうかを評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "アメリカ経済論　01",
+    "professor": "井村　進哉",
+    "time": "秋学期  月5時限",
+    "category": "関連分野",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-302",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "経済学一般",
+    "field_small": "経済学一般",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 5,
+          "classroom": "3-302"
+        }
+      ]
+    ],
+    "textbook": "特定の教科書を使わず、パワーポイントでのスライド映写と配布関連資料を使って講義を進めます。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "授業内容を要約した5つの問題文（各問題文は5つの文章群に分割）を読み、誤りを含む文章群を四肢択一で選択して解答欄に記入し、理由（どこが誤っているか、正しくはどう書くべきか）を論述する試験を行い、成績を評価します。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "ヨーロッパ経済論　01",
+    "professor": "阿部　望",
+    "time": "春学期  金4時限",
+    "category": "関連分野",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-501",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "経済学一般",
+    "field_small": "経済学一般",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 4,
+          "classroom": "3-501"
+        }
+      ]
+    ],
+    "textbook": "教科書は指定しない。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "最終試験を実施する。"
+      },
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "授業期間中に中間レポートを2回提出してもらう。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "10％",
+        "detail": "通常授業において数回講義レポートを提出してもらう。（回数は、受講者数に応じて変化する。なお履修者数が多く、講義レポートの提出が困難なケースでは、平常点評価をゼロとし、レポート評価の割合を40％とする。）"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "中国経済論　01",
+    "professor": "王　在吉",
+    "time": "秋学期  金3時限",
+    "category": "関連分野",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "15-301",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "経済学一般",
+    "field_small": "経済学一般",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 3,
+          "classroom": "15-301"
+        }
+      ]
+    ],
+    "textbook": "王在喆・宮川幸三・山田光男『日中連関構造の経済分析』勁草書房、2016年。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "期末レポート：100％。評価基準：授業内容のまとめ60%、参考文献のレビュー20%、発展的な学習20%。\n※「発展的な学習」とは、文献をレビューしたうえで、授業の内容より深く考察していることを指す。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "手形・小切手法　01",
+    "professor": "尾崎　安央",
+    "time": "秋学期  01:水2時限／02:金2時限",
+    "category": "法学",
+    "target_grade": 3,
+    "credit": 4,
+    "classroom": "01:7-207／02:8-312",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "法学",
+    "field_middle": "民事法",
+    "field_small": "民事法概論",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 2,
+          "classroom": "7-207"
+        },
+        {
+          "day": 5,
+          "period": 2,
+          "classroom": "8-312"
+        }
+      ]
+    ],
+    "subtitle": "有価証券法理と決済法",
+    "textbook": "特に指定しません。\nいくつかのテキストを紹介しますので、各自、予習または復習に活用してください。\n判例百選を使用します。2016年度は手形法に関するほぼすべての判例を取り上げました。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "90％",
+        "detail": "学期末の教場試験で作成された答案を、厳格な採点基準によって、評価します。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "10％",
+        "detail": "2016年度と同様に、コースナビで予告した日に出席をとる可能性があります（1回ないし数回）。\n進捗状況に合わせて、課題を設定して、小レポートを提出してもらうこともあります。\nそれらを平常点として評価します。\n以上の平常点評価をしないときは、試験が100％です。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "医療経済学　01",
+    "professor": "野口　晴子",
+    "time": "春学期  火4時限",
+    "category": "応用分野",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-501",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "労働経済学・医療経済学・教育経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "3-501"
+        }
+      ]
+    ],
+    "textbook": "橋本英樹・泉田信行[編](2011年)『医療経済学講義』東京大学出版会",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "試験は実施しない。"
+      },
+      {
+        "name": "レポート",
+        "rate": "60％",
+        "detail": "Excel、stata、spss, sas等の統計ソフトを用いた仮説検証を行って頂く。仮説に対する実証研究の結果とその含意について、正確に把握・理解できているか、できれば、データの収集能力や分析能力についても評価することとしたい。但し、割合（60%）については、外部講師の先生のレクチャーの有無・回数によって若干変更される可能性があるので注意すること。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "中間レポートを課す。課題については、適宜、講義開始後に指示する。但し、割合（30%）については、外部講師の先生のレクチャーの有無・回数によって若干変更される可能性があるので注意すること。"
+      },
+      {
+        "name": "その他",
+        "rate": "10％",
+        "detail": "その他の10%として、学部講師の先生を招聘した場合、レビューシートを要求することにする。但し、割合（10%）については、外部講師の先生のレクチャーの有無・回数によって若干変更される可能性があるので注意すること。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "資源・食料経済学　01",
+    "professor": "村上　智明",
+    "time": "秋学期  01:水1時限／02:水2時限",
+    "category": "応用分野",
+    "target_grade": 3,
+    "credit": 4,
+    "classroom": "01:3-602／02:3-602",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "農業経済学・環境経済学・資源経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 1,
+          "classroom": "3-602"
+        },
+        {
+          "day": 3,
+          "period": 2,
+          "classroom": "3-602"
+        }
+      ]
+    ],
+    "textbook": "荏開津典生・鈴木宣弘『農業経済学』第4版、岩波書店、2015年。\n時子山ひろみ・荏開津典男・中嶋康博『フードシステムの経済学』第5版第5刷、医歯薬出版、2015年。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "講義の理解度と応用能力を確認するために期末に試験を行う。"
+      },
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "講義内容に関連した小レポートを課す。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "講義中に理解度と出席状況確認のための小テストを出題する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "アジア経済論　01",
+    "professor": "戸堂　康之",
+    "time": "春学期  01:火3時限／02:木3時限",
+    "category": "応用分野",
+    "target_grade": 3,
+    "credit": 4,
+    "classroom": "01:3-601／02:3-203（CTLT Classroom3）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "応用経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "3-601"
+        },
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-203（CTLT Classroom3）"
+        }
+      ]
+    ],
+    "textbook": "戸堂康之（2015），『開発経済学入門』，新世社．",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "学期末に提出するレポートによって評価する（40点満点）。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "60％",
+        "detail": "出席（10％）、学生討論での資料（30％）、プレゼンテーション（20％）によって評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "人事経済学　01",
+    "professor": "大湾　秀雄",
+    "time": "秋学期  火2時限",
+    "category": "応用分野",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-502",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "労働経済学・医療経済学・教育経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "3-502"
+        }
+      ]
+    ],
+    "subtitle": "組織と人事制度の設計を考える",
+    "textbook": "講義ノート(Course N@viを通じてダウンロード可能)\n大湾秀雄「組織や人事制度を設計する」、『身近な疑問が解ける経済学』第10章、日本経済新聞社",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "45％",
+        "detail": "授業で習った概念やフレームワークを正しく理解しているか。"
+      },
+      {
+        "name": "レポート",
+        "rate": "45％",
+        "detail": "15％のケースメモを3回。授業で習った概念やフレームワークを現実に当てはめることが出来るか。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "10％",
+        "detail": "クラス討論への貢献"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "開発と環境の経済学　01",
+    "professor": "高橋　遼",
+    "time": "春学期  火1時限",
+    "category": "応用分野",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-502",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "農業経済学・環境経済学・資源経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 1,
+          "classroom": "3-502"
+        }
+      ]
+    ],
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "学期末に教場試験を実施する"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "コメントシートの記述内容（出席による配点は無い）"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "空間経済学　01",
+    "professor": "齊藤　有希子",
+    "time": "秋学期  木2時限",
+    "category": "応用分野",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-701",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "都市経済学・地域経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 2,
+          "classroom": "3-701"
+        }
+      ]
+    ],
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "50％",
+        "detail": "論述形式"
+      },
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "学期中、学期末に2回提出するレポートによって評価する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "出席（30％）によって評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学研究　春学期(本野英一)",
+    "professor": "本野　英一",
+    "time": "春学期  水2時限",
+    "category": "関連分野",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-606",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "経済学一般",
+    "field_small": "経済学一般",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 2,
+          "classroom": "3-606"
+        }
+      ]
+    ],
+    "subtitle": "中国近代の対外経済関係",
+    "textbook": "授業中にその都度紹介する。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "実施しない。"
+      },
+      {
+        "name": "レポート",
+        "rate": "80％",
+        "detail": "レポートは1200字以内。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "出席回数が10回以上であることが、評価の条件。"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "特になし。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学研究　春学期(近藤康之)",
+    "professor": "近藤　康之",
+    "time": "春学期  水2時限",
+    "category": "関連分野",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-701",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "経済学一般",
+    "field_small": "経済学一般",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 2,
+          "classroom": "3-701"
+        }
+      ]
+    ],
+    "subtitle": "貿易、環境、経済効果",
+    "textbook": "指定しません。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "筆記試験または論文考査を実施します。授業の内容全般についての理解度を評価します。"
+      },
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "学期中に2回～3回程度の宿題を課す予定です。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学研究　春学期(篠塚友一)",
+    "professor": "篠塚　友一",
+    "time": "春学期  金4時限",
+    "category": "関連分野",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-405",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "経済学一般",
+    "field_small": "経済学一般",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 4,
+          "classroom": "3-405"
+        }
+      ]
+    ],
+    "subtitle": "Individual and Social Choice",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "Evaluation will be based solely on the final exam during examination times."
+      },
+      {
+        "name": "レポート",
+        "rate": "0％",
+        "detail": "Reports will not be given."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "0％",
+        "detail": "Marks will not be given to class participation."
+      },
+      {
+        "name": "その他",
+        "rate": "",
+        "detail": "Exercises are given once a month. Those who register this course are expected to solve the problems. Submissions of answers are not necessary."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "株式会社みずほフィナンシャルグループ寄附講座　総合金融グループのビジネスと戦略",
+    "professor": "荒木　一法",
+    "time": "秋学期  火4時限",
+    "category": "学部共通科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-301",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "金融論・ファイナンス",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "3-301"
+        }
+      ]
+    ],
+    "subtitle": "みずほフィナンシャルグループ寄附講座\n総合金融グループのビジネスと戦略",
+    "textbook": "講義時にレジュメを配布する。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "90％",
+        "detail": "期末試験"
+      },
+      {
+        "name": "その他",
+        "rate": "10％",
+        "detail": "毎回実施するアンケートによる。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学研究　秋学期(篠塚友一)",
+    "professor": "篠塚　友一",
+    "time": "秋学期  金4時限",
+    "category": "関連分野",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-704",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "経済学一般",
+    "field_small": "経済学一般",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 4,
+          "classroom": "3-704"
+        }
+      ]
+    ],
+    "subtitle": "Dynamic Macroeconomics",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "Evaluation will be based on the final exam during the examination period."
+      },
+      {
+        "name": "レポート",
+        "rate": "0％",
+        "detail": "Reports will not be given."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "0％",
+        "detail": "Marks will not be given to class participation."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Corporate Case Study: A Pharmaceutical Company",
+    "professor": "森本　真理子",
+    "time": "秋学期  水4時限",
+    "category": "学部共通科目",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "11-502",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経営学",
+    "field_middle": "経営学",
+    "field_small": "経営戦略",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 4,
+          "classroom": "11-502"
+        }
+      ]
+    ],
+    "textbook": "Ireland, R. D., Hoskisson, R. E., & Hitt, M.A. (2012). Understanding Business Strategy: Concept Plus, 3rd ed. plus CourseMate, Cengage Learning.\n\nYou need the textbook to complete online assignments.\n\nPurchase a copy at Campus Bookstore. You must purchase a correct edition to have access to the online assignments. Purchasing the textbook elsewhere (e.g. amazon.com) is not recommended.\n\nAdditional readings will be announced/provided in class.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "15％",
+        "detail": "In-class closed book exam"
+      },
+      {
+        "name": "レポート",
+        "rate": "5％",
+        "detail": "Assignments"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "Attendance is mandatory. Active participation and class preparation is required."
+      },
+      {
+        "name": "その他",
+        "rate": "50％",
+        "detail": "Business Simulation at Takeda Headquarter　(Group Work)\nNote: No special accommodation will be made regardless of the situation since this assignment will take place off-campus and involve a subcontractor for administration."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学研究　春学期(小枝淳子)",
+    "professor": "小枝　淳子",
+    "time": "春学期  火3時限",
+    "category": "関連分野",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-901（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "経済学一般",
+    "field_small": "経済学一般",
+    "level": "総仕上げ",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "3-901（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "subtitle": "Applications to the Japanese Economy",
+    "textbook": "Stock and Watson, Introduction to Econometrics, Addison-Wesley, 3rd Edition (International Edition)"
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学研究　秋学期(河村耕平)",
+    "professor": "河村　耕平",
+    "time": "秋学期  金4時限",
+    "category": "関連分野",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-406",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "経済学一般",
+    "field_small": "経済学一般",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 4,
+          "classroom": "3-406"
+        }
+      ]
+    ],
+    "subtitle": "Advanced Topics in Microeconomic Theory A",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "Class participation and presentations."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学研究　秋学期(菊地和也)",
+    "professor": "菊地　和也",
+    "time": "秋学期  水3時限",
+    "category": "関連分野",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-809",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "経済学一般",
+    "field_small": "経済学一般",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 3,
+          "classroom": "3-809"
+        }
+      ]
+    ],
+    "subtitle": "Probability Theory",
+    "textbook": "Chapters 1-3 of Sheldon Ross (2014), Introduction to Probability Models, 11th Edition, Academic Press.\n(Students have institutional access to a pdf copy of this book via Waseda University Library.)",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "Homework assignments"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "Exercises in class"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学研究　秋学期(片山宗親)",
+    "professor": "片山　宗親",
+    "time": "秋学期  水2時限",
+    "category": "関連分野",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-609（演習室）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "経済学一般",
+    "field_small": "経済学一般",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 2,
+          "classroom": "3-609（演習室）"
+        }
+      ]
+    ],
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "70％",
+        "detail": "詳細は授業中に指示をする。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "積極的に質問することは、より効果的な講義とより良い理解に必要であるため、能動的な授業参加が期待される。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学研究　秋学期(チェスノコヴァ　タチアナ)",
+    "professor": "チェスノコバ　タチャナ",
+    "time": "秋学期  水4時限",
+    "category": "関連分野",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-601",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "国際経済学・開発経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 4,
+          "classroom": "3-601"
+        }
+      ]
+    ],
+    "subtitle": "Development Economics",
+    "textbook": "I will use the following books:\n\n1. Ray, Debraj. Development Economics. Princeton, NJ: Princeton University Press, 1998.\n\n2. Understanding Poverty, A. Banerjee, R. Benabou, and D. Mookherjee, editors, Oxford University Press: March 2006\n\n\n3. Banerjee, Abhijit V., and Esther Duflo. Poor Economics: Rethinking Poverty and the Ways to End it. Random House, 2013",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "75％",
+        "detail": "25% Midterm test and 50% Final Exam"
+      },
+      {
+        "name": "レポート",
+        "rate": "15％",
+        "detail": "Research essay"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "10％",
+        "detail": "Weekly home assignments"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学研究　春学期(河村耕平)",
+    "professor": "河村　耕平",
+    "time": "春学期  金4時限",
+    "category": "関連分野",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-809",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "経済学一般",
+    "field_small": "経済学一般",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 4,
+          "classroom": "3-809"
+        }
+      ]
+    ],
+    "subtitle": "Advanced Topics in Microeconomic Theory B",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "Attendance, class participation and presentations."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学研究　秋学期(高橋遼)",
+    "professor": "高橋　遼",
+    "time": "秋学期  木4時限",
+    "category": "関連分野",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-406",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "経済学一般",
+    "field_small": "経済学一般",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-406"
+        }
+      ]
+    ],
+    "subtitle": "アフリカ経済論",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "課題レポートの提出"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "授業での発言や発表（出席による配点は無い）"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学研究　春学期(タギ　ザーデ　ヘサーリ　ファルハード)",
+    "professor": "タギ　ザーデ　ヘサーリ　ファルハード",
+    "time": "春学期  月3時限",
+    "category": "関連分野",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-406",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "経済学一般",
+    "field_small": "経済学一般",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 3,
+          "classroom": "3-406"
+        }
+      ]
+    ],
+    "subtitle": "Energy Economics, Environment and Policy",
+    "textbook": "“Monetary Policy and the Oil prices” (2016). N. Yoshino and F. Taghizadeh-Hesary. eds. Tokyo: Springer",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "50％",
+        "detail": "Midterm exam\nThere will be a midterm exam. The purpose of the exam is to provide an opportunity for reflection on readings and lecture materials and to facilitate integration of the course concepts. Students are welcome to use the course readings and lecture notes to complete the exam but MUST work independently.\nFinal exam\nThere will be a final exam, and the reference of questions in the final exam is lecture materials of the class. Students are welcome to use the course readings and lecture notes to complete the exam but MUST work independently."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "Class participation\nActive participation in the class is mandatory. All students will write summary of the class lecture and will submit at the end of each class, there is 15 minutes’ time for this purpose."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学研究　秋学期(タギ　ザーデ　ヘサーリ　ファルハード)",
+    "professor": "タギ　ザーデ　ヘサーリ　ファルハード",
+    "time": "秋学期  金2時限",
+    "category": "関連分野",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-710",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "経済学一般",
+    "field_small": "経済学一般",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 2,
+          "classroom": "3-710"
+        }
+      ]
+    ],
+    "subtitle": "Applied Macroeconomics",
+    "textbook": "Dornbusch, R., S. Fischer. Macroeconomics. (McGraw-Hill)",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "50％",
+        "detail": "Midterm exam\nThere will be a midterm exam. The purpose of the exam is to provide an opportunity for reflection on readings and lecture materials, and to facilitate integration of the concepts explained in class. Students are welcome to use the course readings and lecture notes to complete the exam but MUST work independently.\nFinal exam\nThere will be a final exam, and the references for questions in the final exam are lecture materials of the class."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "Class participation\nActive participation in class is mandatory. All students will write a summary of the class lectures and will submit it at the end of each session. The last 15 minutes of each class will be allocated for this purpose."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学研究　秋学期(定行泰甫)",
+    "professor": "定行　泰甫",
+    "time": "秋学期  水4時限",
+    "category": "関連分野",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-902（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "経済学一般",
+    "field_small": "経済学一般",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 4,
+          "classroom": "3-902（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "subtitle": "パネルデータ分析の理論と実践",
+    "textbook": "Wooldridge Introductory Econometrics 5th edition",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "35％",
+        "detail": "期末試験、研究起案書の提出及び発表によって総合的に評価"
+      },
+      {
+        "name": "レポート",
+        "rate": "65％",
+        "detail": "課題1（15％）、課題2（25％）、課題3（25％）の提出。課題2と課題3は発表を含む。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ経済学演習 (笠松学)",
+    "professor": "笠松　学",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "授業に毎回参加して活発に議論加わる。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ経済学演習 (中村愼一郎)",
+    "professor": "中村　慎一郎",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "産業エコロジー",
+    "textbook": "なし",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "少なくとも2回，指示された課題についてレポートを提出すること。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ経済学演習 (川口浩)",
+    "professor": "川口　浩",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "身近な出来事を通して現在と歴史のつながりを体感する。",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "積極的な学習姿勢。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ経済学演習 (村上由紀子)",
+    "professor": "村上　由紀子",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "「労働」に関する研究",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "80％",
+        "detail": "学期末のレポート課題"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "出席、授業中のプレゼンテーション"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ経済学演習 (白木三秀)",
+    "professor": "白木　三秀",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "労働の国際比較研究",
+    "textbook": "その都度紹介する。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "特になし。"
+      },
+      {
+        "name": "レポート",
+        "rate": "0％",
+        "detail": "特になし。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "熱心な参加がすべてである。"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "特になし。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ経済学演習 (荻沼隆)",
+    "professor": "荻沼　隆",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "textbook": "岡田章「ゲーム理論・入門　人間社会の理解のために　新版」　有斐閣アルマ　2014年",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "60％",
+        "detail": "課題レポートを提出してもらい、それについて評価する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "議論への参加などを考慮して評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ経済学演習 (船木由喜彦)",
+    "professor": "船木　由喜彦",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "ゲーム理論と実験経済学",
+    "textbook": "担当教員の配付する資料またはテキストを用います。",
+    "evaluation_method": [
+      {
+        "name": "その他",
+        "rate": "100％",
+        "detail": "ミーティング、卒業論文発表会の出席、レポート課題得点を総合的に判断する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ経済学演習 (荒木一法)",
+    "professor": "荒木　一法",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "textbook": "教材は、メンバーが確定してから決定します。昨年度は、前FRB議長、B．バーナンキ氏が実施した金融危機に関する4回にわらる連続講義の内容を要約して発表してもらいました。バーナンキ氏の講義（動画）と講義使用は以下のURLで閲覧できます。\nhttps://www.federalreserve.gov/aboutthefed/educational-tools/chairmans-lecture-series-about.htm",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "試験は実施しません。"
+      },
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "指定された文献の書評を評価します。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "春合宿でのプレゼンテーションを評価します。"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "特になし。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ経済学演習 (上田貴子)",
+    "professor": "上田　貴子",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "経済データ解析",
+    "textbook": "なし",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "期末レポート"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ経済学演習 (近藤康之)",
+    "professor": "近藤　康之",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "貿易、環境、経済効果の計量分析",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "文献選択、グループワーク、成果発表への貢献を総合的に評価します。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ経済学演習 (田中久稔)",
+    "professor": "田中　久稔",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "数学的文書の作成方法",
+    "textbook": "奥村晴彦，黒木裕介　『LaTeX2ε美文書作成入門（改訂第7版）』　技術評論社",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "提出状況と内容に応じて採点します．"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ経済学演習 (金子昭彦)",
+    "professor": "金子　昭彦",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "",
+    "field_middle": "",
+    "field_small": "",
+    "level": "",
+    "form": "",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "中間レポートと最終レポートをもって評価します．"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ経済学演習 (有村俊秀)",
+    "professor": "有村　俊秀",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ経済学演習 (小倉義明)",
+    "professor": "小倉　義明",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "金融の予備知識",
+    "textbook": "Mishkin, F.S., The Economics of Money, Banking and Financial Markets, Global Ed. of 11th revised Ed., 2015. (中古、Kindle版も可)",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "グループごとに指定されたテーマのレポートを別途指定する期限までに提出する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ経済学演習 (河村耕平)",
+    "professor": "河村　耕平",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "2～4回のエッセイ提出"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "プレゼンテーション、フィードバックセッションでのディスカッション等"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ経済学演習 (安達剛)",
+    "professor": "安達　剛",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "経済学を社会問題に応用する力を身に付ける",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "討議への参加度合と、輪読で使用するテキストの読み込み度合で評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ経済学演習 (大湾秀雄)",
+    "professor": "大湾　秀雄",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "企業分析のための基礎知識",
+    "textbook": "ジョアン・マグレッタ、『マイケル・ポーターの競争戦略』 、早川書房\n大湾秀雄「組織や人事制度を設計する」、『身近な疑問が解ける経済学』第10章、日本経済新聞社",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "輪読の発表内容と討論への参加"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ経済学演習 (星野匡郎)",
+    "professor": "星野　匡郎",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "ミクロ計量経済学",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "授業出席，発表，議論への参加"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ経済学演習 (片山宗親)",
+    "professor": "片山　宗親",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "マクロ経済分析",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "プレゼンテーションの出来やディスカッションへの参加に基づく"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ経済学演習 (齊藤有希子)",
+    "professor": "齊藤　有希子",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "空間経済学",
+    "textbook": "適宜指示する。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "学期中、学期末に2回提出するレポートによって評価する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "70％",
+        "detail": "自身の研究発表および他人の発表に対する質問・コメントを評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ経済学演習 (内藤巧)",
+    "professor": "内藤　巧",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "国際貿易理論",
+    "textbook": "Markusen, J. R., et al., 1995. International Trade: Theory and Evidence. McGraw-Hill, New York. (now out of print, but freely downloadable at the first author's website: [http://spot.colorado.edu/~markusen/textbook.html].)",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "4章分の章末問題への答案の出来で評価する．"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 I (笠松学)",
+    "professor": "笠松　学",
+    "time": "春学期  金5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-808",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 5,
+          "classroom": "3-808"
+        }
+      ]
+    ],
+    "subtitle": "経済成長と所得分配",
+    "textbook": "春学期は、主に基礎的な知識を身に付けるために充てることが多い。\n　\n　その際に、どのようなテキストを使用するかは参加者と相談して決める予定。",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "演習に参加し、報告をしたり議論をしたりする。\n適宜、エッセイを書き、課題を完成させる。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 I (永田良)",
+    "professor": "永田　良",
+    "time": "春学期  火4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "4-204演習室",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "4-204演習室"
+        }
+      ]
+    ],
+    "subtitle": "経済理論のパラダイム再考（Ⅰ）",
+    "textbook": "受講生の能力に応じて決定する",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "学んだことの確認として適宜課すレポートにどの程度正確に答えられているかどうかを見る"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "毎回行われる質疑応答により判断する"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 I (中村愼一郎)",
+    "professor": "中村　慎一郎",
+    "time": "春学期  火4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-1116実習室",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "3-1116実習室"
+        }
+      ]
+    ],
+    "subtitle": "産業エコロジー Industrial Ecology",
+    "textbook": "なし",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "",
+        "detail": "筆記試験は行わない"
+      },
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "LCAに関するレポートを作成し，演習において発表する"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "ゼミ出席は単位の条件．正当な理由なき欠席・遅刻は早稲田大学規定に従い対応する．演習への積極的参加を評価の対象とする。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 I (西郷浩)",
+    "professor": "西郷　浩",
+    "time": "春学期  火3時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-609（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "3-609（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Rによる統計分析",
+    "textbook": "教科書はゼミ生と相談して決定する。過去の教科書[1]（最初に読むテキスト）の例を挙げる。\n2017年度\n[1]末吉正成、里洋平、酒巻隆治、小林雄一郎、大城信晃(2014)『Rではじめるビジネス統計分析』翔泳社\nISBN978-4-7981-3490-1\n2016年度\n[1]J.P.Lander（高柳慎一他訳）『みんなのR』マイナビ\nISBN978-4-8399-5521-2",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "Rをもちいた統計分析のレポートについて、(1)データ、(2)分析手法、(3)分析結果、の観点から内容の妥当性を評価する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "グループ発表の準備・発表内容・質疑応答の様子を評価の対象とする。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 I (野口和也)",
+    "professor": "野口　和也",
+    "time": "春学期  水1時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-712（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 1,
+          "classroom": "3-712（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "経済分析と統計的方法",
+    "textbook": "2017年度は\n\n　金 明哲　「Rによるデータサイエンス(第2版)」　　森北出版\n\nでした．2018年度は同じテキストまたは別の同等のテキストとなる．",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "80％",
+        "detail": "習得した統計手法について，自分で収集したデータを分析し，その結果をまとめる．"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "分担による報告など．"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 I (川口浩)",
+    "professor": "川口　浩",
+    "time": "春学期  金4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-713（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 4,
+          "classroom": "3-713（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "日本経済の歴史的展開とその思想",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "積極的な授業参加。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 I (村上由紀子)",
+    "professor": "村上　由紀子",
+    "time": "春学期  火3時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-706（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "3-706（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "労働に関する研究",
+    "textbook": "授業中に指示する。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "課題の提出と内容"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "出席、授業への取り組み"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 I (白木三秀)",
+    "professor": "白木　三秀",
+    "time": "春学期  月5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-801",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 5,
+          "classroom": "3-801"
+        }
+      ]
+    ],
+    "subtitle": "労働・人的資源に関する国際比較研究",
+    "textbook": "その都度、提示する。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "実施しない。"
+      },
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "ゼミ内での発表レジュメ、企業・行政機関・専門家・個人に対するヒアリング調査結果の報告書、発表内容の質的レベルなど。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "70％",
+        "detail": "ゼミへの出席と参加度合、他の学生との課題の対する協力度合い、他の学生への指導力・影響度など。"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "特になし。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 I (荻沼隆)",
+    "professor": "荻沼　隆",
+    "time": "春学期  火5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-713（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 5,
+          "classroom": "3-713（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "不完全情報とゲームの理論を中心としたミクロ経済学",
+    "textbook": "未定。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "内容の正確さおよび問題設定・分析力を考慮する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "出席および授業への参加度、授業内での発表を総合的に考慮する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 I (船木由喜彦)",
+    "professor": "船木　由喜彦",
+    "time": "春学期  火3時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-809",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "3-809"
+        }
+      ]
+    ],
+    "subtitle": "ゲーム理論と実験経済学",
+    "textbook": "担当教員の配付する資料またはテキストを用います。",
+    "evaluation_method": []
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 I (荒木一法)",
+    "professor": "荒木　一法",
+    "time": "春学期  月4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-809",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 4,
+          "classroom": "3-809"
+        }
+      ]
+    ],
+    "subtitle": "企業と家計の行動分析（応用ミクロ経済学）",
+    "textbook": "春学期は共通のテキストを輪読します。テキストは、教員が示すリストの中から参加者と相談して決定します。\n17年度春学期は次の5点を輪読しました。\n小田切著『企業の経済学（新版）』東洋経済\n伊藤著『データ分析の力　～因果関係に迫る思考法』光文社新書\nフライ『恋愛を数学する（TEDブックス）』朝日出版社\n国定『財部3表図解分析法』朝日新書\n永井『これ、いったいどうやったら売れるんですか? 身近な疑問からはじめるマーケティング 』SB新書",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "試験は実施しません。"
+      },
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "期末レポートを評価します。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "60％",
+        "detail": "プレゼンテーションの内容とディスカッションへの貢献を評価します。"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "特にありません。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 I (本野英一)",
+    "professor": "本野　英一",
+    "time": "春学期  月2時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-604（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 2,
+          "classroom": "3-604（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "経済史的観点から見た米中、日中関係と「チャイナ・リスク」",
+    "textbook": "マイケル・オースリン『アジアの終わり：経済破局と戦争を撒き散らす5つの危機』（徳間書店、2017年）\nマイケル・ビルスペリー『China 2049: 秘密裏に遂行される『世界覇権100年戦略」』（日経BP社、2015年）",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "実施しません。"
+      },
+      {
+        "name": "レポート",
+        "rate": "0％",
+        "detail": "最後の総括討論の時に、テキストその他を踏まえて、今後どのような問題をゼミ論として取り上げたいかをレポートにまとめていただきます。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "毎回、予め決めておいた範囲を読み、その内容要約とそこからどのような問題が新たに浮かび上がるのかをまとめた報告を提出していただきます。その内容充実度で成績評価を判断します。"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "特になし。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 I (上田貴子)",
+    "professor": "上田　貴子",
+    "time": "春学期  水2時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-903（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 2,
+          "classroom": "3-903（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "subtitle": "経済データ解析",
+    "textbook": "なし",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "60％",
+        "detail": "レポート"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "出席、文献購読の報告、討論への参加、ゼミ論の報告等により評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 I (近藤康之)",
+    "professor": "近藤　康之",
+    "time": "春学期  火4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-909実習室",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "3-909実習室"
+        }
+      ]
+    ],
+    "subtitle": "貿易、環境、経済効果の計量分析",
+    "textbook": "指定しません。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "宿題、共同研究論文（予備的分析）"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "グループワーク、進捗報告のプレゼンテーション"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 I (有村俊秀)",
+    "professor": "有村　俊秀",
+    "time": "春学期  月4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-802",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 4,
+          "classroom": "3-802"
+        }
+      ]
+    ],
+    "subtitle": "環境経済学",
+    "textbook": "第1回目に提示する。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "研究論文が書けるようになる。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "毎回参加し、ゼミに積極的に参加する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 I (上田晃三)",
+    "professor": "上田　晃三",
+    "time": "春学期  火4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "7-201",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "7-201"
+        }
+      ]
+    ],
+    "subtitle": "日本の経済・物価情勢の判断と見通し",
+    "textbook": "特になし",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "プレゼン内容、グループ討議での貢献度合い、発表の内容。出席は必須。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 I (鎮目雅人)",
+    "professor": "鎮目　雅人",
+    "time": "春学期  木4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-605",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-605"
+        }
+      ]
+    ],
+    "subtitle": "世界の中における日本経済の歴史",
+    "textbook": "指定しない。",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "毎回の授業を含むゼミ活動全般への積極的参画度合い、報告の論理性、ならびにディスカッションにおける貢献"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 I (山本竜市)",
+    "professor": "山本　竜市",
+    "time": "春学期  木5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-802",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 5,
+          "classroom": "3-802"
+        }
+      ]
+    ],
+    "subtitle": "ファイナンス",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "報告、討論、出席などが評価される。レポート、宿題を課す場合もある。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 I (小枝淳子)",
+    "professor": "小枝　淳子",
+    "time": "春学期  木3時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-1116実習室",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-1116実習室"
+        }
+      ]
+    ],
+    "subtitle": "Empirical analysis of global macroeconomic and financial issues",
+    "textbook": "We apply undergraduate level of macroeconomics and money and finance to examine recent reports from international financial institutions and fiscal and monetary authorities. We often refer to textbooks used in Macroeconomics A/B and Money and Banking courses (listed below).",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": ""
+      },
+      {
+        "name": "レポート",
+        "rate": "0％",
+        "detail": ""
+      },
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": ""
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 I (河村耕平)",
+    "professor": "河村　耕平",
+    "time": "春学期  木3時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "4-205演習室",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "4-205演習室"
+        }
+      ]
+    ],
+    "subtitle": "Firms and Organizations in Japan I",
+    "textbook": "None",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "Essay(s)"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "70％",
+        "detail": "Presentation and discussion"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 I (安達剛)",
+    "professor": "安達　剛",
+    "time": "春学期  月5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "7-307",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 5,
+          "classroom": "7-307"
+        }
+      ]
+    ],
+    "subtitle": "経済学を社会問題に応用する力を身に付ける。",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "討議への参加度合と、輪読で使用するテキストの読み込み度合で評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 I (大湾秀雄)",
+    "professor": "大湾　秀雄",
+    "time": "春学期  木1時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-809",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 1,
+          "classroom": "3-809"
+        }
+      ]
+    ],
+    "subtitle": "企業分析を行う",
+    "textbook": "ジョアン・マグレッタ、『マイケル・ポーターの競争戦略』 、早川書房",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "チームプロジェクト論文"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "演習中の討論への参加と貢献"
+      },
+      {
+        "name": "その他",
+        "rate": "40％",
+        "detail": "最終プレゼンテーション"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 I (星野匡郎)",
+    "professor": "星野　匡郎",
+    "time": "春学期  水2時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-914実習室",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 2,
+          "classroom": "3-914実習室"
+        }
+      ]
+    ],
+    "subtitle": "ミクロ計量経済学",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "60％",
+        "detail": "授業出席，発表，議論への参加"
+      },
+      {
+        "name": "その他",
+        "rate": "40％",
+        "detail": "発表のクオリティーに応じて加算する．"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 II (笠松学)",
+    "professor": "笠松　学",
+    "time": "秋学期  金5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-711（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 5,
+          "classroom": "3-711（演習室）"
+        }
+      ]
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 II (永田良)",
+    "professor": "永田　良",
+    "time": "秋学期  火4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "4-206演習室",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "4-206演習室"
+        }
+      ]
+    ],
+    "subtitle": "経済学のパラダイム再考(II)",
+    "textbook": "受講者の基礎学力に基づき適当なテキストを選ぶつもりである",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "数回のレポートにより理解度を確かめる"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "60％",
+        "detail": "毎回の質疑応答により評価する"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 II (中村愼一郎)",
+    "professor": "中村　慎一郎",
+    "time": "秋学期  火4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-1116実習室",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "3-1116実習室"
+        }
+      ]
+    ],
+    "subtitle": "産業エコロジー Industrial Ecology",
+    "textbook": "なし",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "テーマに関するレポートを作成し，演習において発表する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "ゼミ出席は単位の条件．正当な理由なき欠席・遅刻は早稲田大学規定に従い対応する．演習への積極的参加を評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 II (西郷浩)",
+    "professor": "西郷　浩",
+    "time": "秋学期  火3時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-609（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "3-609（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Rによる統計分析",
+    "textbook": "教科書[2]はゼミ生と相談して決める。以下は、教科書[2]の例である。\n2017年度\n[2]Jared P. Lander （高柳慎一ほか訳）(2015)『みんなのR：データ分析と統計解析の新しい教科書』マイナビ\nISBN978-4-8399-5521-2",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "Rをもちいた統計分析のレポートについて、(1)データ、(2)分析手法、(3)分析結果、の観点から内容の妥当性を評価する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "グループ発表の準備・発表内容・質疑応答の様子を評価の対象とする。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 II (野口和也)",
+    "professor": "野口　和也",
+    "time": "秋学期  水1時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-712（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 1,
+          "classroom": "3-712（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "経済分析と統計的方法",
+    "textbook": "演習 I と同じテキストを引き続いて使用する．",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "80％",
+        "detail": "必要なフォーマットに則したレポートをCourseNavi上に提出のこと．"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "分担による報告と，他の報告に対するコメントなどを積極的にすること．"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 II (川口浩)",
+    "professor": "川口　浩",
+    "time": "秋学期  金4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-713（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 4,
+          "classroom": "3-713（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "日本経済の歴史的展開とその思想",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "積極的な授業参加。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 II (村上由紀子)",
+    "professor": "村上　由紀子",
+    "time": "秋学期  火3時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "4-202演習室",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "4-202演習室"
+        }
+      ]
+    ],
+    "subtitle": "労働に関する研究",
+    "textbook": "授業中に指示する。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "レポートの提出と内容"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "授業の出席と取組み"
+      },
+      {
+        "name": "その他",
+        "rate": "50％",
+        "detail": "グループ研究の成果、取組み"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 II (白木三秀)",
+    "professor": "白木　三秀",
+    "time": "秋学期  月5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-405",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 5,
+          "classroom": "3-405"
+        }
+      ]
+    ],
+    "subtitle": "労働・人的資源に関する国際比較研究",
+    "textbook": "その都度、提示する。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "実施しない。"
+      },
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "ゼミ内での発表レジュメ、企業・行政機関・専門家・個人に対するヒアリング調査結果の報告書、発表内容の質的レベルなど。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "70％",
+        "detail": "ゼミへの出席と参加度合、他の学生との課題の対する協力度合い、他の学生への指導力・影響度など。"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "特になし。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 II (荻沼隆)",
+    "professor": "荻沼　隆",
+    "time": "秋学期  火5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-713（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 5,
+          "classroom": "3-713（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "不完全情報とゲームの理論を中心としたミクロ経済学",
+    "textbook": "未定。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "70％",
+        "detail": "内容の正確さおよび問題設定・分析力を考慮する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "出席および授業への参加度を総合的に考慮する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 II (船木由喜彦)",
+    "professor": "船木　由喜彦",
+    "time": "秋学期  火3時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-809",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "3-809"
+        }
+      ]
+    ],
+    "subtitle": "ゲーム理論と実験経済学",
+    "textbook": "担当教員の配付する資料またはテキストを用います。",
+    "evaluation_method": []
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 II (荒木一法)",
+    "professor": "荒木　一法",
+    "time": "秋学期  月4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-809",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 4,
+          "classroom": "3-809"
+        }
+      ]
+    ],
+    "subtitle": "企業と家計の行動分析（応用ミクロ経済学）",
+    "textbook": "指定しません。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "期末レポート"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "グループプレゼンテーションの内容を評価します。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 II (本野英一)",
+    "professor": "本野　英一",
+    "time": "秋学期  月2時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-810（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 2,
+          "classroom": "3-810（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "日中関係に及ぼす「チャイ・ナリスク」",
+    "textbook": "阿南友亮『中国はなぜ軍拡を続けるのか』（新潮選書、2017年）\n川島真編『チャイナ・リスク』（岩波書店、2015年）\n丸川知雄・梶谷懐編『超大国・中国のゆくえ4』（東京大学出版会、2015年）",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "実施しません"
+      },
+      {
+        "name": "レポート",
+        "rate": "0％",
+        "detail": "学期末に、テキスト並びに授業中に紹介した文献を読んで得た各人の研究テーマを報告していただきます。これは最終討論の時に全員提出を義務づけます。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "毎回、決められた章を読んで、その内容要約とともに、著者が提起した問題点と、これに対する疑問点、あるいは独自の新しい問題点をまとめた報告を提出し、相互交換してこれに基づいて討論を行います。"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "特になし。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 II (上田貴子)",
+    "professor": "上田　貴子",
+    "time": "秋学期  水2時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-903（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 2,
+          "classroom": "3-903（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "subtitle": "経済データ解析",
+    "textbook": "なし",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "60％",
+        "detail": "ゼミ論　（計量経済分析を必須とする）"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "出席、文献購読の報告、討論への参加、ゼミ論の報告等により評価する。無断欠席は本演習の放棄とみなす。なお、やむを得ない理由により欠席する場合にはレポート提出を義務とする。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 II (近藤康之)",
+    "professor": "近藤　康之",
+    "time": "秋学期  火4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-909実習室",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "3-909実習室"
+        }
+      ]
+    ],
+    "subtitle": "貿易、環境、経済効果の計量分析",
+    "textbook": "指定しません。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "宿題、共同研究論文"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "グループワーク、進捗報告のプレゼンテーション"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 II (有村俊秀)",
+    "professor": "有村　俊秀",
+    "time": "秋学期  月4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-802",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 4,
+          "classroom": "3-802"
+        }
+      ]
+    ],
+    "subtitle": "環境経済学",
+    "textbook": "第1回目に提示する。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "研究論文が書けるようになる。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "毎回参加し、ゼミに積極的に参加する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 II (上田晃三)",
+    "professor": "上田　晃三",
+    "time": "秋学期  火4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-808",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "3-808"
+        }
+      ]
+    ],
+    "subtitle": "日本の経済・物価情勢の判断と見通し",
+    "textbook": "特になし",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "期末レポート"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "70％",
+        "detail": "輪読でのプレゼン内容、グループ討議での貢献度合い、発表の内容。出席は必須。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 II (鎮目雅人)",
+    "professor": "鎮目　雅人",
+    "time": "秋学期  木4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-605",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-605"
+        }
+      ]
+    ],
+    "subtitle": "世界における日本経済の歴史",
+    "textbook": "指定しない。",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "授業への積極的な参画、課題報告の内容"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 II (山本竜市)",
+    "professor": "山本　竜市",
+    "time": "秋学期  木5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-713（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 5,
+          "classroom": "3-713（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "ファイナンス",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "報告、討論、出席などが評価される。レポート、宿題を課す場合もある。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 II (小枝淳子)",
+    "professor": "小枝　淳子",
+    "time": "秋学期  木3時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-916実習室",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-916実習室"
+        }
+      ]
+    ],
+    "subtitle": "Empirical analysis of global macroeconomic and financial issues",
+    "textbook": "We apply undergraduate level of macroeconomics and money and finance to examine recent reports from international financial institutions and fiscal and monetary authorities. Thus we often refer to textbooks used in Macroeconomics A/B and Money and Banking courses (listed below).",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": ""
+      },
+      {
+        "name": "レポート",
+        "rate": "0％",
+        "detail": ""
+      },
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": ""
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 II (河村耕平)",
+    "professor": "河村　耕平",
+    "time": "秋学期  木3時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-712（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-712（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Firms and Organizations in Japan II",
+    "textbook": "None",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "Essay(s)"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "70％",
+        "detail": "Presentation and discussion"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 II (安達剛)",
+    "professor": "安達　剛",
+    "time": "秋学期  月5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-608（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 5,
+          "classroom": "3-608（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "経済学を社会問題に応用する力を身に付ける。",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "討議への参加度合と、フィールドワークでの活動内容、自身の研究への取り組み方で評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済学演習 II (大湾秀雄)",
+    "professor": "大湾　秀雄",
+    "time": "秋学期  木1時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-808",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 1,
+          "classroom": "3-808"
+        }
+      ]
+    ],
+    "subtitle": "スキルとは何か",
+    "textbook": "FYI® for your improvement, Korn Ferry\n鶴　光太郎、『性格スキル　人生を決める5つの能力』祥伝社",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "60％",
+        "detail": "チームプロジェクトおよびサーベイ調査への貢献"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "輪読やクラス討論参加を通じた貢献"
+      }
+    ]
+  }
+]

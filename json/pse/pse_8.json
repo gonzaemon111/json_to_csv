@@ -1,0 +1,5548 @@
+[
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Japanese Economy　01",
+    "professor": "戸村　肇",
+    "time": "春学期  金5時限",
+    "category": "日本をめぐる政治経済-必修科目",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-502",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "応用経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 5,
+          "classroom": "3-502"
+        }
+      ]
+    ],
+    "subtitle": "Post-war Japanese economy and current issues through the lens of economic theory",
+    "textbook": "Naoyuki Yoshino et al., 2010, The Postwar Japanese Economy: Eigo de Manabu Nihon Keizai. Tokyo: Yuhikaku.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "75％",
+        "detail": "Final exam. Question types: Short answers."
+      },
+      {
+        "name": "その他",
+        "rate": "25％",
+        "detail": "There will be a reviewing quiz at the end of each class between classes 2-14. Four points are the full mark for each quiz. The sum of quiz scores is added to the final grade up to 25 points."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Comparative Economic History A　01",
+    "professor": "本野　英一",
+    "time": "秋学期  01:月3時限／02:月4時限",
+    "category": "日本をめぐる政治経済-必修科目以外",
+    "target_grade": 2,
+    "credit": 4,
+    "classroom": "01:3-709／02:3-709",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "経済史",
+    "field_small": "経済史",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 3,
+          "classroom": "3-709"
+        },
+        {
+          "day": 1,
+          "period": 4,
+          "classroom": "3-709"
+        }
+      ]
+    ],
+    "subtitle": "What is global history?",
+    "textbook": "Sebastian Conrad, What Is Global History? (Princeton University Press, 2016)",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "Instead of examination, it is compulsory each student act a presenter and a commentator at least once."
+      },
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "At the end of final class, each student should submit his/her own plan for writing MA thesis for global economic history, adding to the list of previous works and sources should be examined."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "presentation: 40%, comment: 40%"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "To what extent each student attends the discussion and how far he/she could contribute to raise the standard of discussion."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Asian Economic Development　01",
+    "professor": "苑　志佳",
+    "time": "春学期  火2時限",
+    "category": "日本をめぐる政治経済-必修科目以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-405",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "国際経済学・開発経済学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "3-405"
+        }
+      ]
+    ],
+    "textbook": "1. The East Asian Miracle, World Bank, Oxford University Press, 1993.\n2. Rethinking the East Asian Miracle, Joseph E. Stiglitz and Shahid Yusuf, World Bank, 2001.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "30％",
+        "detail": "All participants are required to participate in the debating class and make his/her contribution to the group presentations. No any exceptions are allowed. No excuse for absence is accepted."
+      },
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "All participants are required to submit a high quality essay by the end of the semester."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "Attendance is regarded as an important evidence to assess the credit.\nThe performance in the class (question-asking, involvement in discussion, idea contribution) is also regarded as evaluation evidence."
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "None."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Global Politics　01",
+    "professor": "栗崎　周平",
+    "time": "秋学期  月2時限",
+    "category": "政治学-必修科目以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-406",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "国際政治",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 2,
+          "classroom": "3-406"
+        }
+      ]
+    ],
+    "textbook": "Jeffry A. Frieden, David A. Lake, and Kenneth A. Schultz. 2011. World Politics: Interests, Interactions, and Institutions. 2nd Edition. Norton.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "40％",
+        "detail": "The final exam consists of identification, short-answer, and/or essay questions."
+      },
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "You will submit one policy commentary before the winter breaky. You will evaluate the argument and/or assessment in the assigned article, using the concept, model, or empirical findings discussed in the class. Your essay should also identify the underlying causal mechanism of the policy issue and either suggest policy implications or offer policy recommendations. The essay should be five-page long, double-spaced."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "10％",
+        "detail": "Attendance will count for 10% of the grade."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Local Government　01",
+    "professor": "佐藤　学",
+    "time": "集中講義（春学期）  無2-4",
+    "category": "政治学-必修科目以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-702",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "公共政策／行政学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "集中講義（春学期）",
+    "metadata": [
+      [
+        {
+          "day": -1,
+          "period": 2,
+          "classroom": "3-702"
+        },
+        {
+          "day": -1,
+          "period": 3,
+          "classroom": "3-702"
+        },
+        {
+          "day": -1,
+          "period": 4,
+          "classroom": "3-702"
+        }
+      ]
+    ],
+    "textbook": "”Local Government in Japan、2016”, Council of Local Authorities for　International　Relations　（CLAIR）\n\nhttp://www.clair.or.jp/j/forum/pub/docs/jichi-en_1.pdf\n\nChinese, Korean、and French language versions are also available at the following CLAIR site.\n\nhttp://www.clair.or.jp/j/forum/pub/dynamic/local_government.html?c=100602&limit=20\n\nStudents are required to read this pdf file prior to the course.\nClassroom lectures will not follow or explain this material.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "5％",
+        "detail": "A few quizzes may be given."
+      },
+      {
+        "name": "レポート",
+        "rate": "65％",
+        "detail": "An essay based on the course material and classroom discussion. The questions will be decided through consultation during the course, and students will be given sufficient instruction to prepare. In class, closed-book exam."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "15％",
+        "detail": "Attendance record"
+      },
+      {
+        "name": "その他",
+        "rate": "15％",
+        "detail": "Classroom participation"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Public Finance　01",
+    "professor": "馬場　義久",
+    "time": "秋学期  月4時限",
+    "category": "経済学-必修科目以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "8-308",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "財政学・公共経済学・経済政策",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 4,
+          "classroom": "8-308"
+        }
+      ]
+    ],
+    "textbook": "None",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "60％",
+        "detail": "Students are required to submit the term-paper in the end of the class.\nEvaluation is based on the term-paper."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "Evaluation is based on the attendance(mandatory)。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Game Theory B　01",
+    "professor": "河村　耕平",
+    "time": "春学期  月4時限",
+    "category": "政治経済分析手法-必修科目以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-805（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "実験経済学 / 行動経済学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 4,
+          "classroom": "3-805（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Applications of Game Theory",
+    "textbook": "Watson (2013) Strategy: An Introduction to Game Theory (3rd edition), Norton.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "Mid-semester exam: 30%\nFinal exam: 50%"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "Homework assignments and attendance"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Quantitative Political Analysis　01",
+    "professor": "上田　路子",
+    "time": "春学期  金2時限",
+    "category": "政治経済分析手法-必修科目以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-903（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "現代政治／政治過程",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 2,
+          "classroom": "3-903（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "textbook": "James H. Stock, Mark W. Watson. 2014. Introduction to Econometrics.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "30％",
+        "detail": "In-class mid-term exam"
+      },
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "Final report and presentation (details will be announced in class)"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "Problem sets and other assignments"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Basic Econometrics　01",
+    "professor": "星野　匡郎",
+    "time": "秋学期  木2時限",
+    "category": "政治経済分析手法-必修科目以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-902（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "経済統計・計量経済学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 2,
+          "classroom": "3-902（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "textbook": "All course materials and the lecture slides will be made available online in advance of class. Hard copies of the lecture slides will not be distributed in class.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "40％",
+        "detail": "End-term exam"
+      },
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "Mid-term report"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "Classroom attendance"
+      },
+      {
+        "name": "その他",
+        "rate": "10％",
+        "detail": "Submission of R scripts (Week 8 and 14)"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Game Theory A　01",
+    "professor": "浅古　泰史",
+    "time": "秋学期  金4時限",
+    "category": "政治経済分析手法-必修科目以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-402",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "実験経済学 / 行動経済学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 4,
+          "classroom": "3-402"
+        }
+      ]
+    ],
+    "textbook": "Joel Watson, 2013, Strategy: An Introduction to Game Theory (Third Edition), W.W. Norton and Company",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "50％",
+        "detail": "Exam"
+      },
+      {
+        "name": "その他",
+        "rate": "50％",
+        "detail": "Assignments"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 1　01",
+    "professor": "ケラム　マリサ　アンドレア",
+    "time": "春学期  木3時限",
+    "category": "演習-必修科目",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-706（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-706（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Comparative Politics of Developing Countries",
+    "textbook": "Shaping the Developing World (2014), by Andy Baker. CQ Press\n\nStudents do not need to purchase this textbook. It will be available through the library.",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "(25%) Reading outlines: students will be assigned weeks when they must prepare an outline of the assigned reading to distribute to other students and present the main points of the reading to the seminar and lead discussion\n(25%) Case studies: students will research and present short case studies related to the reading\n(25%) Data analysis: students will research empirical measures and present a very simple analysis\n(25%) Participation: even when they are not assigned to outline & present the reading assignment, students should still raise questions and contribute to the discussion"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 1　02",
+    "professor": "戸村　肇",
+    "time": "春学期  木3時限",
+    "category": "演習-必修科目",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-607（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-607（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Overview of the US subprime mortgage crisis of 2007-2008",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "15％",
+        "detail": "Term paper"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "85％",
+        "detail": "Attendance and presentations during the class."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 1　03",
+    "professor": "ヴェステグ　ロベルト　フェレンツ",
+    "time": "春学期  木3時限",
+    "category": "演習-必修科目",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-711（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-711（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Topics in Microeconomics and Game Theory",
+    "textbook": "There is no textbook for this seminar. We are going to read selected chapters from the books on the reference list and also discuss several research papers.",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "Problem set or essay paper."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "Classroom presentation and discussion."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 1　04",
+    "professor": "浅古　泰史",
+    "time": "春学期  木3時限",
+    "category": "演習-必修科目",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-608（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-608（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Comparative Political Economy",
+    "textbook": "William R. Clark, Matt Golder, and Sona N. Golder, 2012, Priniples of Comparative Politics 2nd edition, Sage (There is a possibility that we will use the third edition.)",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "Term paper"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "60％",
+        "detail": "Attendance, presentations and discussions"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 1　05",
+    "professor": "小枝　淳子",
+    "time": "春学期  木3時限",
+    "category": "演習-必修科目",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-1116実習室",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-1116実習室"
+        }
+      ]
+    ],
+    "subtitle": "Empirical analysis of global macroeconomic and financial issues",
+    "textbook": "We apply undergraduate level of macroeconomics and money and finance to examine recent reports from international financial institutions and fiscal and monetary authorities. We often refer to textbooks used in Macroeconomics A/B and Money and Banking courses (listed below).",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": ""
+      },
+      {
+        "name": "レポート",
+        "rate": "0％",
+        "detail": ""
+      },
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": ""
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 1　07",
+    "professor": "下川　哲",
+    "time": "春学期  木3時限",
+    "category": "演習-必修科目",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "4-201演習室",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "4-201演習室"
+        }
+      ]
+    ],
+    "subtitle": "Economics and Politics of Food",
+    "textbook": "Required readings will be assigned.",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "A final report."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "60％",
+        "detail": "Attendance, in-class discussion, and presentations."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 1　08",
+    "professor": "ジョウ　ウィリー",
+    "time": "春学期  木3時限",
+    "category": "演習-必修科目",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-604（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-604（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Political culture",
+    "textbook": "No textbook; students will be given reading assignments in class."
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 1　09",
+    "professor": "河村　耕平",
+    "time": "春学期  木3時限",
+    "category": "演習-必修科目",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "4-205演習室",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "4-205演習室"
+        }
+      ]
+    ],
+    "subtitle": "Firms and Organizations in Japan I",
+    "textbook": "None",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "Essay(s)"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "70％",
+        "detail": "Presentation and discussion"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 1　10",
+    "professor": "クヴァソフ　デミトリ",
+    "time": "春学期  木3時限",
+    "category": "演習-必修科目",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "4-202演習室",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "4-202演習室"
+        }
+      ]
+    ],
+    "subtitle": "Economics of Equity, Fairness, and Justice",
+    "textbook": "Recommended reading:\n1. H. Peyton Young (1994). Equity: In Theory and Practice.\n2. Herve J. Moulin (2003). Fair Division and Collective Welfare\n3. Herve Moulin (1995). Cooperative Microeconomics: A Game-.theoretic Introduction."
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 1　11",
+    "professor": "上田　路子",
+    "time": "春学期  木3時限",
+    "category": "演習-必修科目",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-609（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-609（演習室）"
+        }
+      ]
+    ],
+    "textbook": "Wheelan, Charles J. 2013. Naked Statistics: Stripping the Dread from the Data.\nReinhart, Alex. 2015. Statistics Done Wrong: The Woefully Complete Guide.",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "Details announced in class"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "In-class participation (more than 3 absences will result in 0 score in this category)"
+      },
+      {
+        "name": "その他",
+        "rate": "20％",
+        "detail": "In-class presentation(s)."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 1　12",
+    "professor": "アンドレ　ポール",
+    "time": "春学期  木3時限",
+    "category": "演習-必修科目",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-914実習室",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-914実習室"
+        }
+      ]
+    ],
+    "subtitle": "The International Political Economy of East Asia",
+    "textbook": "No textbook is compulsory for this class. Each session will have some (1 or 2) required readings.\nYou will two sorts of readings:\nAn academic reading which presents a seminal aspect of the theory of IPE.\nA case study reading which allow us to make practical use if IPE in the East Asian context.\nThe complete bibliography and readings per each session will be uploaded before the beginning of the semester and will be accessible on the coursen@vi page of the seminar.\nThe complete bibliography and readings per each session will be uploaded before the beginning of the semester and will be accessible on the coursen@vi page of the seminar.\n\nHere are just some references that can be useful for reviewing this course:\n\n\nHere are just some references that can be useful for reviewing this course:\n\n\nThomas Oatley [2008], International Political Economy: Pearson, New York.\nGeorge T. Crane & Abla Amawi, The Theorical Evolution of International Political Economy: a reader,\nRobert Gilpin [2001], Global Political Economy: Understanding the International Economic Order: Princeton University Press.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "15％",
+        "detail": "During the last session you will have to present in class your research and your conclusions."
+      },
+      {
+        "name": "レポート",
+        "rate": "35％",
+        "detail": "By the end of the semester you must write a research paper. A list of topics will be announced during the first session.\nThe choice of topics and academic expectations will be discussed in class.\nYour paper should be 5,000 words (+/- 10%)"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "TClass participation is highly recommended. In class you will have to present the progress of your research paper, comment the assigned reading, and propose your own explanation of contemporary problems.\nThis seminar relies on debates and exchanges of views. Comments, questions are welcomed."
+      },
+      {
+        "name": "その他",
+        "rate": "10％",
+        "detail": "Active pariticipation and attendance (no more than 4 absences will be accepted)"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Transnational Relations　01",
+    "professor": "都丸　潤子",
+    "time": "秋学期  金3時限",
+    "category": "日本をめぐる政治経済-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-301",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "国際政治",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 3,
+          "classroom": "3-301"
+        }
+      ]
+    ],
+    "subtitle": "Sociocultural transformation of the Asia-Pacific Region through international migration",
+    "textbook": "Detailed syllabus with reference books for each section will be distributed at the beginning of the class.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "70％",
+        "detail": "Understanding of basic approaches and analyses in this lecture will be assessed.　\n(Please note that students who do not fulfill the required attendance，namely, 2/3 of the regular classes，in the regulation of the School of Political Science and Economics, will be disqualified even though they sit for /submit the term end examination. )"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "On some occasions, comment／discussion sheet will be distributed and collected to assess degree of participation and constant and keen participation in the class will be valued."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "East Asian Community　01",
+    "professor": "ジョウ　ウィリー",
+    "time": "秋学期  金2時限",
+    "category": "日本をめぐる政治経済-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-302",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 2,
+          "classroom": "3-302"
+        }
+      ]
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "History of Modern Japanese Political Thought A　01",
+    "professor": "梅森　直之／ミドルトン　ベンヤミン・デュガルド",
+    "time": "春学期  金2時限",
+    "category": "政治学-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-705（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "哲学",
+    "field_middle": "思想史",
+    "field_small": "現代思想史",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 2,
+          "classroom": "3-705（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Nationalism and Capitalism",
+    "textbook": "There is no assigned textbook for this course. Readings from a variety of sources will be made available to students during the term. Japanese versions of some of the texts are available.",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "End-of-term research paper"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "70％",
+        "detail": "Attendance and active participation in discussions. Students are also required to give three presentations during the term: the first is a group presentation on the Iwakura mission; the second is a group presentation on a field trip to the Edo-Tokyo Museum; and the third is an individual end-of-term research presentation based on their term-paper."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "History of Modern Japanese Political Thought B　01",
+    "professor": "梅森　直之／ミドルトン　ベンヤミン・デュガルド",
+    "time": "秋学期  金2時限",
+    "category": "政治学-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-306",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "哲学",
+    "field_middle": "思想史",
+    "field_small": "現代思想史",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 2,
+          "classroom": "3-306"
+        }
+      ]
+    ],
+    "subtitle": "Fascism and War Memory",
+    "textbook": "There is no assigned textbook for this course. Readings from a variety of sources will be made available to students during the term. Japanese versions of some of the texts are available.",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "End-of-term paper"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "In-class performance: regular attendance, contribution to class discussions, and presentations"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 2　01",
+    "professor": "ケラム　マリサ　アンドレア",
+    "time": "秋学期  木3時限",
+    "category": "演習-必修科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-706（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-706（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Selected Topics in Comparative Politics",
+    "textbook": "Economical Writing, 2nd Edition (2000), by Deirdre N. McCloskey. Waveland Press, Inc.\n\nAdditional reading assignments will include scholarly articles and book chapters.",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "60％",
+        "detail": "Essays (10% each x 4 = 40 %; revised essay = 20%)"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "Participation"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 2　02",
+    "professor": "戸村　肇",
+    "time": "秋学期  木3時限",
+    "category": "演習-必修科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-607（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-607（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Overview of various financial crises after WW II",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "15％",
+        "detail": "Term paper"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "85％",
+        "detail": "Attendance and presentations during the class."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 2　03",
+    "professor": "ヴェステグ　ロベルト　フェレンツ",
+    "time": "秋学期  木3時限",
+    "category": "演習-必修科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-711（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-711（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Economics of information",
+    "textbook": "Macho-Stadler, I. and Perez-Castrillo, D. (2001) \"An Introduction to the Economics of Information\", 2nd Edition, Oxford University Press\n　Molho, I. (1997) \"The Economics of Information: Lying and Cheating in Markets and Organizations\", Blackwell Publishers\nRasmusen, E. (2006) Games and Information: An Introduction to Game Theory, 4th Edition, Wiley-Blackwell",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "Problem set."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "Class-room presentation and discussion."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 2　04",
+    "professor": "浅古　泰史",
+    "time": "秋学期  木3時限",
+    "category": "演習-必修科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-608（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-608（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Note: The topic will be changed based on preferences of students in Advanced Seminar 1. Contact to me if you want to know the real topic.",
+    "textbook": "Bruce Bueno de Mesquita , 2013 Principles of International Politics 5th edition, CQ Press",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "Term paper"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "60％",
+        "detail": "Attendance, presentations and discussions"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 2　05",
+    "professor": "小枝　淳子",
+    "time": "秋学期  木3時限",
+    "category": "演習-必修科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-916実習室",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-916実習室"
+        }
+      ]
+    ],
+    "subtitle": "Empirical analysis of global macroeconomic and financial issues",
+    "textbook": "We apply undergraduate level of macroeconomics and money and finance to examine recent reports from international financial institutions and fiscal and monetary authorities. Thus we often refer to textbooks used in Macroeconomics A/B and Money and Banking courses (listed below).",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": ""
+      },
+      {
+        "name": "レポート",
+        "rate": "0％",
+        "detail": ""
+      },
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": ""
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 2　07",
+    "professor": "下川　哲",
+    "time": "秋学期  木3時限",
+    "category": "演習-必修科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-918実習室",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-918実習室"
+        }
+      ]
+    ],
+    "subtitle": "Economics and Psychology of Food",
+    "textbook": "Daniel Kahneman. (2012) Thinking, Fast and Slow. (a kindle version is available)\n\nSome selected academic papers on food policy",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "A final report on a food problem (in English)."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "Attendance, in-class discussion, and presentations."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 2　08",
+    "professor": "ジョウ　ウィリー",
+    "time": "秋学期  木3時限",
+    "category": "演習-必修科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-713（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-713（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Contemporary Japanese politics",
+    "textbook": "No textbook; students will be given reading assignments in class."
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 2　09",
+    "professor": "河村　耕平",
+    "time": "秋学期  木3時限",
+    "category": "演習-必修科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-712（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-712（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Firms and Organizations in Japan II",
+    "textbook": "None",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "Essay(s)"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "70％",
+        "detail": "Presentation and discussion"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 2　10",
+    "professor": "クヴァソフ　デミトリ",
+    "time": "秋学期  木3時限",
+    "category": "演習-必修科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "4-201演習室",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "4-201演習室"
+        }
+      ]
+    ],
+    "subtitle": "Economics of Equity, Fairness, and Justice",
+    "textbook": "Recommended reading:\n1. H. Peyton Young (1994). Equity: In Theory and Practice.\n2. Herve J. Moulin (2003). Fair Division and Collective Welfare\n3. Herve Moulin (1995). Cooperative Microeconomics: A Game-.theoretic Introduction."
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 2　11",
+    "professor": "上田　路子",
+    "time": "秋学期  木3時限",
+    "category": "演習-必修科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-609（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-609（演習室）"
+        }
+      ]
+    ],
+    "textbook": "None",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "Final paper as well as short memos."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "Including in-class presentation(s)."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Labor Economics　01",
+    "professor": "村上　由紀子",
+    "time": "秋学期  金2時限",
+    "category": "経済学-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-801",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "労働経済学・医療経済学・教育経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 2,
+          "classroom": "3-801"
+        }
+      ]
+    ],
+    "textbook": "Ronald G. Ehrenberg and Robert S. Smith (2011)\nModern Labor Economics: Theory and Public Policy, Eleventh Edition, Boston: Pearson/Addison Wesley",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "70％",
+        "detail": "Final exam/final project"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "attendance, class participation"
+      },
+      {
+        "name": "その他",
+        "rate": "10％",
+        "detail": "homework"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Industrial Ecology　01",
+    "professor": "中村　慎一郎",
+    "time": "春学期  火3時限",
+    "category": "経済学-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-202（CTLT Classroom2）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論・計量経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "3-202（CTLT Classroom2）"
+        }
+      ]
+    ],
+    "subtitle": "Interdisciplinary science of sustainability",
+    "textbook": "S Nakamura and Y Kondo, Waste Input-Output Analysis, Springer, 2009. Available (downloadable) as PDF from Waseda University Library.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "Comprehensiveness"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "Comprehensiveness, evaluated based on small exams on irregular basis"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Experimental Economics　01",
+    "professor": "ヴェステグ　ロベルト　フェレンツ",
+    "time": "秋学期  木2時限",
+    "category": "政治経済分析手法-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-406",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "実験経済学 / 行動経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 2,
+          "classroom": "3-406"
+        }
+      ]
+    ],
+    "textbook": "There is no principal textbook to this course. Some useful titles related to Experimental Economics are\n\nKagel, J.H., Roth, A.E. (1995) \"The Handbook of Experimental Economics\", Princeton University Press, and\n\nBardsley et al. (2010) \"Experimental Economics: Rethinking the Rules\", Princeton University Press.",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "Final paper - research proposal based on the experimental method."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "In-class presentation and referee report."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Internship (PSE)　2018-01",
+    "professor": "深川　由起子",
+    "time": "春学期  無その他",
+    "category": "キャリア支援",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "中級レベル（発展・応用）",
+    "form": "実践／フィールドワーク／インターンシップ／ボランティア",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Internship (PSE)　2018-02",
+    "professor": "深川　由起子",
+    "time": "秋学期  無その他",
+    "category": "キャリア支援",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "中級レベル（発展・応用）",
+    "form": "実践／フィールドワーク／インターンシップ／ボランティア",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "International Political Economy　01",
+    "professor": "遠矢　浩規",
+    "time": "秋学期  火4時限",
+    "category": "日本をめぐる政治経済-必修科目以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "8-B101",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "政治経済学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "8-B101"
+        }
+      ]
+    ],
+    "textbook": "No text to be used.\nPOWERPOINT will be used in the class, and the PPT fills will be uploaded before or after the class.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "90％",
+        "detail": "Final paper exam."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "10％",
+        "detail": "Class participation. More than 2/3 attendance rate is mandatory."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Theories in Comparative Politics　01",
+    "professor": "真柄　秀子",
+    "time": "秋学期  水1時限",
+    "category": "政治学-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-807（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "現代政治／政治過程",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 1,
+          "classroom": "3-807（演習室）"
+        }
+      ]
+    ],
+    "textbook": "Magara, H. ed. (2014) Economic Crises and Policy Regimes: The Dynamics of Policy Innovation and Paradigmatic Change, Cheltenham, UK: Edward Elgar.\n\nMagara, H. and S. Sacchi, eds. (2013) The Politics of Structural Reforms: Social and Industrial Policy Change in Italy and Japan, Cheltenham, UK: Edward Elgar.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "40％",
+        "detail": "in-class mid-term exam (20%) and in-class final exam (20%)."
+      },
+      {
+        "name": "レポート",
+        "rate": "",
+        "detail": "short end-of-term paper"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "60％",
+        "detail": "contribution to discussions"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Money and Banking　01",
+    "professor": "小枝　淳子",
+    "time": "秋学期  火3時限",
+    "category": "経済学-必修科目以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-402",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "金融論・ファイナンス",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "3-402"
+        }
+      ]
+    ],
+    "textbook": "Mishkin, The Economics of Money, Banking, and Financial Markets, Pearson, Global ed of 11th revised ed.\n\nThe instructor encourages you to purchase the textbook at the bookstore of the Co-op on campus. The price of the textbook seems to be higher in other places as far as the instructor　knows.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "Final exam (80%)"
+      },
+      {
+        "name": "レポート",
+        "rate": "0％",
+        "detail": "-"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "Class participation (20%)"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Environmental Economics　01",
+    "professor": "堀江　哲也",
+    "time": "春学期  火1時限",
+    "category": "経済学-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-909実習室",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "農業経済学・環境経済学・資源経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 1,
+          "classroom": "3-909実習室"
+        }
+      ]
+    ],
+    "subtitle": "Empirical Approach",
+    "textbook": "Kolstad, Charles D. Environmental Economics. Second Edition. New York, NY: Oxford University Press, 2010.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "40％",
+        "detail": "The final exam will be given at the end of the semester."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "60％",
+        "detail": "Quiz will be given every class. Presentations during class and some assignments are expected."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Analysis of the Japanese Economy　01",
+    "professor": "上田　晃三",
+    "time": "秋クォーター  01:火1時限／02:金3時限",
+    "category": "日本をめぐる政治経済-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "01:3-304／02:3-304",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "応用経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋クォーター",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 1,
+          "classroom": "3-304"
+        },
+        {
+          "day": 5,
+          "period": 3,
+          "classroom": "3-304"
+        }
+      ]
+    ],
+    "subtitle": "Japanese Economy from a Macroeconomic Perspective",
+    "textbook": "This course does not specify a textbook.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "64％",
+        "detail": "Final examination"
+      },
+      {
+        "name": "レポート",
+        "rate": "32％",
+        "detail": "Report"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "4％",
+        "detail": "Questions and comments during lectures"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "International Macroeconomics　01",
+    "professor": "浜野　正樹",
+    "time": "春クォーター  01:火1時限／02:木1時限",
+    "category": "経済学-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "01:3-305／02:3-305",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "国際経済学・開発経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春クォーター",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 1,
+          "classroom": "3-305"
+        },
+        {
+          "day": 4,
+          "period": 1,
+          "classroom": "3-305"
+        }
+      ]
+    ],
+    "textbook": "This course does not specify a particuler textbook.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "70％",
+        "detail": "Final examination"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "Participation and attendance"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "なし"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Industrial Organization　01",
+    "professor": "クヴァソフ　デミトリ",
+    "time": "春学期  火3時限",
+    "category": "経済学-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-306",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "産業組織論・法と経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "3-306"
+        }
+      ]
+    ],
+    "textbook": "Required:\nCabral, Luis (2000), Introduction to Industrial Organization, MIT Press.\n\nSupplementary:\nTirole, Jean. The Theory of Industrial Organization, MIT Press, any edition.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "Test:40%\nExam:60%\n\n⦁ There will be a mid-semester exam during the semester. The mid-semester exam will be held in class, date to be announced.\n⦁ The final exam will cover the entire course. All material from the lectures and the textbook is examinable.\n⦁ Legible hand-writing and the quality of English expression are considered to be integral parts of the assessment process. Marks may be deducted in the final examination because of poor hand-writing."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Industrial Organization　02",
+    "professor": "遠山　祐太",
+    "time": "秋学期  月4時限",
+    "category": "経済学-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-710",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "応用経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 4,
+          "classroom": "3-710"
+        }
+      ]
+    ],
+    "textbook": "Cabral (2017) \"Introduction to Industrial Organization, 2nd Edition\"",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "Final exam"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "Class participation"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Economics of Resources and Food　01",
+    "professor": "下川　哲",
+    "time": "春学期  火4時限",
+    "category": "経済学-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-701",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "農業経済学・環境経済学・資源経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "3-701"
+        }
+      ]
+    ],
+    "textbook": "Handouts will be provided.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "40％",
+        "detail": "A closed book exam at the final class."
+      },
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "A mid-term report (15%) and a final report (25%) in English. Essay questions will be assigned."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "Class attendance and discussion."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "International Administration　01",
+    "professor": "武田　健",
+    "time": "秋学期  木3時限",
+    "category": "政治学-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-909実習室",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "国際政治",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-909実習室"
+        }
+      ]
+    ],
+    "subtitle": "European Union Governance in Times of \"Crisis\"",
+    "textbook": "No text book is provided for this course. The instructor will send materials to students by email.",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "Attendance and active participation"
+      },
+      {
+        "name": "その他",
+        "rate": "50％",
+        "detail": "Presentation"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Theory of NPOs and NGOs　01",
+    "professor": "生江　明",
+    "time": "秋学期  月6時限",
+    "category": "日本をめぐる政治経済-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-709",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "比較政治",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 6,
+          "classroom": "3-709"
+        }
+      ]
+    ],
+    "subtitle": "for Rebuilding our Social and Public Goodness",
+    "textbook": "Not specified",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "50％",
+        "detail": "Final examination： you would be expected to submit what you have learned on NPO/NGO and the future."
+      },
+      {
+        "name": "レポート",
+        "rate": "10％",
+        "detail": "reports of your learning at each class　日本語でも可"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "Attendance 10%\nAssignment and Contribution to group activity 20％\nGroup presentation 10%"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Comparative Economic History B　01",
+    "professor": "本野　英一",
+    "time": "春学期  01:月3時限／02:月4時限",
+    "category": "日本をめぐる政治経済-必修科目以外",
+    "target_grade": 2,
+    "credit": 4,
+    "classroom": "01:3-701／02:3-701",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "経済史",
+    "field_small": "経済史",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 3,
+          "classroom": "3-701"
+        },
+        {
+          "day": 1,
+          "period": 4,
+          "classroom": "3-701"
+        }
+      ]
+    ],
+    "subtitle": "How economic history mattered?",
+    "textbook": "Deirdre N. McCloskey, Bourgeois Equality: how ideas, not capital or institution, enriched the world (Chicago University Press, 2016)",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "No examination"
+      },
+      {
+        "name": "レポート",
+        "rate": "70％",
+        "detail": "It is compulsory to submit a review of the text."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "Students are required to do presentation and to take part in the following discussion."
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "nil"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Comparative Politics　01",
+    "professor": "ジョウ　ウィリー",
+    "time": "春学期  木2時限",
+    "category": "政治学-必修科目以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-802",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "比較政治",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 2,
+          "classroom": "3-802"
+        }
+      ]
+    ],
+    "textbook": "None",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "30％",
+        "detail": "in-class final exam"
+      },
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "research paper comparing two or more countries"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "15％",
+        "detail": "individual/group presentation on your selected country"
+      },
+      {
+        "name": "その他",
+        "rate": "15％",
+        "detail": "attendance and class participation"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Global Governance Studies　01",
+    "professor": "大芝　亮",
+    "time": "秋学期  水2時限",
+    "category": "政治学-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-909実習室",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "国際政治",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 2,
+          "classroom": "3-909実習室"
+        }
+      ]
+    ],
+    "textbook": "No specific text will be used as the textbook for this course. Reading lists in English for each session of this course will be provided in the first week.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "50％",
+        "detail": "Your grade will be based on the final examination (50%) and class participation (50%).\n\"Class Participation\" involves in-class presentation and participation in class discussion."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "Class Presentation 25%\nClass Discussion 25%"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 3　01",
+    "professor": "ケラム　マリサ　アンドレア",
+    "time": "春学期  木4時限",
+    "category": "演習-必修科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-706（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-706（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Research Design in Comparative Politics",
+    "textbook": "Writing a Research Paper in Political Science, 3rd Edition (2015) by Lisa A. Baglione. CQ Press. This handbook is required (an e-book request is in progress through the Waseda Library).",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "Final research paper or proposal"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "25％",
+        "detail": "Participation involves discussion of readings, presentations of work in progress and peer reviews"
+      },
+      {
+        "name": "その他",
+        "rate": "35％",
+        "detail": "Various assignments and drafts of work in progress"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 3　02",
+    "professor": "戸村　肇",
+    "time": "春学期  木4時限",
+    "category": "演習-必修科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-607（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-607（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Overview of various financial crises after WW II",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "15％",
+        "detail": "Term paper"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "85％",
+        "detail": "Attendance and presentations during the class."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 3　03",
+    "professor": "ヴェステグ　ロベルト　フェレンツ",
+    "time": "春学期  木4時限",
+    "category": "演習-必修科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-711（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-711（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Microeconomics",
+    "textbook": "Bowles, S. \"Microeconomics - Behavior, Institutions and Evolution\", Russel Sage Foundation - New York, Princeton University Press, Princeton and Oxford",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "Problem sets."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "Classroom presentation and discussion."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 3　04",
+    "professor": "浅古　泰史",
+    "time": "春学期  木4時限",
+    "category": "演習-必修科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-608（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-608（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Game Theory and Economic Development",
+    "textbook": "Bruce Wydick, 2008, Games in Economic Development, Cambridge Univ. Press\n\nAdhijit V. Banerjee and Esther Duflo, 2011, Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty, Public Affairs",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "Term paper"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "60％",
+        "detail": "Attendance, presentations and discussions"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 3　05",
+    "professor": "小枝　淳子",
+    "time": "春学期  木4時限",
+    "category": "演習-必修科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-1116実習室",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-1116実習室"
+        }
+      ]
+    ],
+    "subtitle": "Empirical analysis in global macroeconomic and financial policy debates"
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 3　06",
+    "professor": "ホブソン　クリストファー　エドワード",
+    "time": "春学期  木4時限",
+    "category": "演習-必修科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-811（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-811（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Democracy in dark times",
+    "textbook": "There is no textbook for this seminar. Readings will be assigned and distributed on a weekly basis.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "50％",
+        "detail": "Oral exam"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "Students are expected to attend all classes, do the required readings, and actively participate in discussions. Students will also be required to act as discussant twice during the semester."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 3　07",
+    "professor": "下川　哲",
+    "time": "春学期  木4時限",
+    "category": "演習-必修科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "4-201演習室",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "4-201演習室"
+        }
+      ]
+    ],
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "A final report."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "60％",
+        "detail": "Attendance, in-class discussion and presentation."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 3　08",
+    "professor": "ジョウ　ウィリー",
+    "time": "春学期  木4時限",
+    "category": "演習-必修科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "7-208",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "7-208"
+        }
+      ]
+    ],
+    "textbook": "none; assignments to be announced in class",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "",
+        "detail": "none"
+      },
+      {
+        "name": "レポート",
+        "rate": "45％",
+        "detail": "- short paper (15%)\n- final paper (30%)"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": ""
+      },
+      {
+        "name": "その他",
+        "rate": "15％",
+        "detail": "attendance and participation"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 3　09",
+    "professor": "河村　耕平",
+    "time": "春学期  木4時限",
+    "category": "演習-必修科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-913実習室",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-913実習室"
+        }
+      ]
+    ],
+    "subtitle": "Organizational Economics",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "Presentations: 40%\nAttendance and participation: 60%"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 3　10",
+    "professor": "クヴァソフ　デミトリ",
+    "time": "春学期  木4時限",
+    "category": "演習-必修科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "4-202演習室",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "4-202演習室"
+        }
+      ]
+    ],
+    "textbook": "Andres Perea. Epistemic Game Theory"
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 3　11",
+    "professor": "上田　路子",
+    "time": "春学期  木4時限",
+    "category": "演習-必修科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-609（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-609（演習室）"
+        }
+      ]
+    ],
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "80％",
+        "detail": "Final report (details announced in class)"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "Attendance"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 3　12",
+    "professor": "アンドレ　ポール",
+    "time": "春学期  木4時限",
+    "category": "演習-必修科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-918実習室",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-918実習室"
+        }
+      ]
+    ],
+    "subtitle": "Borders in Global Political Economy",
+    "textbook": "No textbook is required for this class. Each session will have some (1 or 2) required readings.\nThe complete bibliography and readings per each session will be uploaded before the beginning of the semester and will be accessible on the coursen@vi page of the seminar.\nThe detailed handout of the class will be uploaded on the coursen@vi page of the class before the beginning of the semester.\nIt is also important for this course to keep in touch with the news.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "15％",
+        "detail": "Class Presentation:\nDuring the last session you will have to present in class your research and your conclusions."
+      },
+      {
+        "name": "レポート",
+        "rate": "35％",
+        "detail": "Essay:\nBy the end of the semester you must write a research paper. A list of topics will be announced during the first session.\nThe choice of topics and academic expectations will be discussed in class.\nYour paper should be 5,000 words (+/- 10%)"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "Class participation is highly recommended. In class you will have to present the progress of your research paper, comment the assigned reading, and propose your own explanation of contemporary problems.\nThis seminar relies on debates and exchanges of views. Comments, questions are welcomed."
+      },
+      {
+        "name": "その他",
+        "rate": "10％",
+        "detail": "Active class participation in class is required.\nContribution to class discussion.\nNo more than 4 absences will be accepted."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 4　01",
+    "professor": "ケラム　マリサ　アンドレア",
+    "time": "秋学期  木4時限",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-706（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-706（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Students’ Research Projects in Comparative Politics",
+    "textbook": "There is no required textbook for this seminar.",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "Preliminary draft of thesis due in Week 15"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "Participation involves presentations of work in progress and peer reviews"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 4　02",
+    "professor": "戸村　肇",
+    "time": "秋学期  木4時限",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-607（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-607（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Workshop for thesis writing",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "Attendance and presentations during the class."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 4　03",
+    "professor": "ヴェステグ　ロベルト　フェレンツ",
+    "time": "秋学期  木4時限",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-711（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-711（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Graduation thesis seminar",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "Drafts and final essay."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "Class-room presentation and discussion."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 4　04",
+    "professor": "浅古　泰史",
+    "time": "秋学期  木4時限",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-608（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-608（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Rational Choice in Economics",
+    "textbook": "Itzhak Gilboa, Rational Choice, MIT press, 2010.",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "Term paper"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "60％",
+        "detail": "Attendance, presentations and discussions"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 4　05",
+    "professor": "小枝　淳子",
+    "time": "秋学期  木4時限",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-916実習室",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-916実習室"
+        }
+      ]
+    ],
+    "subtitle": "Empirical analysis of global macroeconomic and financial issues",
+    "textbook": "We apply undergraduate level of macroeconomics and money and finance to examine recent reports from international financial institutions and fiscal and monetary authorities. Thus we often refer to textbooks used in Macroeconomics A/B and Money and Banking courses (listed below)."
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 4　07",
+    "professor": "下川　哲",
+    "time": "秋学期  木4時限",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-918実習室",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-918実習室"
+        }
+      ]
+    ],
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "A final report."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "60％",
+        "detail": "Attendance, in-class discussion and presentation."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 4　08",
+    "professor": "ジョウ　ウィリー",
+    "time": "秋学期  木4時限",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-703",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-703"
+        }
+      ]
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 4　09",
+    "professor": "河村　耕平",
+    "time": "秋学期  木4時限",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-1116実習室",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-1116実習室"
+        }
+      ]
+    ],
+    "subtitle": "Organizational Economics",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "Presentations: 40%\nAttendance and participation: 60%"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 4　10",
+    "professor": "クヴァソフ　デミトリ",
+    "time": "秋学期  木4時限",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "4-201演習室",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "4-201演習室"
+        }
+      ]
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Seminar 4　11",
+    "professor": "上田　路子",
+    "time": "秋学期  木4時限",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-609（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-609（演習室）"
+        }
+      ]
+    ],
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "80％",
+        "detail": "Final report (details announced in class)"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "Attendance"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Social Security　01",
+    "professor": "山本　克也",
+    "time": "秋学期  木3時限",
+    "category": "経済学-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-404",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "財政学・公共経済学・経済政策",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-404"
+        }
+      ]
+    ],
+    "subtitle": "Crisis and Reform",
+    "textbook": "Social Security In Japan 2014 http://www.ipss.go.jp/site-ad/index_english/publication-e.html",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "Depends on Waseda University rule."
+      },
+      {
+        "name": "レポート",
+        "rate": "0％",
+        "detail": "No"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "0％",
+        "detail": "No"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "No"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Regional Integration　01",
+    "professor": "中村　英俊",
+    "time": "春学期  木2時限",
+    "category": "政治学-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-713（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "比較政治",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 2,
+          "classroom": "3-713（演習室）"
+        }
+      ]
+    ],
+    "textbook": "Nakamura, Hidetoshi (2013) 'Regional Security Communities', in Telò, Mario (ed.) Globalisation, Multilateralism, Europe: Towards a Better Global Governance? (Ashgate), pp.333-348.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "40％",
+        "detail": "Depending on the number of participants, students are required to write the term paper."
+      },
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "Students will be assigned to write essay/s on one or more several question/s."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "Attendance and active participation is required for every week."
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "0"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Thesis　01",
+    "professor": "ケラム　マリサ　アンドレア",
+    "time": "秋学期  無その他",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Thesis　02",
+    "professor": "戸村　肇",
+    "time": "秋学期  無その他",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ],
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "Thesis."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Thesis　03",
+    "professor": "ヴェステグ　ロベルト　フェレンツ",
+    "time": "秋学期  無その他",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ],
+    "textbook": "-",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "Graduation thesis"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Thesis　04",
+    "professor": "浅古　泰史",
+    "time": "秋学期  無その他",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ],
+    "evaluation_method": [
+      {
+        "name": "その他",
+        "rate": "100％",
+        "detail": "Your grade will be decided by (i) quality of the final draft, (ii) whether you submit all of your drafts by deadline, and (iii) How you revise your paper based on my comments."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Thesis　05",
+    "professor": "小枝　淳子",
+    "time": "秋学期  無その他",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Thesis　07",
+    "professor": "下川　哲",
+    "time": "秋学期  無その他",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ],
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "Thesis."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Thesis　08",
+    "professor": "ジョウ　ウィリー",
+    "time": "秋学期  無その他",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Thesis　09",
+    "professor": "河村　耕平",
+    "time": "秋学期  無その他",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Thesis　10",
+    "professor": "クヴァソフ　デミトリ",
+    "time": "秋学期  無その他",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Thesis　11",
+    "professor": "上田　路子",
+    "time": "秋学期  無その他",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Thesis　01",
+    "professor": "ケラム　マリサ　アンドレア",
+    "time": "春学期  無その他",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Thesis　02",
+    "professor": "戸村　肇",
+    "time": "春学期  無その他",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ],
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "Thesis."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Thesis　03",
+    "professor": "ヴェステグ　ロベルト　フェレンツ",
+    "time": "春学期  無その他",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ],
+    "textbook": "-",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "Graduation thesis"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Thesis　04",
+    "professor": "浅古　泰史",
+    "time": "春学期  無その他",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ],
+    "evaluation_method": [
+      {
+        "name": "その他",
+        "rate": "100％",
+        "detail": "Your grade will be decided by (i) quality of the final draft, (ii) whether you submit all of your drafts by deadline, and (iii) How you revise your paper based on my comments."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Thesis　05",
+    "professor": "小枝　淳子",
+    "time": "春学期  無その他",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Thesis　06",
+    "professor": "ホブソン　クリストファー　エドワード",
+    "time": "春学期  無その他",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Thesis　07",
+    "professor": "下川　哲",
+    "time": "春学期  無その他",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ],
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "Thesis."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Thesis　08",
+    "professor": "ジョウ　ウィリー",
+    "time": "春学期  無その他",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Thesis　09",
+    "professor": "河村　耕平",
+    "time": "春学期  無その他",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Thesis　10",
+    "professor": "クヴァソフ　デミトリ",
+    "time": "春学期  無その他",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Thesis　11",
+    "professor": "上田　路子",
+    "time": "春学期  無その他",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Thesis　12",
+    "professor": "アンドレ　ポール",
+    "time": "春学期  無その他",
+    "category": "演習-必修科目",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Political Economics　01",
+    "professor": "小西　秀樹",
+    "time": "秋クォーター  01:水2時限／02:木2時限",
+    "category": "日本をめぐる政治経済-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "01:3-701／02:3-710",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "政治経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋クォーター",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 2,
+          "classroom": "3-701"
+        },
+        {
+          "day": 4,
+          "period": 2,
+          "classroom": "3-710"
+        }
+      ]
+    ],
+    "textbook": "Not specified.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "70％",
+        "detail": "Final exam."
+      },
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "Assignment of problem sets is scheduled."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "",
+        "detail": "Depending on participants' achievement levels, paper presentation may be assigned to each."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Global Communication　01",
+    "professor": "梅森　直之／篠田　徹",
+    "time": "夏季集中  無その他",
+    "category": "政治学-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "メディア研究",
+    "field_middle": "メディア研究",
+    "field_small": "運動・文化",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "夏季集中",
+    "metadata": [
+      []
+    ],
+    "textbook": "There is no set textbook for this course. Readings from a variety of books, journals and on-line sources will be made available to students during the term.",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "教場で指示する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "総合的に判断する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Democracy, Peace and War　01",
+    "professor": "ホブソン　クリストファー　エドワード",
+    "time": "春学期  火5時限",
+    "category": "政治学-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-704",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "国際政治",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 5,
+          "classroom": "3-704"
+        }
+      ]
+    ],
+    "subtitle": "Liberalism in International Affairs",
+    "textbook": "There is no textbook. Assigned readings will be distributed in PDF format through Course N@vi.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "50％",
+        "detail": "Final exam on course content in week 15."
+      },
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "1,800 - 2,000 word essay, more information to be given in class."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Theories of International Relations　01",
+    "professor": "アンドレ　ポール",
+    "time": "春学期  月3時限",
+    "category": "政治学-必修科目以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-704",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "国際関係論",
+    "field_middle": "国際関係学",
+    "field_small": "概論",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 3,
+          "classroom": "3-704"
+        }
+      ]
+    ],
+    "textbook": "No textbook is compulsory for this class. Each session will have some (1 or 2) required readings.\nThe complete bibliography and readings per each session will be uploaded before the beginning of the semester and will be accessible on the coursen@vi page of the seminar.\n\nHere are just some references that can be useful for reviewing this course:\n\nRobert Godin[2009], The Oxford Handbook of Political Science, Oxford University Press, Oxford=> parties VII et VIII.\nChristian Reus‐Smit & Duncan Snidal (dir.) [2008], The Oxford Handbook of International Relations, Oxford University Press, Oxford\nSteve Smith, Amelia Hadfield & Tim Dunne [2007], Foreign Policies: theories, actors, cases, Oxford University Press, Oxford.\nTim Dunne, Milja Kurki & Steve Smith [2010], International Relations Theories: discipline and diversity, Oxford University Press, Oxford.\nJohn W. Young & John Kent [2003], International Relations since 1945: a global history, Oxford University Press, Oxford",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "30％",
+        "detail": "The final exam is a sitting exam. Methodology and expected standards will be detailed during the course."
+      },
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "By the end of the course you must write a research paper. Your paper brings a theoretical perspective on a practical situation. Your essay must be an analysis of a real world situation.\nThe choice of topics will be discussed in class.\nYour paper brings a theoretical perspective on a practical situation. The body of your essay should size 7 A4 pages (times new roman 12, with double-spacing, standard margins) + end notes."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "Class participation is highly encouraged. Do not hesitate to ask questions or to make comments. Since each session will focus on a specific text, you can express your personal point of view."
+      },
+      {
+        "name": "その他",
+        "rate": "20％",
+        "detail": "Attendance (no more than 4 absences will be accepted)"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Economics of Human Resource Management　01",
+    "professor": "白木　三秀",
+    "time": "春学期  木5時限",
+    "category": "経済学-必修科目以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-305",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "応用経済学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 5,
+          "classroom": "3-305"
+        }
+      ]
+    ],
+    "subtitle": "Labor Market and Human Resource Development/Management",
+    "textbook": "To be instructed in the class. Photocopies of some relevant materials and papers will be provided.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "No Examinations will be conducted."
+      },
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "Term paper is requested to submit."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "25％",
+        "detail": "Both class attendance and the contribution to discussions in the class are important."
+      },
+      {
+        "name": "その他",
+        "rate": "25％",
+        "detail": "Assignments including presentations by individuals are important."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Asian Economy　01",
+    "professor": "戸堂　康之",
+    "time": "秋学期  火3時限",
+    "category": "日本をめぐる政治経済-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-202（CTLT Classroom2）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "応用経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "3-202（CTLT Classroom2）"
+        }
+      ]
+    ],
+    "textbook": "There is no textbook students have to purchase.\nThe lecture note for each lecture will be uploaded in CourseN@vi before each lecture. Students should download it before each lecture and bring its electronic or hard copy to the classroom.",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "A term paper on Asian economies is required."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "A short report is required for each of the two discussion classes. In addition, each student is required to give a presentation in class on the term paper."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "International Public Economic Policy　01",
+    "professor": "内藤　巧",
+    "time": "秋学期  火1時限",
+    "category": "経済学-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-704",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "財政学・公共経済学・経済政策",
+    "level": "総仕上げ",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 1,
+          "classroom": "3-704"
+        }
+      ]
+    ],
+    "textbook": "no textbook; handouts will be distributed via Course N@vi.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "final exam only; no exceptions, no excuses."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Positive Political Theory　01",
+    "professor": "浅古　泰史",
+    "time": "春学期  木2時限",
+    "category": "日本をめぐる政治経済-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-502",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "現代政治／政治過程",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 2,
+          "classroom": "3-502"
+        }
+      ]
+    ],
+    "textbook": "Gehlbach, Scott, 2013, Formal Models of Domestic Politics, Cambridge University Press",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "40％",
+        "detail": "Final Exam"
+      },
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "Short Papers"
+      },
+      {
+        "name": "その他",
+        "rate": "30％",
+        "detail": "Problem Sets"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Gender in Global Politics　01",
+    "professor": "ホブソン　クリストファー　エドワード",
+    "time": "春学期  火3時限",
+    "category": "日本をめぐる政治経済-必修科目",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-801",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "ジェンダー",
+    "field_middle": "ジェンダー",
+    "field_small": "ジェンダー",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "3-801"
+        }
+      ]
+    ],
+    "subtitle": "Gender and sexuality in society",
+    "textbook": "Readings will be distributed through Course Navi. No textbook is required.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "40％",
+        "detail": "Open book exam in week 15"
+      },
+      {
+        "name": "レポート",
+        "rate": "60％",
+        "detail": "20% - Reflective essay (1,000 words)\n40% - Opinion paper (1,500 words)"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Time Series Analysis A　01",
+    "professor": "片山　宗親",
+    "time": "春学期  金2時限",
+    "category": "経済学-必修科目以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "7-212",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "金融論・ファイナンス",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 2,
+          "classroom": "7-212"
+        }
+      ]
+    ],
+    "textbook": "W. Enders (2014), Applied Econometric Time Series, 4th Edition, John Wiley & Sons.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "Examination(s)\nIn-class closed-book final exam."
+      },
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "Report(s)\nEach assignment complements materials covered in the class. It focuses mostly on applications of theoretical concepts using statistical packages. It is strongly encouraged to work together with your classmates to do problem sets. It is an important element in learning process. However, it does not mean that you can copy and paste your friends’ answer as yours. No academic misconduct will be tolerated."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Public Policy Analysis　01",
+    "professor": "松田　憲忠",
+    "time": "秋学期  火2時限",
+    "category": "政治学-必修科目以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-710",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "公共政策／行政学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "3-710"
+        }
+      ]
+    ],
+    "subtitle": "Introductory Seminar on Public Policy",
+    "textbook": "Hill, Michael and Frédéric Varone (2016) The Public Policy Process, 7th Edition. Routledge.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "30％",
+        "detail": "- Final Exam"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "70％",
+        "detail": "- Oral presentations and handouts (40%)\n- Participation in class discussion (30%)"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "Attendance in class is mandatory unless there is a permissible reason. Poor attendance will result in a failing grade."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Microeconomics A　01",
+    "professor": "永田　良",
+    "time": "秋クォーター  01:火3時限／02:木3時限",
+    "category": "経済学-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "01:3-702／02:3-702",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論経済学・経済思想",
+    "level": "総仕上げ",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋クォーター",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "3-702"
+        },
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-702"
+        }
+      ]
+    ],
+    "textbook": "Geoffrey A. Jehle and Philip J. Reny, Advanced Microeconomic Theory, 3rd ed., Prentice Hall, 2011",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "the final test is achieved to see how accurately the students understand what they have learned in the lecture."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Macroeconomics A　01",
+    "professor": "上田　晃三／浜野　正樹",
+    "time": "秋クォーター  01:月3時限／02:金2時限",
+    "category": "経済学-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "01:3-808／02:3-808",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論経済学・経済思想",
+    "level": "総仕上げ",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋クォーター",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 3,
+          "classroom": "3-808"
+        },
+        {
+          "day": 5,
+          "period": 2,
+          "classroom": "3-808"
+        }
+      ]
+    ],
+    "subtitle": "Economic growth and business cycles",
+    "textbook": "A mainly used textbook is David Romer, Advanced Macroeconomics 4th eds., McGraw Hill.\nAdditional reading materials will be announced in the class of each module.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "Final examination only"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Microeconomics B　01",
+    "professor": "クヴァソフ　デミトリ",
+    "time": "冬クォーター  01:月4時限／02:金4時限",
+    "category": "経済学-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "01:3-708（演習室）／02:3-708（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論経済学・経済思想",
+    "level": "総仕上げ",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 4,
+          "classroom": "3-708（演習室）"
+        },
+        {
+          "day": 5,
+          "period": 4,
+          "classroom": "3-708（演習室）"
+        }
+      ]
+    ],
+    "textbook": "Recommended readings:\n1. Mas-Colell, A., Winson, M, and J. Green. Microeconomic Theory. Chapters 13 and 14.\n2. Bolton, P. and M. Dewatripoint. Contract Theory. Chapters 1-4, 7, 11.\n3. Hart, O. Firms, Contracts, and Financial Structure."
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Macroeconomics B　01",
+    "professor": "戸村　肇",
+    "time": "冬クォーター  01:水2時限／02:金2時限",
+    "category": "経済学-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "01:3-704／02:3-704",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論経済学・経済思想",
+    "level": "総仕上げ",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 2,
+          "classroom": "3-704"
+        },
+        {
+          "day": 5,
+          "period": 2,
+          "classroom": "3-704"
+        }
+      ]
+    ],
+    "textbook": "David Romer, Advanced Macroeconomics, fourth edition, McGraw-Hill, 2012.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "Final exam"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Linear Algebra　01",
+    "professor": "井上　淳",
+    "time": "春学期  水1時限",
+    "category": "政治経済分析手法-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-701",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "数学",
+    "field_middle": "数学",
+    "field_small": "幾何学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 1,
+          "classroom": "3-701"
+        }
+      ]
+    ],
+    "subtitle": "An introduction to matrix analysis for statistics",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "50% Midterm exam\n50% Final exam"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Calculus　01",
+    "professor": "永田　良",
+    "time": "冬クォーター  01:火3時限／02:木3時限",
+    "category": "政治経済分析手法-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "01:7-202／02:7-203",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "数学",
+    "field_middle": "数学",
+    "field_small": "数学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "7-202"
+        },
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "7-203"
+        }
+      ]
+    ],
+    "textbook": "Rangarajan K. Sundaram, A first course in optimization theory, Cambridge U.P., 1996",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "firm understanding of basic principles of optimization theory, flexible application of the principles, accurate calculation"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Advanced Comparative Politics　01",
+    "professor": "ケラム　マリサ　アンドレア",
+    "time": "春学期  火3時限",
+    "category": "政治学-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "7-205",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "比較政治",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "7-205"
+        }
+      ]
+    ],
+    "subtitle": "Comparative Political Institutions",
+    "textbook": "The reading list will be distributed in class. Readings will pull from various books and scholarly journal articles.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "50％",
+        "detail": "Final Exam."
+      },
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "Short essay (about 1000 words) that makes the case for one institutional change to increase accountability, equity, or democratic stability in the country. Due at the beginning of week 12."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "10％",
+        "detail": "Class participation."
+      },
+      {
+        "name": "その他",
+        "rate": "20％",
+        "detail": "20"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Introduction to C Programming　01",
+    "professor": "土肥　拓生",
+    "time": "秋学期  月3時限",
+    "category": "政治学-必修科目以外",
+    "target_grade": 1,
+    "credit": 2,
+    "classroom": "63号館3階端末室Bルーム",
+    "campus": "西早稲田（旧大久保）",
+    "language": "英語",
+    "field_large": "情報学",
+    "field_middle": "プログラミング言語",
+    "field_small": "概論",
+    "level": "初級レベル（入門・導入）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 3,
+          "classroom": "63号館3階端末室Bルーム"
+        }
+      ]
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Introduction to C Programming　02",
+    "professor": "シモセラ　エドガー",
+    "time": "秋学期  月3時限",
+    "category": "政治学-必修科目以外",
+    "target_grade": 1,
+    "credit": 2,
+    "classroom": "63号館3階端末室Cルーム",
+    "campus": "西早稲田（旧大久保）",
+    "language": "英語",
+    "field_large": "情報学",
+    "field_middle": "プログラミング言語",
+    "field_small": "概論",
+    "level": "初級レベル（入門・導入）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 3,
+          "classroom": "63号館3階端末室Cルーム"
+        }
+      ]
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Introduction to Java Programming　01",
+    "professor": "齋藤　大輔",
+    "time": "春学期  水6時限",
+    "category": "政治学-必修科目以外",
+    "target_grade": 1,
+    "credit": 2,
+    "classroom": "63号館3階端末室Cルーム",
+    "campus": "西早稲田（旧大久保）",
+    "language": "英語",
+    "field_large": "情報学",
+    "field_middle": "プログラミング言語",
+    "field_small": "概論",
+    "level": "初級レベル（入門・導入）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 6,
+          "classroom": "63号館3階端末室Cルーム"
+        }
+      ]
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Introduction to Fortran Programming　01",
+    "professor": "伊藤　国浩",
+    "time": "春学期  火4時限",
+    "category": "政治学-必修科目以外",
+    "target_grade": 1,
+    "credit": 2,
+    "classroom": "63号館3階端末室Aルーム",
+    "campus": "西早稲田（旧大久保）",
+    "language": "英語",
+    "field_large": "情報学",
+    "field_middle": "ソフトウェア工学",
+    "field_small": "概論",
+    "level": "初級レベル（入門・導入）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "63号館3階端末室Aルーム"
+        }
+      ]
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "C Programming　01",
+    "professor": "金井　謙治／小林　領",
+    "time": "秋学期  月4時限",
+    "category": "政治学-必修科目以外",
+    "target_grade": 1,
+    "credit": 2,
+    "classroom": "63号館3階端末室Bルーム",
+    "campus": "西早稲田（旧大久保）",
+    "language": "英語",
+    "field_large": "情報学",
+    "field_middle": "プログラミング言語",
+    "field_small": "概論",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 4,
+          "classroom": "63号館3階端末室Bルーム"
+        }
+      ]
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Java Programming　01",
+    "professor": "山中　脩也",
+    "time": "秋学期  木1時限",
+    "category": "政治学-必修科目以外",
+    "target_grade": 1,
+    "credit": 2,
+    "classroom": "63号館3階端末室Fルーム",
+    "campus": "西早稲田（旧大久保）",
+    "language": "英語",
+    "field_large": "情報学",
+    "field_middle": "プログラミング言語",
+    "field_small": "概論",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 1,
+          "classroom": "63号館3階端末室Fルーム"
+        }
+      ]
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Fortran Programming　01",
+    "professor": "伊藤　国浩",
+    "time": "秋学期  水1時限",
+    "category": "政治学-必修科目以外",
+    "target_grade": 1,
+    "credit": 2,
+    "classroom": "63号館3階端末室Cルーム",
+    "campus": "西早稲田（旧大久保）",
+    "language": "英語",
+    "field_large": "情報学",
+    "field_middle": "ソフトウェア工学",
+    "field_small": "概論",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 1,
+          "classroom": "63号館3階端末室Cルーム"
+        }
+      ]
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Comparative Politics of Western Europe　01",
+    "professor": "日野　愛郎",
+    "time": "秋学期  木4時限",
+    "category": "政治学-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-401",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "比較政治",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-401"
+        }
+      ]
+    ],
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "Final Exam"
+      },
+      {
+        "name": "その他",
+        "rate": "40％",
+        "detail": "Class Assignments"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Personnel Economics　01",
+    "professor": "大湾　秀雄",
+    "time": "秋学期  火1時限",
+    "category": "経済学-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-701",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "労働経済学・医療経済学・教育経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 1,
+          "classroom": "3-701"
+        }
+      ]
+    ],
+    "subtitle": "Designing human resource management systems and organizations",
+    "textbook": "Edward P. Lazear, Mike Gibbs, Personnel Economics in Practice, John Wiley & Sons Inc.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "45％",
+        "detail": "Testing whether you correctly understand the basic concepts and frameworks taught in the class."
+      },
+      {
+        "name": "レポート",
+        "rate": "45％",
+        "detail": "15% for each case. I evaluate whether you can apply what you learn in the class to real managerial problems"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "10％",
+        "detail": "Contribution to the class discussion"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Economics of Development and Environment　01",
+    "professor": "高橋　遼",
+    "time": "秋学期  木2時限",
+    "category": "経済学-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-801",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "応用経済学",
+    "field_small": "農業経済学・環境経済学・資源経済学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 2,
+          "classroom": "3-801"
+        }
+      ]
+    ],
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "In-Class Final Exam"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "Comment sheet (attendance is necessary)"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Public Philosophy (Economic Perspectives)　01",
+    "professor": "チョン　フン",
+    "time": "秋学期  水3時限",
+    "category": "経済学-必修科目以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-701",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "経済学",
+    "field_middle": "理論・計量経済学",
+    "field_small": "理論経済学・経済思想",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 3,
+          "classroom": "3-701"
+        }
+      ]
+    ],
+    "subtitle": "Introduction to Social Choice Theory",
+    "textbook": "The following book is required and will be used as our main textbook:\n\n- Wulf Gaertner (2006), A Primer in Social Choice Theory, Oxford University Press\n\nAdditional topics that are not covered in this book will be provided through lecture notes prepared by the professor.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "Midterm 1 (30%), Midterm 2 (30%), Final Exam (40%)"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Network Analysis　01",
+    "professor": "ソン　ユンギュ",
+    "time": "秋学期  水3時限",
+    "category": "政治経済分析手法-必修科目以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-306",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "数学",
+    "field_middle": "数学",
+    "field_small": "応用数学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 3,
+          "classroom": "3-306"
+        }
+      ]
+    ],
+    "textbook": "- Newman, Mark. Networks: an introduction. 2nd edition. Oxford university press, 2018. (You can either use the first edition of this book which was published in 2010. The chapters that will be covered in this class are almost identical in both editions. You can purchase the book at the university bookstore or amazon.co.jp.)\n- Kolaczyk, Eric D., and Gábor Csárdi. Statistical analysis of network data with R. Vol. 65. New York: Springer, 2014.(e-book available through the university library)",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "70％",
+        "detail": "In-class midterm exams"
+      },
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "A short research report"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "10％",
+        "detail": "Attendance and participation"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Global Leadership Fellows Program (GLFP): Directed Research Seminar - Theories and Methods of Political Science (Fall)　01",
+    "professor": "ケラム　マリサ　アンドレア",
+    "time": "秋学期  金3時限",
+    "category": "演習-必修科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-708（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 3,
+          "classroom": "3-708（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Directed Research Seminar in Theories and Methods of Political Science, Part I (Fall Semester)",
+    "textbook": "There is no textbook. Reading assignments consist of scholarly articles and book chapters.",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "Reading response papers: 30%\nStudents must submit 6 short papers (appx. 500 words) that offer a critical response to a weekly set of readings. A good response paper will include a one-paragraph summary of the main contributions, a one-paragraph critique of the limitations of the readings, and two questions raised by the readings that you would like to discuss in the seminar.\n\nFinal Reflection essay: 20%\nThe reflection prompt will be distributed in week 14. Essays (about 5-7 pages) are due at the start of class in week 15."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "Participation: the educational value of the seminar largely depends on the quality of class participation and student engagement. It is essential that students complete the readings prior to the session in which the readings are assigned, attend all sessions, and speak up in class!"
+      },
+      {
+        "name": "その他",
+        "rate": "30％",
+        "detail": "Presentations: For each week, different students will take responsibility for presenting the readings and leading the seminar discussion. (Students will be assigned to readings at the beginning of the semester.)"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Global Leadership Fellows Program (GLFP): Final Thesis - Theories of Contemporary Politics and International Relations　01",
+    "professor": "ケラム　マリサ　アンドレア",
+    "time": "秋学期  無その他",
+    "category": "演習-必修科目以外",
+    "target_grade": 4,
+    "credit": 4,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ],
+    "subtitle": "Writing a Final Project Paper of GLFP's US-Japan Seminar.",
+    "textbook": "Each advisor will specify for your research topic.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "No examination will be given."
+      },
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "Quality of your fainal project paper."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "Performance at individualized sessions with your advisor."
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "No other point is considered to determine your grade."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Global Leadership Fellows Program (GLFP): Directed Research Seminar - Theories and Methods of Political Science (Spring)　01",
+    "professor": "ケラム　マリサ　アンドレア",
+    "time": "春学期  金3時限",
+    "category": "演習-必修科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-708（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 3,
+          "classroom": "3-708（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Directed Research Seminar in Theories and Methods of Political Science, Part II (Spring Semester)",
+    "textbook": "(1) Writing a Research Paper in Political Science, 3rd Edition (2015) by Lisa A. Baglione. CQ Press\n\n(2) The Craft of Political Research, 9th Edition (2013), by W. Phillips Shively. Pearson.\n\n(3) Economical Writing, 2nd Edition (2000), by Deirdre N. McCloskey. Waveland Press, Inc.",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "Final research proposal, and preliminary sections submitted during the semester"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "25％",
+        "detail": "Participation involves discussion of readings, peer reviews, and presentations of work in progress"
+      },
+      {
+        "name": "その他",
+        "rate": "35％",
+        "detail": "Various assignments"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Asian Future Leader Program (AFLP) Seminar A　01",
+    "professor": "ジョウ　ウィリー",
+    "time": "秋学期  金4時限",
+    "category": "演習-必修科目",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-1103実習室",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 4,
+          "classroom": "3-1103実習室"
+        }
+      ]
+    ],
+    "textbook": "No textbook is required for this class.\nReadings for each session will be announced before class.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "35％",
+        "detail": "The final exam is a sitting exam and the assessment is a problem solving case. Methodology and expected standards will be detailed during the course."
+      },
+      {
+        "name": "レポート",
+        "rate": "35％",
+        "detail": "By the end of the semester you must write a research paper.\nMethodology and expected standards will be detailed during the course."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "This seminar relies on active participation and class debates."
+      },
+      {
+        "name": "その他",
+        "rate": "10％",
+        "detail": "Active participation."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Asian Future Leader Program (AFLP) Seminar B　01",
+    "professor": "アンドレ　ポール／ジョウ　ウィリー",
+    "time": "春学期  火3時限",
+    "category": "演習-必修科目",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-712（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "3-712（演習室）"
+        }
+      ]
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Asian Future Leader Program (AFLP) Seminar B　02",
+    "professor": "アンドレ　ポール／ジョウ　ウィリー",
+    "time": "春学期  火4時限",
+    "category": "演習-必修科目",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-805（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "総合／学際",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "3-805（演習室）"
+        }
+      ]
+    ],
+    "textbook": "No textbook is required for this class. Each session will have some (1 or 2) required readings or a case study.\nThe complete bibliography and readings per each session will be announced before each class.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "35％",
+        "detail": "The final exam is a sitting exam and the assessment is a problem solving case. Methodology and expected standards will be detailed during the course."
+      },
+      {
+        "name": "レポート",
+        "rate": "35％",
+        "detail": "Topic, due date and other requirements will be announced in class."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "PARTICIPATION: This seminar relies on active participation and class debates."
+      },
+      {
+        "name": "その他",
+        "rate": "10％",
+        "detail": "ATTENDANCE"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Asian Future Leader Program (AFLP) Thesis　01",
+    "professor": "ジョウ　ウィリー",
+    "time": "秋学期  無その他",
+    "category": "演習-必修科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "総合／学際",
+    "field_middle": "総合／学際",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "上級レベル",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ]
+  }
+]

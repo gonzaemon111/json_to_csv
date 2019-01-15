@@ -1,0 +1,8427 @@
+[
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "福祉行政　01",
+    "professor": "藤井　浩司",
+    "time": "春学期  01:木2時限／02:金2時限",
+    "category": "演習（専門）以外",
+    "target_grade": 2,
+    "credit": 4,
+    "classroom": "01:3-305／02:3-601",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "公共政策／行政学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 2,
+          "classroom": "3-305"
+        },
+        {
+          "day": 5,
+          "period": 2,
+          "classroom": "3-601"
+        }
+      ]
+    ],
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "学期末に試験を実施する。"
+      },
+      {
+        "name": "その他",
+        "rate": "20％",
+        "detail": "毎授業ではないが、学期中複数回出席状況を確認する。その出席状況を勘案して成績評価に反映する場合がある。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "日本外交論　01",
+    "professor": "権　容ソク",
+    "time": "秋学期  木5時限",
+    "category": "演習（専門）以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-402",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "国際政治",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 5,
+          "classroom": "3-402"
+        }
+      ]
+    ],
+    "textbook": "特に教科書はしていないが、日本外交を批判的かつ大局的に理解する上で、最も優れた入門書といえる入江昭『新・日本の外交』（中央公論新社、1991年）、および史実を理解する上でバランスの取れた概説書といえる、五百旗頭真編『新版　戦後日本外交史』（有斐閣、2006年）は必ず読むことをお勧めする。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "70％",
+        "detail": "成績評価においては以下の点を重視する：①講義の内容と趣旨についての理解、②歴史的事実についての正確な知識、③歴史的事象および展開の意義付け、全体的な流れを把握し体系的かつ包括的に理解しているか、④現代的な課題(問題意識)の抽出。レジュメ・ノートの丸暗記ではなく自分の独自の考えについて、論拠を示しながら論理的に展開できているかを評価する。「悩みのある答案」に高い評価を与える。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "随時提出してもらうコメント・ペーパー・小エッセーや宿題などを平常点として評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "国際法制度論　01",
+    "professor": "最上　敏樹",
+    "time": "秋学期  火4時限",
+    "category": "演習（専門）以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-302",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "比較政治",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "3-302"
+        }
+      ]
+    ],
+    "textbook": "・最上敏樹『国際機構論講義』（岩波書店、2016年）\n\n・最上敏樹『国連とアメリカ』（岩波書店、2005年）",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "70％",
+        "detail": "授業の基本知識を正確に習得しているかどうか、それに基づいて国際機構に関連する問題意識を養ったかどうかを試験で確認します。\n（試験の方式は受講者数に応じて決定し、当初の段階で伝えます。）"
+      },
+      {
+        "name": "その他",
+        "rate": "30％",
+        "detail": "レポートないし小テストまたは中間試験等のうち、いずれかを行うようにします。行なった場合は、30％相当分をこちらに振り向けます。「平常点評価」も、出席点を含め、暫定的にこの30％に入れておきます。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "計量政治学　01",
+    "professor": "浅野　正彦",
+    "time": "春学期  火3時限",
+    "category": "演習（専門）以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-903（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "現代政治／政治過程",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "3-903（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "textbook": "・久米郁男『原因を推論する』有斐閣、2013年、1890円。\n　・浅野正彦・矢内勇生『Stataによる計量政治学』オーム社 2013年、3360円。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "期末レポート。グループごとに得られた分析結果を一人一人が論文形式でまとめて学期末に提出してもらいます。"
+      },
+      {
+        "name": "その他",
+        "rate": "70％",
+        "detail": "宿題（50％）……学習項目ごとに宿題を提出してもらいます。宿題は採点して返却します。\n出席（20％）"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "計量政治学　02",
+    "professor": "浅野　正彦",
+    "time": "秋学期  火3時限",
+    "category": "演習（専門）以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-903（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "現代政治／政治過程",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "3-903（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "textbook": "・久米郁男『原因を推論する』有斐閣、2013年、1890円。\n　・浅野正彦・矢内勇生『R による計量政治学』オーム社 2018年。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "期末レポート。グループごとに得られた分析結果を一人一人が論文形式でまとめて学期末に提出してもらいます。"
+      },
+      {
+        "name": "その他",
+        "rate": "70％",
+        "detail": "宿題（50％）……学習項目ごとに宿題を提出してもらいます。宿題は採点して返却します。\n出席（20％）"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "計量政治学　03",
+    "professor": "浅野　正彦",
+    "time": "秋学期  火4時限",
+    "category": "演習（専門）以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-903（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "現代政治／政治過程",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "3-903（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "textbook": "・久米郁男『原因を推論する』有斐閣、2013年、1890円。\n　・浅野正彦・矢内勇生『R による計量政治学』オーム社 2018年。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "期末レポート。グループごとに得られた分析結果を一人一人が論文形式でまとめて学期末に提出してもらいます。"
+      },
+      {
+        "name": "その他",
+        "rate": "70％",
+        "detail": "宿題（50％）……学習項目ごとに宿題を提出してもらいます。宿題は採点して返却します。\n出席（20％）"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "平和研究　01",
+    "professor": "小林　誠",
+    "time": "秋学期  木3時限",
+    "category": "演習-必修科目",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-302",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "国際関係論",
+    "field_middle": "国際公共政策",
+    "field_small": "平和研究",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-302"
+        }
+      ]
+    ],
+    "textbook": "教科書は特に使用しないが、以下を読んでおくことを薦める。\n\nヨハン・ガルトゥング『構造的暴力と平和』中央大学出版会\nジョセフ・ナイ『国際紛争』有斐閣\nマイケル・ウォルツァー『正しい戦争と不正な戦争』風行社",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "試験の採点において、講義の到達目標を十分に獲得している場合は90％以上、十分ではないが、基本的な概念や論理をおおむね理解していると見られる場合は80％以上、部分的な理解に留まる場合は70％以上、講義理解の努力が認められない場合はそれ未満とする。講義の骨格をも把握せず、あるいは出席を著しく欠く場合は50点未満とする。"
+      },
+      {
+        "name": "レポート",
+        "rate": "0％",
+        "detail": "なし。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "コメント・カード、出欠、発言、小レポートなどから換算する。"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "なし。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "理論社会学　01",
+    "professor": "数土　直紀",
+    "time": "春学期  01:水4時限／02:水5時限",
+    "category": "社会・行動科学",
+    "target_grade": 2,
+    "credit": 4,
+    "classroom": "01:3-401／02:3-401",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "社会学",
+    "field_middle": "社会学",
+    "field_small": "その他",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 4,
+          "classroom": "3-401"
+        },
+        {
+          "day": 3,
+          "period": 5,
+          "classroom": "3-401"
+        }
+      ]
+    ],
+    "textbook": "特になし（配布資料をもちいて、講義をおこなう）",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "70％",
+        "detail": "基本的な事項に関する理解の正確さ。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "授業内で複数回実施する小テスト受験の有無。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "近代社会思想　01",
+    "professor": "深貝　保則",
+    "time": "秋学期  01:水4時限／02:水5時限",
+    "category": "社会・行動科学",
+    "target_grade": 2,
+    "credit": 4,
+    "classroom": "01:3-801／02:3-801",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "哲学",
+    "field_middle": "思想史",
+    "field_small": "近代思想史",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 4,
+          "classroom": "3-801"
+        },
+        {
+          "day": 3,
+          "period": 5,
+          "classroom": "3-801"
+        }
+      ]
+    ],
+    "subtitle": "社会についての知、社会を動かす知、そして知の社会的制度",
+    "textbook": "とくに教科書を用いず、画像による説明のほか、随時資料を配布する。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "講義内容を応用した記述（第30回に実施）"
+      },
+      {
+        "name": "レポート",
+        "rate": "0％",
+        "detail": "講義中に発表を行なった場合、レポート提出をもって試験に代替することができる（備考欄を参照）"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "講義中の発言、記述を勘案する"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "社会心理学　01",
+    "professor": "田中　知恵",
+    "time": "春学期  01:木3時限／02:木4時限",
+    "category": "社会・行動科学",
+    "target_grade": 2,
+    "credit": 4,
+    "classroom": "01:3-301／02:3-301",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "心理学",
+    "field_middle": "心理学",
+    "field_small": "社会心理学・産業心理学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-301"
+        },
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-301"
+        }
+      ]
+    ],
+    "textbook": "指定しない。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "75％",
+        "detail": "社会心理学の研究方法と知見を正しく評価できているか。身近な現象に対して、社会心理学の知識を用いて考えることができるか。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "25％",
+        "detail": "授業への参加態度ならびにコメントペーパーの内容を評価の対象とする。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "社会調査　01",
+    "professor": "西郷　浩／土屋　隆裕",
+    "time": "秋学期  01:月4時限／02:月5時限",
+    "category": "方法論",
+    "target_grade": 2,
+    "credit": 4,
+    "classroom": "01:3-305／02:3-305",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "社会学",
+    "field_middle": "社会学",
+    "field_small": "概論",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 4,
+          "classroom": "3-305"
+        },
+        {
+          "day": 1,
+          "period": 5,
+          "classroom": "3-305"
+        }
+      ]
+    ],
+    "subtitle": "標本調査の基礎と応用",
+    "textbook": "前半15回：土屋隆裕(2009)『概説 標本調査法』朝倉書店 ISBN978-4-254-12791-1\n後半15回：スライドを用意する。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "中間試験50%、期末試験50%、両者の合計で成績を評価する。"
+      },
+      {
+        "name": "レポート",
+        "rate": "0％",
+        "detail": ""
+      },
+      {
+        "name": "平常点評価",
+        "rate": "0％",
+        "detail": ""
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": ""
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "農村問題　01",
+    "professor": "坂本　誠",
+    "time": "秋学期  木4時限",
+    "category": "関連分野",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-301",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "公共政策／行政学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-301"
+        }
+      ]
+    ],
+    "textbook": "なし。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "60％",
+        "detail": "定期試験を実施し、授業内容全般についての理解度を確認する。"
+      },
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "農村をとりまく課題に関する思考・分析能力を問う。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "",
+        "detail": "毎回の授業で出席をとり加点要素とする。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "商法（会社法）　01",
+    "professor": "上村　達男",
+    "time": "秋学期  01:火4時限／02:金4時限",
+    "category": "法学",
+    "target_grade": 3,
+    "credit": 4,
+    "classroom": "01:8-106／02:8-106",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "法学",
+    "field_middle": "民事法",
+    "field_small": "商法",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "8-106"
+        },
+        {
+          "day": 5,
+          "period": 4,
+          "classroom": "8-106"
+        }
+      ]
+    ],
+    "subtitle": "公開会社の法理と閉鎖会社の法理",
+    "textbook": "江頭憲治郎・株式会社法第七版(有斐閣2017)\n\n　 副読本\n会社法判例百選・第3版(有斐閣)",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "例年、必答の大きな問題1問と、三問中一問選択問題を出題している。\n授業の水準は落とさないが、それをそのまま試験で求めることはしない。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "刑法　01",
+    "professor": "松原　芳博",
+    "time": "春学期  01:火4時限／02:金4時限",
+    "category": "法学",
+    "target_grade": 2,
+    "credit": 4,
+    "classroom": "01:8-B102／02:8-B102",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "法学",
+    "field_middle": "刑事法",
+    "field_small": "刑法",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "8-B102"
+        },
+        {
+          "day": 5,
+          "period": 4,
+          "classroom": "8-B102"
+        }
+      ]
+    ],
+    "textbook": "松原芳博『刑法総論〔第2版〕』(2017年日本評論社3月刊行予定）",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "労働法I　01",
+    "professor": "島田　陽一",
+    "time": "春学期  木2時限",
+    "category": "法学",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "8-106",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "法学",
+    "field_middle": "社会法",
+    "field_small": "社会法概論",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 2,
+          "classroom": "8-106"
+        }
+      ]
+    ],
+    "textbook": "浅倉むつ子・島田陽一・盛誠吾『労働法第5版』（有斐閣アルマ、2015年）",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "試験の結果を評価する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "10％",
+        "detail": "Course N@vi上での教材の利用状況、わせポチへの参加、授業態度などから判断する。"
+      },
+      {
+        "name": "その他",
+        "rate": "10％",
+        "detail": "Course N@vi上で7月に小テストを実施する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "労働法II　01",
+    "professor": "島田　陽一",
+    "time": "秋学期  木2時限",
+    "category": "法学",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "15-202",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "法学",
+    "field_middle": "社会法",
+    "field_small": "社会法概論",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 2,
+          "classroom": "15-202"
+        }
+      ]
+    ],
+    "textbook": "浅倉むつ子・島田陽一・盛誠吾『労働法第5版』（有斐閣アルマ、2015年）",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "試験結果を評価する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "10％",
+        "detail": "Course N@vi上の教材の利用状況、わせポチへの参加状況および授業態度など。"
+      },
+      {
+        "name": "その他",
+        "rate": "10％",
+        "detail": "Course N@vi上の小テストを1月に実施します。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "民法（総則）A　01",
+    "professor": "青木　則幸",
+    "time": "春学期  火2時限",
+    "category": "法学",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "14-201",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "法学",
+    "field_middle": "民事法",
+    "field_small": "民法",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "14-201"
+        }
+      ]
+    ],
+    "textbook": "近江幸治『民法講義I民法総則』（第6版補訂・成文堂）、六法（本講義では、学習用の小型のもので、判例要約のついていないものを用意してほしい。また、最新版を用意すること。）。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "筆記試験による。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "民法（総則）A　02",
+    "professor": "近江　幸治",
+    "time": "春学期  火3時限",
+    "category": "法学",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "8-106",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "法学",
+    "field_middle": "民事法",
+    "field_small": "民法",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "8-106"
+        }
+      ]
+    ],
+    "textbook": "近江幸治『民法講義I民法総則〔第6版補訂〕』（成文堂刊）\n\n六法全書：必須の教材であるから、常に携行してください（どれでもよい。判例要旨など入っていない薄いものが携帯に便利。スマホ版などでもよい）",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "事例形式の試験を実施し、授業の内容の全般的な理解度を評価するとともに、学習した民法理論を確実に理解した上で、具体的な事例に適用・応用できるレベルに達したかを評価します。"
+      },
+      {
+        "name": "レポート",
+        "rate": "",
+        "detail": "レポートは、特に要求しません。ただし、年度により早稲田法学会主催の民事模擬裁判が開催される場合には傍聴を義務づけ、レポートを提出させて評価の対象とします（10パーセント以内）。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "",
+        "detail": "特に平常点を独立して評価の対象とはしませんが、授業内または授業外で積極的に質問する学生には、その質問内容を勘案して、上記「試験」評価内容にプラス要素として加味することがあります。"
+      },
+      {
+        "name": "その他",
+        "rate": "20％",
+        "detail": "（1）予告なく出欠調査を行い、その出席状況を最大20パーセント程度として、成績に反映させます。\n（2）反対に、学期の授業回数は期末試験を除いて14回ですが、正当な理由なく3分の1を超えて欠席した者は（5回以上欠席した者）、評価の対象から外れます。\nこれらの取扱は、大学の授業システムについて、大講義といえども、旧来の一方的な講義ではなく、教員と学生との双方向的なコミュニケーションによる学問の展開という新しい授業形態ポリシーに基づくものです。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "民法（総則）A　03",
+    "professor": "岩志　和一郎",
+    "time": "春学期  月2時限",
+    "category": "法学",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "8-106",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "法学",
+    "field_middle": "民事法",
+    "field_small": "民法",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 2,
+          "classroom": "8-106"
+        }
+      ]
+    ],
+    "textbook": "近江幸治「民法講義　I 民法総則」（成文堂）を使用する。\nなお、Course N@vi上に、講義のレジュメを掲載するので、第1回講義時には、それを取得し、持参すること。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "学期末試験による。100点満点、60点を合格点とし、合格者については、法学部の評価基準に従って、相対評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "民法（総則）B　01",
+    "professor": "青木　則幸",
+    "time": "秋学期  火2時限",
+    "category": "法学",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "8-B101",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "法学",
+    "field_middle": "民事法",
+    "field_small": "民法",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "8-B101"
+        }
+      ]
+    ],
+    "textbook": "近江幸治『民法講義I民法総則』（第6版補訂・成文堂）、六法（本講義では、学習用の小型のもので、判例要約のついていないものを用意してほしい。また、最新版を用意すること。）。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "筆記試験による。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "民法（総則）B　02",
+    "professor": "近江　幸治",
+    "time": "秋学期  火3時限",
+    "category": "法学",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "8-106",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "法学",
+    "field_middle": "民事法",
+    "field_small": "民法",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "8-106"
+        }
+      ]
+    ],
+    "textbook": "近江幸治『民法講義I民法総則〔第6版補訂〕』（成文堂刊）\n　六法全書：必須の教材であるから、常に携行してください（どれでもよい。判例要旨など入っていない薄いものが携帯に便利。スマホ版などでもよい）",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "事例形式の試験を実施し、授業の内容の全般的な理解度を評価するとともに、学習した民法理論を確実に理解した上で、具体的な事例に適用・応用できるレベルに達したかを評価します。"
+      },
+      {
+        "name": "レポート",
+        "rate": "",
+        "detail": "レポートは、特に要求しません。ただし、年度により早稲田法学会主催の民事模擬裁判が開催される場合には傍聴を義務づけ、レポートを提出させて評価の対象とします（10パーセント以内）。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "",
+        "detail": "特に平常点を独立して評価の対象とはしませんが、授業内または授業外で積極的に質問する学生には、その質問内容を勘案して、上記「試験」評価内容にプラス要素として加味することがあります。"
+      },
+      {
+        "name": "その他",
+        "rate": "20％",
+        "detail": "（1）予告なく出欠調査を行い、その出席状況を最大20パーセント程度として、成績に反映させます。\n（2）反対に、学期の授業回数は期末試験を除いて14回ですが、正当な理由なく3分の1を超えて欠席した者は（5回以上欠席した者）、評価の対象から外れます。\nこれらの取扱は、大学の授業システムについて、大講義といえども、旧来の一方的な講義ではなく、教員と学生との双方向的なコミュニケーションによる学問の展開という新しい授業形態ポリシーに基づくものです。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "民法（総則）B　03",
+    "professor": "岩志　和一郎",
+    "time": "秋学期  月2時限",
+    "category": "法学",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "10-109",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "法学",
+    "field_middle": "民事法",
+    "field_small": "民法",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 2,
+          "classroom": "10-109"
+        }
+      ]
+    ],
+    "textbook": "近江幸治「民法講義　I 民法総則」（成文堂）を使用する。\nなお、Course N@vi上に、講義のレジュメを掲載するので、第1回講義時には、それを取得し、持参すること。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "学期末試験による。100点満点、60点を合格点とし、合格者については、法学部の評価基準に従って、相対評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "民法（物権法）　01",
+    "professor": "大場　浩之",
+    "time": "春学期  火2時限",
+    "category": "法学",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "8-106",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "法学",
+    "field_middle": "民事法",
+    "field_small": "民法",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "8-106"
+        }
+      ]
+    ],
+    "textbook": "予習のために、秋山靖浩・伊藤栄寿・大場浩之・水津太郎『物権法』（日本評論社・平27）を挙げておく。また、最新版の六法も必携である。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "定期試験によって評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "民法（物権法）　02",
+    "professor": "青木　則幸",
+    "time": "春学期  木2時限",
+    "category": "法学",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "8-308",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "法学",
+    "field_middle": "民事法",
+    "field_small": "民法",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 2,
+          "classroom": "8-308"
+        }
+      ]
+    ],
+    "textbook": "近江幸治『民法講義II物権法』（成文堂・2006）、『民法判例百選I〔第7版〕』（有斐閣）（4月までに第8版が出ていれば第8版を準備してもらいたい）、学習用六法（最新版・判例の引用のついていないものを推奨）。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "期末の筆記試験のみ。試験のスタイルと目的、評価の指針については、講義中にガイダンスを設け、説明する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "民法（物権法）　03",
+    "professor": "大場　浩之",
+    "time": "秋学期  火2時限",
+    "category": "法学",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "8-106",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "法学",
+    "field_middle": "民事法",
+    "field_small": "民法",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "8-106"
+        }
+      ]
+    ],
+    "textbook": "予習のために、秋山靖浩・伊藤栄寿・大場浩之・水津太郎『物権法［第2版］』（日本評論社・平30）（12月刊行予定）を挙げておく。また、最新版の六法も必携である。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "定期試験によって評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "民法（債権総論）A　01",
+    "professor": "白石　大",
+    "time": "春学期  木5時限",
+    "category": "法学",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "8-106",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "法学",
+    "field_middle": "民事法",
+    "field_small": "民法",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 5,
+          "classroom": "8-106"
+        }
+      ]
+    ],
+    "textbook": "改正法が成立してからはまだ日が浅く、改正に対応した教科書はまだ十分に出揃っていませんので、初回の講義まで待って案内する予定です。\nなお、六法は必ず持参してください（上記のとおり民法は改正されますので、古い六法では役に立ちません。必ず新しい六法を用意してください。また、スマートフォンで条文を参照するのではなく、紙の六法を用意されることを強く推奨します）。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "期末に実施する試験の成績によって評価します。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "民法（債権総論）A　02",
+    "professor": "三枝　健治",
+    "time": "春学期  水2時限",
+    "category": "法学",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "8-B102",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "法学",
+    "field_middle": "民事法",
+    "field_small": "民法",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 2,
+          "classroom": "8-B102"
+        }
+      ]
+    ],
+    "textbook": "開講時又は開講時までに指示する。",
+    "evaluation_method": []
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "民法（債権総論）A　03",
+    "professor": "後藤　巻則",
+    "time": "春学期  月4時限",
+    "category": "法学",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "14-201",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "法学",
+    "field_middle": "民事法",
+    "field_small": "民法",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 4,
+          "classroom": "14-201"
+        }
+      ]
+    ],
+    "textbook": "後藤巻則『契約法講義〔第4版』 （弘文堂、2017年）、各回にレジュメを配布する。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "90％",
+        "detail": "成績評価は、基本的に学期末試験によって行うが、レポートを課す場合には、レポートの評価と期末試験の評価をあわせて90％とする。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "10％",
+        "detail": "出席状況を調べたり、小テストを課す場合には、その評価等、期末試験以外の評価要素を10％とする。授業開始後の状況により、平常点評価をせずに期末試験で100％の成績評価をする可能性もある。"
+      },
+      {
+        "name": "その他",
+        "rate": "",
+        "detail": "なし"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "民法（債権総論）B　01",
+    "professor": "白石　大",
+    "time": "秋学期  木5時限",
+    "category": "法学",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "8-106",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "法学",
+    "field_middle": "民事法",
+    "field_small": "民法",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 5,
+          "classroom": "8-106"
+        }
+      ]
+    ],
+    "textbook": "改正法が成立してからはまだ日が浅く、改正に対応した教科書はまだ十分に出揃っていませんので、初回の講義まで待って案内する予定です。\n　なお、六法は必ず持参してください（上記のとおり民法は改正されますので、古い六法では役に立ちません。必ず新しい六法を用意してください。また、スマートフォンで条文を参照するのではなく、紙の六法を用意されることを強く推奨します）。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "期末に実施する試験の成績によって評価します。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "民法（債権総論）B　02",
+    "professor": "三枝　健治",
+    "time": "秋学期  水2時限",
+    "category": "法学",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-306",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "法学",
+    "field_middle": "民事法",
+    "field_small": "民法",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 2,
+          "classroom": "3-306"
+        }
+      ]
+    ],
+    "textbook": "開講時又は開講時までに指示する。",
+    "evaluation_method": []
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "民法（債権総論）B　03",
+    "professor": "鎌野　邦樹",
+    "time": "秋学期  月4時限",
+    "category": "法学",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "8-106",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "法学",
+    "field_middle": "民事法",
+    "field_small": "民法",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 4,
+          "classroom": "8-106"
+        }
+      ]
+    ],
+    "textbook": "森泉章・鎌野邦樹著『民法入門　債権総論　第4版』日本評論社を使用する。ただ、各自が春学期で使用している債権総論ないし契約法（債権各論）についての教科書を引き続き使用して予習・復習をしてもよい（この点については、改めて最初の時間に指示する）。なお、基礎が不十分な者は、事前に、鎌野邦樹『図解雑学　民法』（ナツメ出版）を読んで、民法の全体（体系）を学修しておくこと。授業では、毎回、次回以降のレジュメを事前配付するので、各自が自ら使用する教科書で該当箇所を予習しておくこと。なお、上記の各回の「教科書OO」は、森泉・鎌野の教科書の該当箇所(ただし、教科書の改訂版では、章立てが変更する可能性あり)。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "試験を実施します。授業の内容全般についての理解度を評価します。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "国際政治史　01",
+    "professor": "田中　孝彦",
+    "time": "春学期  01:火1時限／02:火2時限",
+    "category": "演習（専門）以外",
+    "target_grade": 2,
+    "credit": 4,
+    "classroom": "01:3-801／02:3-801",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "国際政治",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 1,
+          "classroom": "3-801"
+        },
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "3-801"
+        }
+      ]
+    ],
+    "subtitle": "Global History としての冷戦期世界政治",
+    "textbook": "Robert McMahon (2003) The Cold War: A Very Short Introduction, Oxford University Press.\nAmazonで1500円程度で購入が可能。各自入手のこと。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "中間試験と学期末試験を行い、平均点で評価します。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "ジャーナリズム研究 (湯原法史)",
+    "professor": "湯原　法史",
+    "time": "春学期  水4時限",
+    "category": "学部共通科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-802",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "ジャーナリズム",
+    "field_middle": "ジャーナリズム",
+    "field_small": "現代",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 4,
+          "classroom": "3-802"
+        }
+      ]
+    ],
+    "textbook": "特に設けない。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "3回程度の提出を求めます。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "「聴く」ことと「話すこと」を中心に。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学研究　春学期(中央省庁における政策過程-情報通信政策の実務を題材に-)",
+    "professor": "縣　公一郎／菅田　洋一／藤野　克",
+    "time": "春学期  水5時限",
+    "category": "演習（専門）以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-702",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "公共政策／行政学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 5,
+          "classroom": "3-702"
+        }
+      ]
+    ],
+    "subtitle": "中央省庁における政策過程－情報通信政策の実務を題材に－",
+    "textbook": "Course N@viに資料を掲示する。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "90％",
+        "detail": "期末試験における評価。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "10％",
+        "detail": "出席状況を考慮する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "ジャーナリズム研究 (和田仁)",
+    "professor": "和田　仁",
+    "time": "秋学期  金4時限",
+    "category": "学部共通科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-305",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "ジャーナリズム",
+    "field_middle": "ジャーナリズム",
+    "field_small": "現代",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 4,
+          "classroom": "3-305"
+        }
+      ]
+    ],
+    "subtitle": "パブリックリレーションズの現在",
+    "textbook": "指定しない。講義資料を毎回配布予定。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "70％",
+        "detail": "期末に課題レポート試験を実施します。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "出席者に対して、授業内容・その時々のPRに関する記事・報道などについての質疑応答を行います。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治思想文献研究（英語）　01",
+    "professor": "谷澤　正嗣／山岡　龍一",
+    "time": "春学期  木2時限",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-805（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治思想",
+    "level": "総仕上げ",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 2,
+          "classroom": "3-805（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Understanding philosophical foundations for modern political theory",
+    "textbook": "Thomas Hobbes, Leviathan, ed. by Richard Tuck, Cambridge University Press, 1991.\nJohn Locke, Two Treatises of Government, ed. by Peter Laslett, Cambridge University Press, 1988.\nJohn Stuart Mill, Utilitarianism, ed. by Roger Crisp, Oxford University Press, 1998.",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "70％",
+        "detail": "A final essay report will be assigned."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "Every student must make at least one presentation. Student’s contribution to the discussion will also be taken into consideration."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "比較政治文献研究（英語）　01",
+    "professor": "日野　愛郎",
+    "time": "秋学期  火2時限",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-909実習室",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "比較政治",
+    "level": "総仕上げ",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "3-909実習室"
+        }
+      ]
+    ],
+    "textbook": "There is no textbook for this course.",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "Based on the literature review of a chosen topic."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "60％",
+        "detail": "Based on the attendance, presentation, participation in and contribution to the class discussion."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学基礎文献研究（ドイツ語）　01",
+    "professor": "縣　公一郎",
+    "time": "春学期  火3時限",
+    "category": "演習（専門）以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-807（演習室）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "3-807（演習室）"
+        }
+      ]
+    ],
+    "textbook": "第一回の講義で、履修者方の希望に基づき、話し合って決定する。なお、2016年度は、Hannah Arendtの作品を精読した。",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "授業内の報告内容を評価する"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学基礎文献研究（ドイツ語）　02",
+    "professor": "山田　正行",
+    "time": "秋学期  金3時限",
+    "category": "演習（専門）以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-706（演習室）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 3,
+          "classroom": "3-706（演習室）"
+        }
+      ]
+    ],
+    "textbook": "授業で取り上げるテクストは、候補となるものをいくつか事前に選んでおきますが、受講者の語学力や専攻に応じて変動の余地があります。したがって、受講者サイドで事前にテクストを用意する必要はありません。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "・授業で取り上げられない箇所についての訳読をレポートとして評価対象とします。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "80％",
+        "detail": "・毎回の授業における担当箇所の理解度が直接的な評価の対象となります。\n・それ以外の発言等の授業への参加度も評価の対象となります。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学基礎文献研究（フランス語）　01",
+    "professor": "片岡　貞治",
+    "time": "春学期  月5時限",
+    "category": "演習（専門）以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-708（演習室）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 5,
+          "classroom": "3-708（演習室）"
+        }
+      ]
+    ],
+    "textbook": "使用しない。",
+    "evaluation_method": [
+      {
+        "name": "その他",
+        "rate": "100％",
+        "detail": "100"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学基礎文献研究（フランス語）　02",
+    "professor": "大中　一彌",
+    "time": "秋学期  月6時限",
+    "category": "演習（専門）以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-810（演習室）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 6,
+          "classroom": "3-810（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "移民問題に関する基本文献を知ろう。",
+    "textbook": "Gilles Kepel, Les banlieues de l'Islam. Naissance d'une religion en France, Éditions du Seuil, collection \"Points Actuels\", 2015 (ISBN-13: 978-2757853450).　※初版は1987年刊行。教科書を購入できない場合、図書館でコピーをして、入手してください。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "試験はおこないません。"
+      },
+      {
+        "name": "レポート",
+        "rate": "0％",
+        "detail": "レポートを課すことはありません。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "授業内での教科書の読解（語学上の理解の意味での）への参加の量と質"
+      },
+      {
+        "name": "その他",
+        "rate": "50％",
+        "detail": "授業外学習を含めた参加の積極性。※受講者の学年にばらつきがあるため、語学力じたいも評価対象にはするが、開講時の語学力を前提として、各自がどこまで力を伸ばそうとしているか、も成績評価のポイントとなる。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学基礎文献研究（中国語）　01",
+    "professor": "楊　志輝",
+    "time": "秋学期  月5時限",
+    "category": "演習（専門）以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-1103実習室",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 5,
+          "classroom": "3-1103実習室"
+        }
+      ]
+    ],
+    "subtitle": "時事中国語を学ぶ",
+    "textbook": "三潴正道・陳祖（バイ）　2018年度版『時事中国語の教科書：一帯一路』朝日出版社、1900円（税別）。配布資料。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "30％",
+        "detail": "中国語文献の翻訳・読解"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "70％",
+        "detail": "毎週の課題とグループワークでのパフォーマンス"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学基礎文献研究（中国語）　02",
+    "professor": "齊藤　泰治",
+    "time": "春学期  火4時限",
+    "category": "演習（専門）以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-811（演習室）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "3-811（演習室）"
+        }
+      ]
+    ],
+    "textbook": "特定の教科書はありません。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "70％",
+        "detail": "第8回目に中間試験、第15回目（最終回）に期末試験を行い、両方の点数を総合して評価します。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "毎回出席して積極的に授業に参加することが前提です。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学基礎文献研究（スペイン語）　01",
+    "professor": "山崎　眞次",
+    "time": "春学期  木3時限",
+    "category": "演習（専門）以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-705（演習室）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 3,
+          "classroom": "3-705（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "ラテンアメリカの多様性",
+    "textbook": "La gestión de la migración México-Estados Unidos: Un enfoque binacional(2008)\nSIESAS, México",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "70％",
+        "detail": "毎回の講読後、担当部分の翻訳を清書して提出する"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "翻訳部分が提示する問題点を洞察する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学基礎文献研究（朝鮮語）　01",
+    "professor": "小林　聡明",
+    "time": "春学期  火4時限",
+    "category": "演習（専門）以外",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-912実習室",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "3-912実習室"
+        }
+      ]
+    ],
+    "subtitle": "韓国外交部文書を読み解く－機密解除された史料の「面白さ」と歴史の奥行きを学ぶために",
+    "textbook": "韓国外交文書：講師の方で準備し、電子ファイルあるいは紙媒体の形で配付する",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "試験は実施しない"
+      },
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "問題設定と論理展開の妥当性"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "70％",
+        "detail": "出席点　10％\n議論への貢献度　20％\n発表　40％"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "0"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学研究　秋学期(遠藤貢)",
+    "professor": "遠藤　貢",
+    "time": "秋学期  火2時限",
+    "category": "演習（専門）以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-709",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "比較政治",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "3-709"
+        }
+      ]
+    ],
+    "subtitle": "現代アフリカの政治と国際関係",
+    "textbook": "特に指定しないが開講時に教科書に準じる文献を紹介する。\n　適宜授業の際にはハンドアウトを配布し、直接関係のある文献も提示する。\nなお、授業に関わる文献等は以下の通りである。\n①遠藤貢「アフリカ『政治』の深層論理：二つの公共領域論を手がかりにして」飯塚繁太郎他編『政治理論と公共政策』新評論、1998年、91～105ページ。\n②遠藤貢「アフリカにおける『民主化』経験と政治体制評価の新課題」日本比較政治学会『現代民主主義の再検討』（年報第14号）、ミネルヴァ書房、2012年、1～26ページ。\n③峯陽一『現代アフリカと開発経済学』第3章\n④高橋基樹・正木馨「構造調整」北川勝彦・高橋基樹編『アフリカ経済論』ミネルヴァ書房、2005年、95～116ページ。\n⑤武内進一「アフリカの紛争：その今日的特質について」武内進一編『現代アフリカの紛争』アジア経済研究所、2000年、3～54ページ。\n⑥武内進一「アフリカの紛争と国際社会」武内進一編戦争と平和の間：紛争勃発後のアフリカと国際社会』アジア経済研究所、2008年、3～56ページ。\n⑦遠藤貢「アフリカからみた世界システム」『国際問題』533号、2004年、2～18ページ。\n⑧遠藤貢「アフリカと国際政治－国家変容とそのフロンティア－」国分・酒井・遠藤編『日本の国際政治3　地域からみた国際政治』2009年, 157～174ページ。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "授業内試験（記述式）を実施する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "ビデオレポートの提出により評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "ジャーナリズム研究 (金平茂紀)",
+    "professor": "金平　茂紀",
+    "time": "秋学期  月4時限",
+    "category": "学部共通科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-404",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "ジャーナリズム",
+    "field_middle": "ジャーナリズム",
+    "field_small": "現代",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 4,
+          "classroom": "3-404"
+        }
+      ]
+    ],
+    "subtitle": "内外の政治報道のありようを多角的に分析・批評する。",
+    "textbook": "適宜、指示します。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "10％",
+        "detail": "予習の必要のないテストを一回だけ実施する予定ですが\nテーマは授業の内容に沿ったものとなります。"
+      },
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "長めのリポートを1回くらい書いてもらうかもしれませんが未定です。受講生の人数にもよるので。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "60％",
+        "detail": "質問、意見の表明を大歓迎します。そこで講義がストップしてしまっても構いません。"
+      },
+      {
+        "name": "その他",
+        "rate": "10％",
+        "detail": "10"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "ジャーナリズム研究 (歌田明弘)",
+    "professor": "歌田　明弘",
+    "time": "秋学期  金3時限",
+    "category": "学部共通科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-1103実習室",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "ジャーナリズム",
+    "field_middle": "ジャーナリズム",
+    "field_small": "現代",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 3,
+          "classroom": "3-1103実習室"
+        }
+      ]
+    ],
+    "subtitle": "デジタル・ジャーナリズムの可能性と問題点",
+    "textbook": "資料は授業時に配布する。",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "80％",
+        "detail": "毎授業後のCourse@Naviの「レヴュー」での意見・感想の記入。研究発表やレヴューへの記入、ディスカッションなど、授業への積極的な参加が評価の基準。"
+      },
+      {
+        "name": "その他",
+        "rate": "20％",
+        "detail": "研究発表。ウェイトは低いが、単位取得のためには研究発表が条件。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学研究　春学期(菊池努)",
+    "professor": "菊池　努",
+    "time": "春学期  火2時限",
+    "category": "演習（専門）以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-608（演習室）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "比較政治",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "3-608（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "冷戦後のアジア太平洋の国際関係",
+    "textbook": "特に指定せず。ただし、以下の書物を事前に購入し、読んでおくこと望ましい。山影進編「新しいASEAN-地域共同体とアジアの中心性を目指して」（アジア経済研究所、2011年12月）1200円＋税",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "70％",
+        "detail": "授業内容を的確に理解しているかを確認します。"
+      },
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "期末に学術論文を批判するレポートを課します。A4　3－4枚の「論文批判」を期末レポートとして提出してもらいます。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "10％",
+        "detail": "発言（意見や質問）の質と頻度。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学研究　春学期(河野洋平元衆議院議長のオーラル・ヒストリーを中心に学ぶ日本外交論)",
+    "professor": "田中　孝彦／中村　英俊",
+    "time": "春学期  金5時限",
+    "category": "演習（専門）以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-702",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 5,
+          "classroom": "3-702"
+        }
+      ]
+    ],
+    "subtitle": "戦後日本の政治と外交：河野洋平元衆議院議長と学ぶ軌跡と課題"
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "ジャーナリズム論　01",
+    "professor": "瀬川　至朗",
+    "time": "秋学期  月3時限",
+    "category": "学部共通科目",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-302",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "ジャーナリズム",
+    "field_middle": "ジャーナリズム",
+    "field_small": "ジャーナリズム",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 3,
+          "classroom": "3-302"
+        }
+      ]
+    ],
+    "textbook": "特にない。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "50％",
+        "detail": "期末レポートを評価する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "授業への出席▽各授業ごとの感想票▽小レポート（計3回程度）▽議論への貢献度を総合的に評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "ジャーナリズム分析入門　01",
+    "professor": "細貝　亮",
+    "time": "春学期  木1時限",
+    "category": "学部共通科目",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-903（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "ジャーナリズム",
+    "field_middle": "ジャーナリズム",
+    "field_small": "ジャーナリズム",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 1,
+          "classroom": "3-903（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "subtitle": "メディアを実証的に分析する\n内容分析の新展開",
+    "textbook": "特に指定しない。\nレジュメを配布する。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "60％",
+        "detail": "講義で学んだ「内容分析」の手法を活かして、仮説の設定・検証ができているかを問う。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "講義中の実習課題、毎週課される宿題によって平常点を評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "ジャーナリズムの法と倫理　01",
+    "professor": "山田　健太",
+    "time": "春学期  月3時限",
+    "category": "学部共通科目",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-401",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "ジャーナリズム",
+    "field_middle": "ジャーナリズム",
+    "field_small": "思想・倫理",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 3,
+          "classroom": "3-401"
+        }
+      ]
+    ],
+    "textbook": "山田健太『放送法と権力』（田畑書店）",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "100％",
+        "detail": "評価は、講義内試験（最終回に実施予定）のみ。原則、出席はとらない。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "メディア産業論　01",
+    "professor": "瀬川　至朗",
+    "time": "秋学期  火5時限",
+    "category": "学部共通科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-602",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "メディア研究",
+    "field_middle": "メディア研究",
+    "field_small": "産業",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 5,
+          "classroom": "3-602"
+        }
+      ]
+    ],
+    "subtitle": "デジタル時代のメディアの新しいビジネスを考える",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "期末レポートを課す。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "授業への出席と毎回の感想票、小レポート（1回程度）、議論への貢献度を総合的に評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "ジャーナリズム研究 (太田昌克)",
+    "professor": "太田　昌克",
+    "time": "春学期  火5時限",
+    "category": "学部共通科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-705（演習室）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "ジャーナリズム",
+    "field_middle": "ジャーナリズム",
+    "field_small": "国際・比較",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 5,
+          "classroom": "3-705（演習室）"
+        }
+      ]
+    ],
+    "textbook": "毎回1～2頁のレジュメを配ります。公文書などの直接資料、重要な報道記事を配布することもあります。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "50％",
+        "detail": "授業内容を踏まえた設問による小論文試験を行います。"
+      },
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "授業で指示をします。テーマは参考文献を中心とします。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "出席して議論や意見発表に加わってください。欠席が多いのは困ります。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "メディアの世界",
+    "professor": "瀬川　至朗",
+    "time": "春学期  火5時限",
+    "category": "学部共通科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-601",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "ジャーナリズム",
+    "field_middle": "ジャーナリズム",
+    "field_small": "現代",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 5,
+          "classroom": "3-601"
+        }
+      ]
+    ],
+    "subtitle": "朝日新聞提携講座",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "期末レポート"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "授業への出席と毎回の小レポート（授業の感想、意見、講師への質問など）、議論への貢献度を総合的に評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Contemporary Journalism in Asia　01",
+    "professor": "グライメル　カール　ハンス",
+    "time": "春学期  月6時限",
+    "category": "学部共通科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-809",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "ジャーナリズム",
+    "field_middle": "ジャーナリズム",
+    "field_small": "現代",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 6,
+          "classroom": "3-809"
+        }
+      ]
+    ],
+    "subtitle": "Exploring international journalism through the eyes of Western media.",
+    "textbook": "Free Markets, Free Media? Reflections on the political economy of the press in Asia. By Cherian George. Asian Media Information & Communication Centre (AMIC). (July 10, 2008)\n\nMedia & Conflict Reporting in Asia. By Shyam Tekwani, Asian Media Information & Communication Centre (AMIC). (July 10, 2008)\n\nJournalism and Democracy in Asia. By Michael Bromley, Angela Romano. Routledge. (May 14, 2009)\n\nThe Associated Press Handbook for International Correspondents. Ed. Otto C. Doeling.\n\nTokyo Vice: An American Reporter on the Police Beat in Japan. By Jake Adelstein, Vintage (October 5, 2010)\n\nChina Ink: The Changing Face of Chinese Journalism (Asian Voices). By Judy Polumbaum, Rowman & Littlefield Publishers, Inc. (May 29, 2008)\n\nLet's Talk Turkey (About Japanese Turkeys): And Other Tales from the Asian Wall Street Journal. By Urban C. Lehner, Charles E. Tuttle Co. (January 1997)",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "75％",
+        "detail": "-"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "-"
+      },
+      {
+        "name": "その他",
+        "rate": "5％",
+        "detail": "5"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "報道現場論　01",
+    "professor": "瀬川　至朗／吉岡　忍",
+    "time": "秋学期  火2時限",
+    "category": "学部共通科目",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-701",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "ジャーナリズム",
+    "field_middle": "ジャーナリズム",
+    "field_small": "ジャーナリズム",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "3-701"
+        }
+      ]
+    ],
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "期末レポート"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "授業への出席、議論への貢献度、小レポートを総合的に評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学研究　秋学期(石井知章)",
+    "professor": "石井　知章",
+    "time": "秋学期  火2時限",
+    "category": "演習（専門）以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-605",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "比較政治",
+    "level": "総仕上げ",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "3-605"
+        }
+      ]
+    ],
+    "textbook": "Joseph Fewsmith, Dilemmas of Reform in China: Political Conflict and Economic Debate (Socialism and Social Movements), NY: M.E. Sharpe, 1994.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "試験は行いません。"
+      },
+      {
+        "name": "レポート",
+        "rate": "80％",
+        "detail": "毎回の授業での報告をレポートの代わりとして評価します。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "出席点20％\nアサインメントとグループへの貢献度50％\n発言の積極性30％"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学研究　春学期(ジョウ　ウィリー)",
+    "professor": "ジョウ　ウィリー",
+    "time": "春学期  金2時限",
+    "category": "演習（専門）以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-713（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "現代政治／政治過程",
+    "level": "総仕上げ",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 2,
+          "classroom": "3-713（演習室）"
+        }
+      ]
+    ],
+    "textbook": "None"
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "コミュニケーション論　01",
+    "professor": "谷藤　悦史",
+    "time": "春クォーター  01:月2時限／02:木2時限",
+    "category": "",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "01:3-701／02:3-801",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "メディア研究",
+    "field_middle": "メディア研究",
+    "field_small": "メディア研究",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春クォーター",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 2,
+          "classroom": "3-701"
+        },
+        {
+          "day": 4,
+          "period": 2,
+          "classroom": "3-801"
+        }
+      ]
+    ],
+    "textbook": "最初の授業でいくつかの参考文献を提示する。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "80％",
+        "detail": "いくつかの設問に対する適切で創造的な回答。"
+      },
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "課題に対する、適切で説得的なレポートの作成。"
+      },
+      {
+        "name": "その他",
+        "rate": "",
+        "detail": "3分の2の出席を試験の受けるための条件とする。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "経済メディアの世界　01",
+    "professor": "土屋　礼子",
+    "time": "秋学期  火3時限",
+    "category": "",
+    "target_grade": 1,
+    "credit": 2,
+    "classroom": "3-602",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "経済学",
+    "field_middle": "経済学一般",
+    "field_small": "経済学一般",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": true,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "3-602"
+        }
+      ]
+    ],
+    "subtitle": "経済ジャーナリズム",
+    "textbook": "全体についての教科書は特に指定しない。それぞれのトピックについてはその都度指定する。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "人数に応じて小試験を実施する。実施しない場合は、レポートと平常点評価に等しく配分する。"
+      },
+      {
+        "name": "レポート",
+        "rate": "80％",
+        "detail": "学期中に課される課題の質。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "毎回出席すること。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学研究　春学期(ケラム　マリサ　アンドレア)",
+    "professor": "ケラム　マリサ　アンドレア",
+    "time": "春学期  金4時限",
+    "category": "演習（専門）以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-609（演習室）",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 4,
+          "classroom": "3-609（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "Politics in “New” Democracies",
+    "textbook": "There is no textbook for this seminar. Readings will consist of scholarly books and journal articles. The reading list will be distributed in class.",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "60％",
+        "detail": "THREE comparative analysis papers (each 1500-2000 words), written as a team of two students"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "Class participation and presentations"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学研究　秋学期(ジョウ　ウィリー)",
+    "professor": "ジョウ　ウィリー",
+    "time": "秋学期  木2時限",
+    "category": "演習（専門）以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-1116実習室",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 2,
+          "classroom": "3-1116実習室"
+        }
+      ]
+    ],
+    "textbook": "No textbook; students will be given reading assignments in class.",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "70％",
+        "detail": "2 summaries (15 % each): Students will write two short summaries on assigned readings of their choice.\nTerm paper (40%)"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "15％",
+        "detail": "Class participation"
+      },
+      {
+        "name": "その他",
+        "rate": "15％",
+        "detail": "15"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学研究　春学期(アンドレ　ポール)",
+    "professor": "アンドレ　ポール",
+    "time": "春学期  火2時限",
+    "category": "演習（専門）以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-606",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 2,
+          "classroom": "3-606"
+        }
+      ]
+    ],
+    "textbook": "The complete bibliography and readings per each session will be provided at the beginning of the semester.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "30％",
+        "detail": "The final exam is a sitting exam and the assessment is a practical case. Methodology and expected standards will be detailed during the course."
+      },
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "By the end of the semester you must write a research paper. Your paper brings a theoretical perspective on a practical situation. Your essay must be an analysis of a real world situation.\nThe choice of topics will be discussed in class.\nYour paper brings a theoretical perspective on a practical situation. The body of your essay should size 7 A4 pages (times new roman 12, with double-spacing, standard margins) + end notes."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "This seminar relies on debates and exchanges of views. Comments, questions are welcomed."
+      },
+      {
+        "name": "その他",
+        "rate": "20％",
+        "detail": "20"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学研究　秋学期(齋川貴嗣)",
+    "professor": "齋川　貴嗣",
+    "time": "秋学期  火4時限",
+    "category": "演習（専門）以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "4-201演習室",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "4-201演習室"
+        }
+      ]
+    ],
+    "subtitle": "震災復興を文化の視点から再考する",
+    "textbook": "なし。講読文献は基本的に教員が用意し配布する予定。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "試験は行わない"
+      },
+      {
+        "name": "レポート",
+        "rate": "60％",
+        "detail": "期末エッセイ"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "出席および議論への貢献度"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学研究　春学期(稲村一隆)",
+    "professor": "稲村　一隆",
+    "time": "春学期  月3時限",
+    "category": "演習（専門）以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-705（演習室）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 3,
+          "classroom": "3-705（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "共和主義の政治思想",
+    "textbook": "Philip Pettit, Just Freedom: A Moral Compass for a Complex World (W. W. Norton, 2014).\n\n各自、図書館などを通して指定された文献を入手すること。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "議論の明確性と新奇性。授業で扱ったトピックについて2,000字程度で作成。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "発表と議論への積極的な参加"
+      },
+      {
+        "name": "その他",
+        "rate": "40％",
+        "detail": "Course N@vi上での課題の遂行"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学研究　春学期(チェン　ジョン　ウィリアム)",
+    "professor": "チェン　ジョン　ウィリアム",
+    "time": "春学期  水4時限",
+    "category": "演習（専門）以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-701",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "メディア研究",
+    "field_middle": "メディア研究",
+    "field_small": "メディア研究",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 4,
+          "classroom": "3-701"
+        }
+      ]
+    ],
+    "subtitle": "New media and the network society",
+    "textbook": "n/a",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "Written essay x 2 (1000-2000 words each)"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "Class participation, in class presentation, and attendance"
+      },
+      {
+        "name": "その他",
+        "rate": "20％",
+        "detail": "Final presentation"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学研究　秋学期(チェン　ジョン　ウィリアム)",
+    "professor": "チェン　ジョン　ウィリアム",
+    "time": "秋学期  水4時限",
+    "category": "演習（専門）以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-606",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "メディア研究",
+    "field_middle": "メディア研究",
+    "field_small": "メディア研究",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 4,
+          "classroom": "3-606"
+        }
+      ]
+    ],
+    "subtitle": "Communication power and the network society",
+    "textbook": "Nil",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "two (20% each) written essays (1000-2000 words each)"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "attendance, participation in class discussions"
+      },
+      {
+        "name": "その他",
+        "rate": "20％",
+        "detail": "final presentation"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学研究　秋学期(広瀬健太郎)",
+    "professor": "広瀬　健太郎",
+    "time": "秋学期  木2時限",
+    "category": "演習（専門）以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-705（演習室）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 2,
+          "classroom": "3-705（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "データで読み解く国際紛争",
+    "textbook": "なし",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "75％",
+        "detail": "中間試験 (30%)\n最終試験 (45%)"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "25％",
+        "detail": "ディスカッションへの積極的参加"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学研究　秋学期(森達也)",
+    "professor": "森　達也",
+    "time": "秋学期  水3時限",
+    "category": "演習（専門）以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-909実習室",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 3,
+          "classroom": "3-909実習室"
+        }
+      ]
+    ],
+    "subtitle": "価値多元論の政治学",
+    "textbook": "特定の教科書は使用しない．レジュメを毎回配布する．",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "60％",
+        "detail": "ブックレポート（1回）と最終レポート（1回）の内容に基づいて評価する．"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "授業内容に関するディスカッションへの参加状況と，コメントシートの提出により評価する．"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学研究　春学期(ブラジル　マーク　ヤニック)",
+    "professor": "ブラジル　マーク　ヤニック",
+    "time": "春学期  金3時限",
+    "category": "演習（専門）以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-709",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 3,
+          "classroom": "3-709"
+        }
+      ]
+    ],
+    "subtitle": "Comparative Political Economy",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "2500 word essay"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "Active participation in classroom discussions demonstrating understanding of the course content."
+      },
+      {
+        "name": "その他",
+        "rate": "30％",
+        "detail": "Presentation"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学研究　秋学期(ブラジル　マーク　ヤニック)",
+    "professor": "ブラジル　マーク　ヤニック",
+    "time": "秋学期  水1時限",
+    "category": "演習（専門）以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-703",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 3,
+          "period": 1,
+          "classroom": "3-703"
+        }
+      ]
+    ],
+    "subtitle": "East Asian Welfare Capitalism",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "2500 word essay."
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "Active participation in classroom discussions demonstrating understanding of the course content."
+      },
+      {
+        "name": "その他",
+        "rate": "20％",
+        "detail": "Presentation."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学研究　秋学期(岸見太一)",
+    "professor": "岸見　太一",
+    "time": "秋学期  火3時限",
+    "category": "演習（専門）以外",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-805（演習室）",
+    "campus": "早稲田",
+    "language": "日本語",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "3-805（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "人の移動の政治理論",
+    "textbook": "使用しない（人の移動の政治理論は現代政治理論のなかでも新しい分野であるため、英語圏を含め定評のある教科書がまだありません。）",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "80％",
+        "detail": "講義と関連する規範的論点についてのレポートの作成"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "出欠とコメントシートの提出"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Sociocultural Studies (Middleton)",
+    "professor": "ミドルトン　ベンヤミン・デュガルド",
+    "time": "春学期  金3時限",
+    "category": "学部共通科目",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-701",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "ジャーナリズム",
+    "field_middle": "ジャーナリズム",
+    "field_small": "国際・比較",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 3,
+          "classroom": "3-701"
+        }
+      ]
+    ],
+    "subtitle": "Modern Social Change",
+    "textbook": "There is no assigned textbook for this course. Readings from a variety of sources will be made available to students during the term. Japanese versions of some of the texts are available. Extra readings will be suggested for graduate students.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "N/A"
+      },
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "End-of term research paper (write-up of final presentation)"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "Regular attendance and active contribution to discussions."
+      },
+      {
+        "name": "その他",
+        "rate": "50％",
+        "detail": "50"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "Sociocultural Studies (Newell)",
+    "professor": "ニューエル　アントニー",
+    "time": "秋学期  火1時限",
+    "category": "学部共通科目",
+    "target_grade": 2,
+    "credit": 2,
+    "classroom": "3-710",
+    "campus": "早稲田",
+    "language": "英語",
+    "field_large": "言語学",
+    "field_middle": "歴史言語学",
+    "field_small": "概論",
+    "level": "中級レベル（発展・応用）",
+    "form": "講義",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 1,
+          "classroom": "3-710"
+        }
+      ]
+    ],
+    "subtitle": "Aspects of Language in the World Today",
+    "textbook": "No textbook required. Prints will be provided as necessary.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "20％",
+        "detail": "Final review"
+      },
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "Assignments"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "Participation"
+      },
+      {
+        "name": "その他",
+        "rate": "40％",
+        "detail": "Attendance"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ政治学演習 (吉野孝)",
+    "professor": "吉野　孝",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "textbook": "最初の演習時に、ゼミ論の書き方、注の表記方、参考文献一覧などを配付する。その後は、必要に応じて、授業の中で紹介する。",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "出席40％、報告40％、ディスカッションへの参加30％。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ政治学演習 (谷藤悦史)",
+    "professor": "谷藤　悦史",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "世論・政治コミュニケーション研究",
+    "textbook": "授業でそのつど指示します。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "年次における数回のレポート。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ政治学演習 (縣公一郎)",
+    "professor": "縣　公一郎",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "公共政策研究",
+    "textbook": "追って指示がある。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "上記レポートの内容。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ政治学演習 (仲内英三)",
+    "professor": "仲内　英三",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "ヨーロッパの政治を歴史的に探究する",
+    "textbook": "なし",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "期末レポート"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "出席とプレゼンテーション"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ政治学演習 (梅森直之)",
+    "professor": "梅森　直之",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "思想史研究への誘い"
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ政治学演習 (川岸令和)",
+    "professor": "川岸　令和",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "日本国憲法の現在",
+    "textbook": "佐藤幸治『立憲主義について　成立過程と現代』（左右社、2015年）ほか。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "実施しない。"
+      },
+      {
+        "name": "レポート",
+        "rate": "70％",
+        "detail": "複数回のレポートの評価による。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "日頃の予習復習および数回実施されるクラスへの参加の度合い。"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "特になし。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ政治学演習 (藤井浩司)",
+    "professor": "藤井　浩司",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "比較公共政策への接近",
+    "textbook": "別途随時指示する。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "90％",
+        "detail": "演習研究計画書、書評×3本。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "10％",
+        "detail": "参加意欲。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ政治学演習 (福田耕治)",
+    "professor": "福田　耕治",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "textbook": "福田耕治『国際行政学－国際公益と国際公共政策（新版）』有斐閣、2012年\n英文ジャーナル所収の最新の論文を教材とする。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "実施しない。"
+      },
+      {
+        "name": "レポート",
+        "rate": "80％",
+        "detail": "研究テーマについてのゼミ論について絶対評価する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "毎週の報告と討論を基礎に総合的に評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ政治学演習 (谷澤正嗣)",
+    "professor": "谷澤　正嗣",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "現代政治理論への案内",
+    "textbook": "齋藤純一『不平等を考える』（ちくま新書、2017年）。\n戸田山和久『新版　論文の教室』（NHK出版、2012年）。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "最低二回のレポート提出を義務付ける。文章力、構成力を中心に指導と評価を行う。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ政治学演習 (眞柄秀子)",
+    "professor": "真柄　秀子",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "textbook": "2016年秋に指摘する",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "講読文献を理解しているか。レヴューが的確で独創性が高いか。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "各回のコミットメントが確実になされているか。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ政治学演習 (河野勝)",
+    "professor": "河野　勝",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "現代日本政治の諸問題",
+    "textbook": "上記参照",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "80％",
+        "detail": "提出される各課題の評価。"
+      },
+      {
+        "name": "その他",
+        "rate": "20％",
+        "detail": "フォーラムでの貢献度"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ政治学演習 (中村英俊)",
+    "professor": "中村　英俊",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "国際政治の理論と現実－英国学派を中心に",
+    "textbook": "ジョセフ・S・ナイ・ジュニア／デイヴィッド・A・ウェルチ『国際紛争：理論と歴史』（原著第10版）（有斐閣、2017年）",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "実施しない"
+      },
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "冬季休業中を含む期間に2本のレポートを書いてもらう（その内容を評価する）"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "1月下旬and/or2月上旬に提出レポートなどを元に討論をする（その際の積極的な参加姿勢を評価する）"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "特になし"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ政治学演習 (田中孝彦)",
+    "professor": "田中　孝彦",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "冷戦の歴史・理論的基礎知識",
+    "textbook": "ジョセフ・S・ナイ、ディビッド・ウェルチ編『国際紛争 歴史と理論』(原書第10版)\n原書は、Joseph S. Nye and David Welch (eds.) Understanding Global Conflict and Cooperation: An Introduction to Theory and History, 10th ed.",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "上に述べたように、教科書第5章のStudy Questionsに対する解答をエッセイとして、所定の書式に従って書き提出してもらう。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ政治学演習 (日野愛郎)",
+    "professor": "日野　愛郎",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ政治学演習 (笹田栄司)",
+    "professor": "笹田　栄司",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "",
+    "textbook": "戸松秀典『プレップ憲法　第4版』（弘文堂、2016年）及び川名壮志『密着　最高裁のしごと－野暮で真摯な事件簿』（岩波新書、2016年）",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "70％",
+        "detail": "課題の設定、レポートの構成、文章力"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "質問提起や自己の見解を表明することによる討論への積極的参加"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ政治学演習 (栗崎周平)",
+    "professor": "栗崎　周平",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "国際政治の理論・実証研究のことはじめ",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "参加"
+      },
+      {
+        "name": "その他",
+        "rate": "50％",
+        "detail": "作業経過と結果"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ政治学演習 (稲継裕昭)",
+    "professor": "稲継　裕昭",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "行政の諸活動を分析する",
+    "textbook": "入門書1　北山俊哉ほか著『はじめて出会う政治学』有斐閣アルマ\n入門書2　稲継裕昭著『地方自治入門』有斐閣コンパクト\n入門書3　曽我謙悟『行政学』有斐閣アルマ",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "特別の事情がない限り欠席を認めていませんので、欠席の際には大きく減点。火曜日の5時限はあけておいてください。\n\n課題のコースナビへの期限内提出。（期限に遅れると減点）\n\n報告内容、討議への参加度"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ政治学演習 (浅野豊美)",
+    "professor": "浅野　豊美",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "近代日本とアジア・「西洋」をめぐるナショナリズム理論と国際関係学",
+    "textbook": "塩川 伸明『民族とネイション―ナショナリズムという難問』岩波新書、2008年。\nアーネスト・ゲルナー、加藤節監訳『民族とナショナリズム』岩波書店、 2000年）\nベネディクト・アンダーソン、白石隆・白石さや訳『想像の共同体―ナショナリズムの起源と流行』（書籍工房早山、2007年）\nA・D・スミス『ネイションとエスニシティ―歴史社会学的考察』名古屋大学出版会、1999年。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "最終レポート執筆以前に、予備的なレポートを少なくとも一回課す。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "演習への出席、授業態度、毎回の報告課題の達成度、議論への取り組みなどを総合的に評価する。\n三回以上無断欠席したものは単位を取れない。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ政治学演習 (稲村一隆)",
+    "professor": "稲村　一隆",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "政治哲学・思想史",
+    "textbook": "初回の授業で指定します。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "議論の明確性と新奇性"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "70％",
+        "detail": "発表と議論への積極的な参加"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ政治学演習 (厚見恵一郎)",
+    "professor": "厚見　恵一郎",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "選考時の提出課題をもとにしたレポート。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "ガイダンスおよび演習授業への参加、報告、討論。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ政治学演習 (ソジエ内田恵美)",
+    "professor": "ソジエ内田　恵美",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "政治言語学－ディスコース分析の理論と実践",
+    "textbook": "授業中に指示、または配布。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "70％",
+        "detail": "レポート"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "出席、議論、研究発表会への参加"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ政治学演習 (都丸潤子)",
+    "professor": "都丸　潤子",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "ヒトの国際移動の文化的・歴史的分析",
+    "textbook": "オリエンテーションで指示する。",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "顔合わせ、合同ゼミ、集中ゼミへの出席・課題への取り組みの成果・議論への貢献度を評価する"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "プレ政治学演習 (最上敏樹)",
+    "professor": "最上　敏樹",
+    "time": "冬クォーター  無その他",
+    "category": "演習（専門）",
+    "target_grade": 2,
+    "credit": 1,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "中級レベル（発展・応用）",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "冬クォーター",
+    "metadata": [
+      []
+    ],
+    "subtitle": "国際立憲主義および国際機構の史的研究",
+    "textbook": "オリエンテーションにおいて指示する。",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "出席、課題への取り組みの成果、クラスにおける議論への貢献度を基準に評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 I (吉野孝)",
+    "professor": "吉野　孝",
+    "time": "春学期  木5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-1104実習室",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 5,
+          "classroom": "3-1104実習室"
+        }
+      ]
+    ],
+    "subtitle": "現代デモクラシーの政治過程",
+    "textbook": "最初の演習時に、ゼミ論の書き方、注の表記方、参考文献一覧などを配付する。その後は、必要に応じて、授業の中で紹介する。",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "出席40％、報告30％、ディスカッションへの参加30％。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 I (谷藤悦史)",
+    "professor": "谷藤　悦史",
+    "time": "春学期  木4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-807（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-807（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "世論・政治コミュニケーション研究",
+    "textbook": "授業でそのつど指示します。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "年次における数回のレポート。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "ゼミにおける発表・報告。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 I (縣公一郎)",
+    "professor": "縣　公一郎",
+    "time": "春学期  火4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-903（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "3-903（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "subtitle": "公共政策研究",
+    "textbook": "追って指示がある。",
+    "evaluation_method": []
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 I (仲内英三)",
+    "professor": "仲内　英三",
+    "time": "春学期  月5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-1116実習室",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 5,
+          "classroom": "3-1116実習室"
+        }
+      ]
+    ],
+    "subtitle": "近代西欧政治社会の歴史",
+    "textbook": "なし。教師が授業内容に即したレジュメを配布する。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "演習の最後に少なくとも1回は小論文もしくはレポートを提出していただく。内容は授業の過程で扱った時代や地域に関して、各自が関心を持ったテーマについて、あまり長くない分量で書けるものを提出していただくことになろう。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "70％",
+        "detail": "演習は基本的に授業に出席することから始まるので、まず普段の授業への参加が出発点となる。授業では最低1回は発表の機会があるので、その出来具合いも評価の対象となる。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 I (梅森直之)",
+    "professor": "梅森　直之",
+    "time": "春学期  金5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "7-503演習室",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 5,
+          "classroom": "7-503演習室"
+        }
+      ]
+    ],
+    "subtitle": "近代日本の政治思想",
+    "textbook": "授業期間中に指示する。",
+    "evaluation_method": []
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 I (川岸令和)",
+    "professor": "川岸　令和",
+    "time": "春学期  月5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-703",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 5,
+          "classroom": "3-703"
+        }
+      ]
+    ],
+    "subtitle": "日本国憲法の現在",
+    "textbook": "開講時に指示する。参考までにこれまで使用したもの（改訂版を含む）から代表的なものを挙げておく。\n　戸松秀典『プレップ　憲法　第4版』（弘文堂、2016年）、戸松秀典『プレップ　憲法訴訟』（弘文堂、2011年）、棟居快行ほか『基本的人権の事件簿　第5版』（有斐閣、2015年）、古関彰一『日本国憲法の誕生』（岩波現代文庫、2009年）、奥平康弘『憲法裁判の可能性』（岩波書店、1995年）、樋口陽一『いま、「憲法」は時代遅れか』（平凡社、2011年）、佐藤幸治『立憲主義について　成立過程と現代』（左右社、2015年）、川岸令和ほか『憲法』第4版（青林書院、2016年）、飯島昇藏・川岸令和編『憲法と政治思想の対話』（新評論、2002年）、藪下史郎監修『立憲主義の政治経済学』（東洋経済新報社、2008年）ほか。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "実施しない。"
+      },
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "政治学演習Ⅱではレポートを課す。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "日頃の予習復習そして教室での発言など参加の度合い。"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "特になし。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 I (藤井浩司)",
+    "professor": "藤井　浩司",
+    "time": "春学期  金5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-606",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 5,
+          "classroom": "3-606"
+        }
+      ]
+    ],
+    "subtitle": "比較公共政策への接近",
+    "textbook": "別途随時指示する。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "レジュメ内容、ターム・ペーパー、卒論。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "出席状況、参加意欲、授業運営への貢献。"
+      },
+      {
+        "name": "その他",
+        "rate": "10％",
+        "detail": "ゼミ合宿などへのプロジェクトへの参加。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 I (田中愛治)",
+    "professor": "田中　愛治",
+    "time": "春学期  火5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-901（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 5,
+          "classroom": "3-901（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "subtitle": "現代政治学の実証分析・計量分析\nEmpirical/ Quantitative Analysis of Political Science",
+    "textbook": "高根正昭『創造の方法学』講談社新書。\n久米郁男『原因を推論する』有斐閣。\n　 or\n　Herbert Weisberg and John Krosnich, Data Collection and Analysis.",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "70％",
+        "detail": "毎週のゼミへの出席と、積極的に議論に参加し、各学生が自分の考えや意見を表明している程度によって、評価を決める。"
+      },
+      {
+        "name": "その他",
+        "rate": "30％",
+        "detail": "早稲田祭、ならびに拓殖大学の浅野正彦ゼミとの合同ゼミ発表会、同志社大学の西澤由隆ゼミとの合同ゼミ発表会への参加および貢献の程度によって、ひょうかをきめる。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 I (福田耕治)",
+    "professor": "福田　耕治",
+    "time": "春学期  木4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-604（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-604（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "国際行政と国際公共政策－EUとUNを中心として－",
+    "textbook": "福田耕治『国際行政学・新版』有斐閣、2012年4月",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "授業時における報告と討論、ゼミへの貢献度を基準とする・"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 I (谷澤正嗣)",
+    "professor": "谷澤　正嗣",
+    "time": "春学期  月5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-812（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 5,
+          "classroom": "3-812（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "現代リベラリズムとその批判",
+    "textbook": "ジョン・ロールズ（川本隆史ほか訳）『正義論　改訂版』（紀伊国屋書店、2010年）を使用する予定である。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "学期末に期末論文を課す。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "レジュメによる報告、討論への積極的で協力的な参加、討論から明らかになる文献の理解度などを総合的に評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 I (眞柄秀子)",
+    "professor": "真柄　秀子",
+    "time": "春学期  火4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-604（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "3-604（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "経済成長と平等の比較政治分析",
+    "textbook": "ゼミにおいて指摘する。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "なし"
+      },
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "学期末の研究計画書の提出"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "80％",
+        "detail": "毎回のゼミでの貢献度"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 I (河野勝)",
+    "professor": "河野　勝",
+    "time": "春学期  月5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-808",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 5,
+          "classroom": "3-808"
+        }
+      ]
+    ],
+    "subtitle": "現代日本政治の諸問題",
+    "textbook": "新版『アクセス　日本政治論』（平野　浩・河野　勝編　日本経済評論社）2012年",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "先行研究の理解、独創性、分析の精度、文章・表現力。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "授業参加。プレセンテーション能力。他学生のプレゼンテーションに対するコメントの頻度および質。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 I (中村英俊)",
+    "professor": "中村　英俊",
+    "time": "春学期  木5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-712（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 5,
+          "classroom": "3-712（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "国際政治の理論と現実－英国学派を中心に",
+    "textbook": "Joseph S. Nye and David A. Welch, Understanding Global Conflict and Cooperation: An Introduction to Theory and History（10th Edition; Pearson 2017）",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "実施しない"
+      },
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "報告用レジュメの作成などで評価する"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "毎回のゼミへの積極的な参加姿勢など"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "特になし"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 I (田中孝彦)",
+    "professor": "田中　孝彦",
+    "time": "春学期  火4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-609（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "3-609（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "冷戦の歴史と現在の世界政治",
+    "textbook": "Odd Arne Westad (2017) The Cold War: A World History, Basic Books.\n　Kindle版を用いる予定である。(¥1,717)",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "試験は行わない。"
+      },
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "学期中に提出されるエッセイを評価する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "80％",
+        "detail": "報告担当時の報告内容について、その論理性、実証性、独自性を評価する。"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "なし。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 I (日野愛郎)",
+    "professor": "日野　愛郎",
+    "time": "春学期  火4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-1103実習室",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "3-1103実習室"
+        }
+      ]
+    ],
+    "subtitle": "メディアと選挙の実証分析",
+    "textbook": "Kosuke Imai, Quantitative Social Science: An Introduction, Princeton University Press, 2017.",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "ゼミにおける学習状況、報告、貢献度を総合的に評価します。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 I (笹田栄司)",
+    "professor": "笹田　栄司",
+    "time": "春学期  木4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-710",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-710"
+        }
+      ]
+    ],
+    "subtitle": "現代の司法",
+    "textbook": "木佐茂男・宮澤節生・佐藤鉄男・川島四郎・水谷規男・上石圭一『テキストブック現代司法　第6版』（日本評論社、2015年）",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "課題の設定、資料の収集、レポートの構成"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "60％",
+        "detail": "報告課題の内容、討論への積極的参加"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 I (栗崎周平)",
+    "professor": "栗崎　周平",
+    "time": "春学期  月5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-709",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 5,
+          "classroom": "3-709"
+        }
+      ]
+    ],
+    "subtitle": "国際政治の理論研究・実証研究\nScientific Study of International Relations",
+    "textbook": "David A. Lake and Robert Powell. 1999. Strategic Choice and International Relations. Princeton University Press.\n\nAndrew Kydd. 2015. International Relations Theory: Game Theoretic Approach. Cambridge University Press.\n\n国際政治研究の主要学術雑誌：APSR, AJPS, IO, IS, JCR, ISQ,などが実質的な教科書となります。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "N/A"
+      },
+      {
+        "name": "レポート",
+        "rate": "0％",
+        "detail": "N/A"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "参加することに意義があります。各人のゼミとの付き合い方は様々であっても良いと考えています。上記の栗崎の提供する教育サービスをどのように利用するかは、各自が決定すべきことで、それに応じて成績は割り当てられると考えてください。したがって、オリジナルの研究をしないというスタイルの参加であれば、それ相応の成績を取得して頂く、というビジネスモデルです。"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "N/A"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 I (稲継裕昭)",
+    "professor": "稲継　裕昭",
+    "time": "春学期  火4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-606",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "3-606"
+        }
+      ]
+    ],
+    "subtitle": "行政の諸活動を分析する",
+    "textbook": "曽我謙吾『行政学』有斐閣アルマ\n中島誠『立法学（第3版）：序論・立法過程論』法律文化社\n\nすでにプレゼミで輪読を終えているテキスト（北山俊哉ほか著『初めて出会う政治学』、稲継裕昭『地方自治入門』）も適宜参照することがあります。",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "60％",
+        "detail": "特別の事情がない限り欠席を認めていませんので、欠席の際には大きく減点。\n課題のコースナビへの期限内提出。（期限に遅れると減点）\n報告内容、討議への参加度"
+      },
+      {
+        "name": "その他",
+        "rate": "40％",
+        "detail": "行事(合宿､フィールドワーク､その他)への参加度も評価の対象となります。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 I (浅野豊美)",
+    "professor": "浅野　豊美",
+    "time": "春学期  月3時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-607（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 3,
+          "classroom": "3-607（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "近代日本とアジア・「西洋」をまたぐナショナリズム理論と国際関係学",
+    "textbook": "アーネスト・ゲルナー、加藤節監訳『民族とナショナリズム』岩波書店、 2000年\nアンソニー・D・スミス (著),‎ 巣山 靖司 (翻訳)『20世紀のナショナリズム』法律文化社、1995年\nベネディクト・アンダーソン、白石隆・白石さや訳『想像の共同体―ナショナリズムの起源と流行』（書籍工房早山、2007年）：これも大事",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "最終レポート執筆以前に、予備的なレポートを少なくとも一回課す。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "演習への出席、授業態度、毎回の報告課題の達成度、議論への取り組みなどを総合的に評価する。\n三回以上無断欠席したものは単位を取れない。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 I (稲村一隆)",
+    "professor": "稲村　一隆",
+    "time": "春学期  木5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-917実習室",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 5,
+          "classroom": "3-917実習室"
+        }
+      ]
+    ],
+    "subtitle": "政治哲学・思想史",
+    "textbook": "初回の授業で指定します。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "議論の明確性と新奇性"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "70％",
+        "detail": "発表と議論への積極的な参加"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 I (厚見恵一郎)",
+    "professor": "厚見　恵一郎",
+    "time": "春学期  木6時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-809",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 6,
+          "classroom": "3-809"
+        }
+      ]
+    ],
+    "subtitle": "西洋政治思想史文献研究",
+    "textbook": "ハンナ・ピトキン（早川誠訳）『代表の概念』（名古屋大学出版会）",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "各自の問題関心にしたがった報告の延長上に学期末レポートを課す。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "共通講読文献にかかわる分担報告の内容、討論への積極的参加。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 II (吉野孝)",
+    "professor": "吉野　孝",
+    "time": "秋学期  木5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-1104実習室",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 5,
+          "classroom": "3-1104実習室"
+        }
+      ]
+    ],
+    "subtitle": "現代デモクラシーの政治過程",
+    "textbook": "最初の演習時に、参考文献一覧を配付する。その後は、必要に応じて、授業の中で紹介する。",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "出席とディスカッションへの参加20％、個人研究の報告80％。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 II (谷藤悦史)",
+    "professor": "谷藤　悦史",
+    "time": "秋学期  木4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-807（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-807（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "世論・政治コミュニケーション研究",
+    "textbook": "授業でそのつど指示します。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "年次における数回のレポート。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "ゼミにおける発表・報告。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 II (縣公一郎)",
+    "professor": "縣　公一郎",
+    "time": "秋学期  火4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-901（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "3-901（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "textbook": "追って指示がある。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": ""
+      },
+      {
+        "name": "レポート",
+        "rate": "0％",
+        "detail": ""
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "日常的な議論での貢献。"
+      },
+      {
+        "name": "その他",
+        "rate": "80％",
+        "detail": "完成されたゼミナール論文。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 II (仲内英三)",
+    "professor": "仲内　英三",
+    "time": "秋学期  月5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-607（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 5,
+          "classroom": "3-607（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "近代西欧政治社会の歴史",
+    "textbook": "なし。教師が授業内容に即したレジュメを配布する。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "演習の最後に少なくとも1回は小論文もしくはレポートを提出していただく。内容は授業の過程で扱った時代や地域に関して、各自が関心を持ったテーマについて、あまり長くない分量で書けるものを提出していただくことになろう。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "70％",
+        "detail": "演習は基本的に授業に出席することから始まるので、まず普段の授業への参加が出発点となる。授業では最低1回は発表の機会があるので、その出来具合いも評価の対象となる。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 II (梅森直之)",
+    "professor": "梅森　直之",
+    "time": "秋学期  金5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-805（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 5,
+          "classroom": "3-805（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "日本政治思想史研究のための基本文献読解"
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 II (川岸令和)",
+    "professor": "川岸　令和",
+    "time": "秋学期  月5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-703",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 5,
+          "classroom": "3-703"
+        }
+      ]
+    ],
+    "subtitle": "日本国憲法の現在",
+    "textbook": "開講時に指示する。参考までにこれまで使用したもの（改訂版を含む）から代表的なものを挙げておく。\n　戸松秀典『プレップ　憲法　第4版』（弘文堂、2016年）、戸松秀典『プレップ　憲法訴訟』（弘文堂、2011年）、棟居快行ほか『基本的人権の事件簿　第5版』（有斐閣、2015年）、古関彰一『日本国憲法の誕生』（岩波現代文庫、2009年）、奥平康弘『憲法裁判の可能性』（岩波書店、1995年）、樋口陽一『いま、「憲法」は時代遅れか』（平凡社、2011年）、佐藤幸治『立憲主義について　成立過程と現代』（左右社、2015年）、川岸令和ほか『憲法』第4版（青林書院、2016年）、飯島昇藏・川岸令和編『憲法と政治思想の対話』（新評論、2002年）、藪下史郎監修『立憲主義の政治経済学』（東洋経済新報社、2008年）ほか。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "期末レポートの内容に基づく。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "分担した報告の内容およびゼミの議論への参加の程度による。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 II (藤井浩司)",
+    "professor": "藤井　浩司",
+    "time": "秋学期  金5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-606",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 5,
+          "classroom": "3-606"
+        }
+      ]
+    ],
+    "subtitle": "比較公共政策への接近",
+    "textbook": "別途随時指示する。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "レジュメ内容、ターム・ペーパー、卒論。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "出席状況、参加意欲、授業運営への貢献。"
+      },
+      {
+        "name": "その他",
+        "rate": "10％",
+        "detail": "ゼミ合宿などへのプロジェクトへの参加。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 II (田中愛治)",
+    "professor": "遠藤　晶久／田中　愛治",
+    "time": "秋学期  火5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-903（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 5,
+          "classroom": "3-903（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "subtitle": "副題：現代政治学の実証分析・計量分析\nEmpirical/ Quantitative Analysis of Political Science",
+    "textbook": "教科書：\n高根正昭『創造の方法学』講談社新書。\n久米郁男『原因を推論する』有斐閣。\n　 or\n　Herbert Weisberg and John Krosnich, Data Collection and Analysis."
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 II (福田耕治)",
+    "professor": "福田　耕治",
+    "time": "秋学期  木4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-604（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-604（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "国際行政と国際公共政策－EUとUNを中心として－",
+    "textbook": "福田耕治『国際行政学・新版』有斐閣、2012年4月",
+    "evaluation_method": [
+      {
+        "name": "その他",
+        "rate": "100％",
+        "detail": "ゼミでの発表内容、意欲及び討議など、ゼミへの貢献度、各自のレポート、卒業論文等を対象として総合的に評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 II (谷澤正嗣)",
+    "professor": "谷澤　正嗣",
+    "time": "秋学期  月5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-812（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 5,
+          "classroom": "3-812（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "現代リベラリズムとその批判",
+    "textbook": "ジョン・ロールズ（川本隆史ほか訳）『正義論　改訂版』（紀伊国屋書店、2010年）を使用する予定である。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "学期末に期末論文を課す。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "レジュメによる報告、討論への積極的で協力的な参加、討論から明らかになる文献の理解度などを総合的に評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 II (眞柄秀子)",
+    "professor": "真柄　秀子",
+    "time": "秋学期  火4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-1104実習室",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "3-1104実習室"
+        }
+      ]
+    ],
+    "subtitle": "世界各国の比較政治経済分析",
+    "textbook": "ゼミにおいて指摘する",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "なし"
+      },
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "学期末の研究計画の提出"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "80％",
+        "detail": "毎回のゼミでの貢献度"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 II (河野勝)",
+    "professor": "河野　勝",
+    "time": "秋学期  月5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-808",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 5,
+          "classroom": "3-808"
+        }
+      ]
+    ],
+    "subtitle": "現代日本政治の諸問題",
+    "textbook": "新版『アクセス　日本政治論』（平野　浩・河野　勝編　日本経済評論社）2012年",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "先行研究の理解、独創性、分析の精度、文章・表現力。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "授業参加。プレセンテーション能力。他学生のプレゼンテーションに対するコメントの頻度および質。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 II (中村英俊)",
+    "professor": "中村　英俊",
+    "time": "秋学期  木5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-709",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 5,
+          "classroom": "3-709"
+        }
+      ]
+    ],
+    "subtitle": "国際政治の理論と現実－英国学派を中心に",
+    "textbook": "各自の研究テーマに沿った英語文献",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "実施しない"
+      },
+      {
+        "name": "レポート",
+        "rate": "60％",
+        "detail": "タームペーパー、および、報告用レジュメなどで評価する"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "毎回のゼミへの積極的な参加姿勢など\n（自分の研究テーマと違うテーマにも積極的な関心を持つ）"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "特になし"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 II (田中孝彦)",
+    "professor": "田中　孝彦",
+    "time": "秋学期  火4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-609（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "3-609（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "冷戦期におけるソ連外交の歴史",
+    "textbook": "Jonathan Haslam, 2011, Russia's Cold War: From the October Revolution to the Fall of the Wall, Yale UP."
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 II (日野愛郎)",
+    "professor": "日野　愛郎",
+    "time": "秋学期  火4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-807（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "3-807（演習室）"
+        }
+      ]
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 II (笹田栄司)",
+    "professor": "笹田　栄司",
+    "time": "秋学期  木4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-710",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-710"
+        }
+      ]
+    ],
+    "subtitle": "裁判所による人権保障",
+    "textbook": "棟居快行・赤坂正浩・松井茂記・笹田栄司・常本照樹・市川正人『基本的人権の事件簿　第5版』（有斐閣、2015年）",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "実施しない。"
+      },
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "課題の設定、資料の収集、レポートの構成"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "報告課題の内容、討論への積極的参加"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "実施しない。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 II (栗崎周平)",
+    "professor": "栗崎　周平",
+    "time": "秋学期  月5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-404",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 5,
+          "classroom": "3-404"
+        }
+      ]
+    ],
+    "subtitle": "国際政治の理論研究・実証研究\nScientific Study of International Relations",
+    "textbook": "David A. Lake and Robert Powell. 1999. Strategic Choice and International Relations. Princeton University Press.\n\nAndrew Kydd. 2015. International Relations Theory: Game Theoretic Approach. Cambridge University Press.\n\n国際政治研究の主要学術雑誌：APSR, AJPS, IO, IS, JCR, ISQ,など."
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 II (稲継裕昭)",
+    "professor": "稲継　裕昭",
+    "time": "秋学期  火4時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-606",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 4,
+          "classroom": "3-606"
+        }
+      ]
+    ],
+    "subtitle": "行政の諸活動を分析する",
+    "textbook": "曽我・行政学、久米・原因を推論する、立法学ほか",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "提出する必要のあるパワポ、小論、レビューシートが期限内に提出されているかどうかを評価の対象とする。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "ゼミへのコミットメント\n\n特別の事情がない限り欠席を認めていませんので、欠席の際には大きく減点。\n\n報告内容、討議への参加度"
+      },
+      {
+        "name": "その他",
+        "rate": "40％",
+        "detail": "フィールドワーク、合宿への参加"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 II (浅野豊美)",
+    "professor": "浅野　豊美",
+    "time": "秋学期  月3時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-607（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 3,
+          "classroom": "3-607（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "近代日本とアジア・「西洋」をまたぐナショナリズム理論と国際関係学",
+    "textbook": "アーネスト・ゲルナー、加藤節監訳『民族とナショナリズム』岩波書店、 2000年\nベネディクト・アンダーソン、白石隆・白石さや訳『想像の共同体―ナショナリズムの起源と流行』（書籍工房早山、2007年）",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "最終レポート執筆以前に、予備的なレポートを少なくとも一回課す。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "演習への出席、授業態度、毎回の報告課題の達成度、議論への取り組みなどを総合的に評価する。\n三回以上無断欠席したものは単位を取れない。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 II (稲村一隆)",
+    "professor": "稲村　一隆",
+    "time": "秋学期  木5時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-811（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 5,
+          "classroom": "3-811（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "政治哲学・思想史",
+    "textbook": "初回の授業で指定します。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "議論の明確性と新奇性"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "70％",
+        "detail": "発表と議論への積極的な参加"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 II (厚見恵一郎)",
+    "professor": "厚見　恵一郎",
+    "time": "秋学期  木6時限",
+    "category": "演習（専門）",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "3-809",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "上級レベル",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 6,
+          "classroom": "3-809"
+        }
+      ]
+    ],
+    "subtitle": "西洋政治思想史文献研究",
+    "textbook": "未定。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "各自の問題関心にしたがった報告の延長上に学期末レポートを課す。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "共通講読文献にかかわる分担報告の内容、討論への積極的参加。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 III (吉野孝)",
+    "professor": "吉野　孝",
+    "time": "春学期  木6時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-1104実習室",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 6,
+          "classroom": "3-1104実習室"
+        }
+      ]
+    ],
+    "subtitle": "現代デモクラシーの政治過程",
+    "textbook": "最初の演習時に、参考文献一覧を配付する。その後は、必要に応じて、授業の中で紹介する。",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "出席40％、報告30％、ディスカッションへの参加30％。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 III (谷藤悦史)",
+    "professor": "谷藤　悦史",
+    "time": "春学期  木5時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-807（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 5,
+          "classroom": "3-807（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "世論・政治コミュニケーション研究",
+    "textbook": "授業でそのつど指示します。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "年次における数回のレポート。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "ゼミにおける発表・報告。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 III (縣公一郎)",
+    "professor": "縣　公一郎",
+    "time": "春学期  火5時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-903（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 5,
+          "classroom": "3-903（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": ""
+      },
+      {
+        "name": "レポート",
+        "rate": "0％",
+        "detail": ""
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "日常的議論への貢献。"
+      },
+      {
+        "name": "その他",
+        "rate": "80％",
+        "detail": "完成されたゼミナール論文。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 III (仲内英三)",
+    "professor": "仲内　英三",
+    "time": "春学期  月6時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-1116実習室",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 6,
+          "classroom": "3-1116実習室"
+        }
+      ]
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 III (梅森直之)",
+    "professor": "梅森　直之",
+    "time": "春学期  金4時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "7-503演習室",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 4,
+          "classroom": "7-503演習室"
+        }
+      ]
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 III (川岸令和)",
+    "professor": "川岸　令和",
+    "time": "春学期  月6時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-703",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 6,
+          "classroom": "3-703"
+        }
+      ]
+    ],
+    "subtitle": "日本国憲法の現在",
+    "textbook": "開講時に指示する。参考までにこれまで使用したもの（改訂版を含む）から代表的なものを挙げておく。\n　戸松秀典『プレップ　憲法　第4版』（弘文堂、2016年）、戸松秀典『プレップ　憲法訴訟』（弘文堂、2011年）、棟居快行ほか『基本的人権の事件簿　第5版』（有斐閣、2015年）、古関彰一『日本国憲法の誕生』（岩波現代文庫、2009年）、奥平康弘『憲法裁判の可能性』（岩波書店、1995年）、樋口陽一『いま、「憲法」は時代遅れか』（平凡社、2011年）、佐藤幸治『立憲主義について　成立過程と現代』（左右社、2015年）、川岸令和ほか『憲法』第4版（青林書院、2016年）、飯島昇藏・川岸令和編『憲法と政治思想の対話』（新評論、2002年）、藪下史郎監修『立憲主義の政治経済学』（東洋経済新報社、2008年）ほか。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "70％",
+        "detail": "ゼミ論文の評価。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "ゼミでの報告や質問、合宿への参加などのゼミ活動へのコミットメントに基づく評価。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 III (佐藤正志)",
+    "professor": "佐藤　正志",
+    "time": "春学期  木6時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-709",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 6,
+          "classroom": "3-709"
+        }
+      ]
+    ],
+    "subtitle": "西洋政治思想・政治思想史研究",
+    "textbook": "本演習では、初めに共通課題に関してディスカッションを行い、それを踏まえて主として古典的作品を共通テキストと して決定する。\n以下は本課題に関する古典の例。マキアヴェリ『君主論』、ホッブズ『リヴァイアサン』、ロック『統治二論』、ルソー『社会契約論』など。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "ゼミでの学修をどのようにふまえているかという観点から評価。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "70％",
+        "detail": "各自の研究発表および分担課題についての発表と議論への積極的参加。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 III (坪井善明)",
+    "professor": "坪井　善明",
+    "time": "春学期  月5時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-912実習室",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 5,
+          "classroom": "3-912実習室"
+        }
+      ]
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 III (藤井浩司)",
+    "professor": "藤井　浩司",
+    "time": "春学期  金6時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-606",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 6,
+          "classroom": "3-606"
+        }
+      ]
+    ],
+    "subtitle": "比較公共政策への接近",
+    "textbook": "別途随時指示する。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "レジュメ内容、ターム・ペーパー、卒論。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "出席状況、参加意欲、授業運営への貢献。"
+      },
+      {
+        "name": "その他",
+        "rate": "10％",
+        "detail": "ゼミ合宿などへのプロジェクトへの参加。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 III (田中愛治)",
+    "professor": "田中　愛治",
+    "time": "春学期  火6時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-901（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 6,
+          "classroom": "3-901（学部PCﾙｰﾑ）"
+        }
+      ]
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 III (福田耕治)",
+    "professor": "福田　耕治",
+    "time": "春学期  木5時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-604（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 5,
+          "classroom": "3-604（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "国際行政と国際公共政策－EUとUNを中心として－",
+    "textbook": "福田耕治『国際行政学・新版』有斐閣、2012年4月",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "試験は実施しない。"
+      },
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "各自のレポートを対象として総合的に評価する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "80％",
+        "detail": "ゼミでの発表内容、意欲及び討議など、ゼミへの貢献度。"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "、"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 III (谷澤正嗣)",
+    "professor": "谷澤　正嗣",
+    "time": "春学期  月6時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-812（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 6,
+          "classroom": "3-812（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "現代リベラリズムとその批判",
+    "textbook": "戸田山和久『新版　論文の教室』（NHK出版、2012年）。",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "論文作成の経過報告を随時行うことを義務づける。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 III (眞柄秀子)",
+    "professor": "真柄　秀子",
+    "time": "春学期  火3時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-604（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "3-604（演習室）"
+        }
+      ]
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 III (河野勝)",
+    "professor": "河野　勝",
+    "time": "春学期  月6時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-808",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 6,
+          "classroom": "3-808"
+        }
+      ]
+    ],
+    "subtitle": "現代日本政治の諸問題",
+    "textbook": "新版『アクセス　日本政治論』（平野　浩・河野　勝編　日本経済評論社）2012年",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "先行研究の理解、独創性、分析の精度、文章・表現力。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "授業参加。プレセンテーション能力。他学生のプレゼンテーションに対するコメントの頻度および質。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 III (中村英俊)",
+    "professor": "中村　英俊",
+    "time": "春学期  木4時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-712（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-712（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "国際政治の理論と現実－英国学派を中心に",
+    "textbook": "各自の研究テーマに沿った英語文献",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "実施しない"
+      },
+      {
+        "name": "レポート",
+        "rate": "60％",
+        "detail": "卒業論文の草稿提出、および、パワポを使った報告内容などで評価する"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "毎回のゼミへの積極的な参加姿勢など\n（自分の研究テーマと違うテーマにも積極的な関心を持つ）"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "特になし"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 III (田中孝彦)",
+    "professor": "田中　孝彦",
+    "time": "春学期  火5時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-609（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 5,
+          "classroom": "3-609（演習室）"
+        }
+      ]
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 III (小原隆治)",
+    "professor": "小原　隆治",
+    "time": "春学期  月5時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-810（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 5,
+          "classroom": "3-810（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "自治・分権を考える",
+    "textbook": "輪読テキストは学生主体に決定する。",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "前述の出席要件を満たしていることを前提として、日頃のゼミへの貢献度を評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 III (笹田栄司)",
+    "professor": "笹田　栄司",
+    "time": "春学期  木5時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-710",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 5,
+          "classroom": "3-710"
+        }
+      ]
+    ],
+    "subtitle": "表現の自由",
+    "textbook": "憲法判例百選Ⅰ・Ⅱ（有斐閣）、メディア判例百選（有斐閣）、駒村敬吾・鈴木秀美編『表現の自由Ⅰ・Ⅱ』（尚学社、2011年）",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "実施しない。"
+      },
+      {
+        "name": "レポート",
+        "rate": "40％",
+        "detail": "課題の設定、資料の収集、レポートの構成"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "60％",
+        "detail": "報告課題の内容、討論への積極的参加"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "なし。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 III (栗崎周平)",
+    "professor": "栗崎　周平",
+    "time": "春学期  月6時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-709",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 6,
+          "classroom": "3-709"
+        }
+      ]
+    ],
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "TBA"
+      },
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "TBA"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "TBA"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "TBA"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 III (稲継裕昭)",
+    "professor": "稲継　裕昭",
+    "time": "春学期  火5時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-606",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 5,
+          "classroom": "3-606"
+        }
+      ]
+    ],
+    "subtitle": "行政の諸活動を分析する",
+    "textbook": "すでに輪読を終えているテキスト（北山俊哉ほか著『初めて出会う政治学』、稲継裕昭『地方自治入門』、曽我健吾『行政学』）を適宜参照することがあります。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "20％",
+        "detail": "提出する必要のあるパワポ、小論、レビューシートが期限内に提出されているかどうかを評価の対象とする。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "ゼミへのコミットメント\n特別の事情がない限り欠席を認めていませんので、欠席の際には大きく減点。\n\n報告内容、討議への参加度"
+      },
+      {
+        "name": "その他",
+        "rate": "50％",
+        "detail": "フィールドワーク、合宿への参加"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 III (浅野豊美)",
+    "professor": "浅野　豊美",
+    "time": "春学期  月2時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-607（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 2,
+          "classroom": "3-607（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "近代日本とアジア・「西洋」をまたぐナショナリズム理論と国際関係学",
+    "textbook": "アーネスト・ゲルナー、加藤節監訳『民族とナショナリズム』岩波書店、 2000年\nアンソニー・D・スミス (著),‎ 巣山 靖司 (翻訳)『20世紀のナショナリズム』法律文化社、1995年\nベネディクト・アンダーソン、白石隆・白石さや訳『想像の共同体―ナショナリズムの起源と流行』（書籍工房早山、2007年）：これも大事",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "試験はしない"
+      },
+      {
+        "name": "レポート",
+        "rate": "70％",
+        "detail": "最終卒業論文に全力を集中すること。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "演習への出席、授業態度、毎回の報告課題の達成度、議論への取り組みなどを総合的に評価する。\n三回以上無断欠席したものは単位を取れない。"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "なし"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 IV (吉野孝)",
+    "professor": "吉野　孝",
+    "time": "秋学期  木6時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-1104実習室",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 6,
+          "classroom": "3-1104実習室"
+        }
+      ]
+    ],
+    "subtitle": "現代デモクラシーの政治過程",
+    "textbook": "最初の講義時間に、演習論文の書き方、注の表記方、参考文献一覧などを配付する。その後は、必要に応じて授業の中で紹介する。",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "個人研究の報告80％。出席とディスカッションへの参加20％。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 IV (谷藤悦史)",
+    "professor": "谷藤　悦史",
+    "time": "秋学期  木5時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-807（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 5,
+          "classroom": "3-807（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "世論・政治コミュニケーション研究",
+    "textbook": "授業でそのつど指示します。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "年次における数回のレポート。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "ゼミにおける発表・報告。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 IV (縣公一郎)",
+    "professor": "縣　公一郎",
+    "time": "秋学期  火5時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-901（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 5,
+          "classroom": "3-901（学部PCﾙｰﾑ）"
+        }
+      ]
+    ],
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": ""
+      },
+      {
+        "name": "レポート",
+        "rate": "0％",
+        "detail": ""
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "日常的議論への貢献。"
+      },
+      {
+        "name": "その他",
+        "rate": "80％",
+        "detail": "完成されたゼミナール論文。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 IV (仲内英三)",
+    "professor": "仲内　英三",
+    "time": "秋学期  月6時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-607（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 6,
+          "classroom": "3-607（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "近代ヨーロッパ政治社会の歴史",
+    "textbook": "レジュメを配布する",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "なし"
+      },
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "レポートの提出"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "授業への参加"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "なし"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 IV (梅森直之)",
+    "professor": "梅森　直之",
+    "time": "秋学期  金4時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-805（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 4,
+          "classroom": "3-805（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "卒業論文の仕上げ"
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 IV (川岸令和)",
+    "professor": "川岸　令和",
+    "time": "秋学期  月6時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-703",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 6,
+          "classroom": "3-703"
+        }
+      ]
+    ],
+    "subtitle": "日本国憲法の現在",
+    "textbook": "開講時に指示する。参考までにこれまで使用したもの（改訂版を含む）から代表的なものを挙げておく。\n　戸松秀典『プレップ　憲法　第4版』（弘文堂、2016年）、戸松秀典『プレップ　憲法訴訟』（弘文堂、2011年）、棟居快行ほか『基本的人権の事件簿　第5版』（有斐閣、2015年）、古関彰一『日本国憲法の誕生』（岩波現代文庫、2009年）、奥平康弘『憲法裁判の可能性』（岩波書店、1995年）、樋口陽一『いま、「憲法」は時代遅れか』（平凡社、2011年）、佐藤幸治『立憲主義について　成立過程と現代』（左右社、2015年）、川岸令和ほか『憲法』第4版（青林書院、2016年）、飯島昇藏・川岸令和編『憲法と政治思想の対話』（新評論、2002年）、藪下史郎監修『立憲主義の政治経済学』（東洋経済新報社、2008年）ほか。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "70％",
+        "detail": "ゼミ論文に基づく評価。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "ゼミでの報告や質問、合宿への参加などゼミ活動へのコミットメントに基づく評価。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 IV (佐藤正志)",
+    "professor": "佐藤　正志",
+    "time": "秋学期  木6時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-712（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 6,
+          "classroom": "3-712（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "西洋政治思想・政治思想史研究",
+    "textbook": "本演習では、初めに共通課題に関してディスカッションを行い、それを踏まえて主として古典的作品を共通テキストと して決定する。\n以下は本課題に関する古典の例。マキアヴェリ『君主論』、ホッブズ『リヴァイアサン』、ロック『統治二論』、ルソー『社会契約論』な\nど。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "30％",
+        "detail": "ゼミでの学修をどのようにふまえているかという観点から評価。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "70％",
+        "detail": "各自の研究発表および分担課題についての発表と議論への積極的参加。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 IV (坪井善明)",
+    "professor": "坪井　善明",
+    "time": "秋学期  月5時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-912実習室",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 5,
+          "classroom": "3-912実習室"
+        }
+      ]
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 IV (藤井浩司)",
+    "professor": "藤井　浩司",
+    "time": "秋学期  金6時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-606",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 5,
+          "period": 6,
+          "classroom": "3-606"
+        }
+      ]
+    ],
+    "subtitle": "比較公共政策への接近",
+    "textbook": "別途随時指示する。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "レジュメ内容、ターム・ペーパー、卒論。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "40％",
+        "detail": "出席状況、参加意欲、授業運営への貢献。"
+      },
+      {
+        "name": "その他",
+        "rate": "10％",
+        "detail": "ゼミ合宿などへのプロジェクトへの参加。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 IV (田中愛治)",
+    "professor": "遠藤　晶久／田中　愛治",
+    "time": "秋学期  火6時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-903（学部PCﾙｰﾑ）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 6,
+          "classroom": "3-903（学部PCﾙｰﾑ）"
+        }
+      ]
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 IV (福田耕治)",
+    "professor": "福田　耕治",
+    "time": "秋学期  木5時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-604（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 5,
+          "classroom": "3-604（演習室）"
+        }
+      ]
+    ],
+    "textbook": "福田耕治『国際行政学－国際公益と国際公共政策（新版）』有斐閣、2012年\n英文ジャーナル所収の最新の論文を教材とする。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "実施しない。"
+      },
+      {
+        "name": "レポート",
+        "rate": "80％",
+        "detail": "研究テーマについての論文について絶対評価する。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "20％",
+        "detail": "毎週の報告と討論を基礎に総合的に評価する。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 IV (谷澤正嗣)",
+    "professor": "谷澤　正嗣",
+    "time": "秋学期  月6時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-812（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 6,
+          "classroom": "3-812（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "現代リベラリズムとその批判",
+    "textbook": "戸田山和久『新版　論文の教室』（NHK出版、2012年）。",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "論文作成の経過報告を随時行うことを義務づける。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 IV (眞柄秀子)",
+    "professor": "真柄　秀子",
+    "time": "秋学期  火3時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-1104実習室",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 3,
+          "classroom": "3-1104実習室"
+        }
+      ]
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 IV (河野勝)",
+    "professor": "河野　勝",
+    "time": "秋学期  月6時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-808",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 6,
+          "classroom": "3-808"
+        }
+      ]
+    ],
+    "subtitle": "現代日本政治の諸問題",
+    "textbook": "新版『アクセス　日本政治論』（平野　浩・河野　勝編　日本経済評論社）2012年",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "先行研究の理解、独創性、分析の精度、文章・表現力。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "授業参加。プレセンテーション能力。他学生のプレゼンテーションに対するコメントの頻度および質。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 IV (中村英俊)",
+    "professor": "中村　英俊",
+    "time": "秋学期  木4時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-712（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 4,
+          "classroom": "3-712（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "国際政治の理論と現実－英国学派を中心に",
+    "textbook": "特になし",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "実施しない"
+      },
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "進捗状況報告のレジュメなどで評価する\n（「卒業論文」は、別途、単位認定の対象になるので）"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "毎回のゼミへの積極的な参加姿勢など\n（自分の研究テーマと違うテーマにも積極的な関心を持つ。）"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "特になし"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 IV (田中孝彦)",
+    "professor": "田中　孝彦",
+    "time": "秋学期  火5時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-609（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 5,
+          "classroom": "3-609（演習室）"
+        }
+      ]
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 IV (小原隆治)",
+    "professor": "小原　隆治",
+    "time": "秋学期  月5時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-810（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 5,
+          "classroom": "3-810（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "自治・分権を考える",
+    "textbook": "なし。",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "前述の出席要件を満たしていることを前提として、日頃のゼミへの貢献度を評価する（卒業論文の評価は、政治学演習論文〔秋学期〕の成績評価をもって行う）。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 IV (笹田栄司)",
+    "professor": "笹田　栄司",
+    "time": "秋学期  木5時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-710",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 4,
+          "period": 5,
+          "classroom": "3-710"
+        }
+      ]
+    ],
+    "textbook": "なし",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "実施しない。"
+      },
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "課題の設定、資料の収集、レポートの構成"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "報告課題の内容、討論への積極的参加"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "なし"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 IV (栗崎周平)",
+    "professor": "栗崎　周平",
+    "time": "秋学期  月6時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-404",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 6,
+          "classroom": "3-404"
+        }
+      ]
+    ],
+    "subtitle": "国際政治の理論研究・実証研究\nScientific Study of International Relations",
+    "textbook": "David A. Lake and Robert Powell. 1999. Strategic Choice and International Relations. Princeton University Press.\n\nAndrew Kydd. 2015. International Relations Theory: Game Theoretic Approach. Cambridge University Press.\n\n国際政治研究の主要学術雑誌：APSR, AJPS, IO, IS, JCR, ISQ,など.",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "TBA"
+      },
+      {
+        "name": "レポート",
+        "rate": "50％",
+        "detail": "TBA"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "TBA"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "TBA"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 IV (稲継裕昭)",
+    "professor": "稲継　裕昭",
+    "time": "秋学期  火5時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-606",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 2,
+          "period": 5,
+          "classroom": "3-606"
+        }
+      ]
+    ],
+    "subtitle": "行政の諸活動を分析する",
+    "textbook": "すでに輪読を終えているテキスト（北山俊哉ほか著『初めて出会う政治学』、稲継裕昭『地方自治入門』、曽我健吾『行政学』）を適宜参照することがあります。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "10％",
+        "detail": "提出する必要のあるパワポ、小論、レビューシートが期限内に提出されているかどうかを評価の対象とする。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "50％",
+        "detail": "ゼミへのコミットメント\n\nなお、特別の事情がない限り欠席を認めていませんので、欠席の際には大きく減点。\n報告内容、討議への参加度"
+      },
+      {
+        "name": "その他",
+        "rate": "40％",
+        "detail": "フィールドワークや諸行事への参加"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習 IV (浅野豊美)",
+    "professor": "浅野　豊美",
+    "time": "秋学期  月2時限",
+    "category": "演習（専門）",
+    "target_grade": 4,
+    "credit": 2,
+    "classroom": "3-607（演習室）",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "政治学",
+    "level": "総仕上げ",
+    "form": "演習／ゼミ",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      [
+        {
+          "day": 1,
+          "period": 2,
+          "classroom": "3-607（演習室）"
+        }
+      ]
+    ],
+    "subtitle": "近代日本とアジア・「西洋」をまたぐナショナリズム理論と国際関係学",
+    "textbook": "アーネスト・ゲルナー、加藤節監訳『民族とナショナリズム』岩波書店、 2000年\nアンソニー・D・スミス (著),‎ 巣山 靖司 (翻訳)『20世紀のナショナリズム』法律文化社、1995年\nベネディクト・アンダーソン、白石隆・白石さや訳『想像の共同体―ナショナリズムの起源と流行』（書籍工房早山、2007年）：これも大事",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "試験はしない"
+      },
+      {
+        "name": "レポート",
+        "rate": "70％",
+        "detail": "最終卒業論文に全力を集中すること。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "演習への出席、授業態度、毎回の報告課題の達成度、議論への取り組みなどを総合的に評価する。\n三回以上無断欠席したものは単位を取れない。"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "なし"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (吉野孝)",
+    "professor": "吉野　孝",
+    "time": "春学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ],
+    "subtitle": "現代デモクラシーの政治過程",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "論文指導への出席20％、論文草稿の提出と内容評価80％"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (吉野孝)",
+    "professor": "吉野　孝",
+    "time": "秋学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ],
+    "subtitle": "現代デモクラシーの政治過程",
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "100％",
+        "detail": "論文指導への出席20％、論文草稿の提出と内容評価80％"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (谷藤悦史)",
+    "professor": "谷藤　悦史",
+    "time": "春学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ],
+    "subtitle": "政治学演習論文：世論・政治コミュニケーション研究",
+    "textbook": "特に定めない",
+    "evaluation_method": [
+      {
+        "name": "その他",
+        "rate": "100％",
+        "detail": "提出論文による総合評価を行う"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (谷藤悦史)",
+    "professor": "谷藤　悦史",
+    "time": "秋学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ],
+    "subtitle": "政治学演習論文：世論・政治コミュニケーション研究",
+    "textbook": "特に定めない",
+    "evaluation_method": [
+      {
+        "name": "その他",
+        "rate": "100％",
+        "detail": "提出論文による総合評価を行う"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (縣公一郎)",
+    "professor": "縣　公一郎",
+    "time": "春学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ],
+    "subtitle": "公共政策研究",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": ""
+      },
+      {
+        "name": "レポート",
+        "rate": "0％",
+        "detail": ""
+      },
+      {
+        "name": "平常点評価",
+        "rate": "0％",
+        "detail": ""
+      },
+      {
+        "name": "その他",
+        "rate": "100％",
+        "detail": "完成されたゼミナール論文。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (縣公一郎)",
+    "professor": "縣　公一郎",
+    "time": "秋学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ],
+    "subtitle": "公共政策研究",
+    "evaluation_method": [
+      {
+        "name": "その他",
+        "rate": "100％",
+        "detail": "完成されたゼミナール論文。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (仲内英三)",
+    "professor": "仲内　英三",
+    "time": "秋学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (梅森直之)",
+    "professor": "梅森　直之",
+    "time": "春学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (梅森直之)",
+    "professor": "梅森　直之",
+    "time": "秋学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ],
+    "subtitle": "卒業論文の仕上げ"
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (川岸令和)",
+    "professor": "川岸　令和",
+    "time": "春学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ],
+    "subtitle": "日本国憲法の現在",
+    "textbook": "各自の論文テーマによる。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "ゼミ論文の作成、報告会での口頭発表の成果による。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "0％",
+        "detail": "ゼミ論文の評価に反映される。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (川岸令和)",
+    "professor": "川岸　令和",
+    "time": "秋学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ],
+    "subtitle": "日本国憲法の現在",
+    "textbook": "各自の論文テーマによる。",
+    "evaluation_method": [
+      {
+        "name": "試験",
+        "rate": "0％",
+        "detail": "実施しない。"
+      },
+      {
+        "name": "レポート",
+        "rate": "100％",
+        "detail": "ゼミ論文の作成、報告会での口頭発表の成果による。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "0％",
+        "detail": "ゼミ論文の評価に反映される。"
+      },
+      {
+        "name": "その他",
+        "rate": "0％",
+        "detail": "特になし。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (佐藤正志)",
+    "professor": "佐藤　正志",
+    "time": "春学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (佐藤正志)",
+    "professor": "佐藤　正志",
+    "time": "秋学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ],
+    "evaluation_method": [
+      {
+        "name": "平常点評価",
+        "rate": "30％",
+        "detail": "継続的に論文指導を受けること"
+      },
+      {
+        "name": "その他",
+        "rate": "70％",
+        "detail": "完成した論文の評価"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (坪井善明)",
+    "professor": "坪井　善明",
+    "time": "秋学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (藤井浩司)",
+    "professor": "藤井　浩司",
+    "time": "春学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ],
+    "subtitle": "比較公共政策への接近",
+    "textbook": "別途随時指示する。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "80％",
+        "detail": "レジュメ内容、ターム・ペーパー、卒論。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "10％",
+        "detail": "出席状況、参加意欲、授業運営への貢献。"
+      },
+      {
+        "name": "その他",
+        "rate": "10％",
+        "detail": "ゼミ合宿などへのプロジェクトへの参加。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (藤井浩司)",
+    "professor": "藤井　浩司",
+    "time": "秋学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "秋学期",
+    "metadata": [
+      []
+    ],
+    "subtitle": "比較公共政策への接近",
+    "textbook": "別途随時指示する。",
+    "evaluation_method": [
+      {
+        "name": "レポート",
+        "rate": "80％",
+        "detail": "レジュメ内容、ターム・ペーパー、卒論。"
+      },
+      {
+        "name": "平常点評価",
+        "rate": "10％",
+        "detail": "出席状況、参加意欲、授業運営への貢献。"
+      },
+      {
+        "name": "その他",
+        "rate": "10％",
+        "detail": "ゼミ合宿などへのプロジェクトへの参加。"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "place": "政治経済学部",
+    "name": "政治学演習論文 (田中愛治)",
+    "professor": "田中　愛治",
+    "time": "春学期  無その他",
+    "category": "",
+    "target_grade": 3,
+    "credit": 2,
+    "classroom": "",
+    "campus": "早稲田",
+    "language": "指定なし",
+    "field_large": "政治学",
+    "field_middle": "政治学",
+    "field_small": "卒業論文/研究、修士/博士論文",
+    "level": "総仕上げ",
+    "form": "論文",
+    "open_course": false,
+    "full_od": false,
+    "term": "春学期",
+    "metadata": [
+      []
+    ]
+  }
+]
