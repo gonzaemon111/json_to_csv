@@ -1,7 +1,7 @@
 require "json"
 require "csv"
 
-csv_file_path = "csv/fse/fse_6.csv"
+csv_file_path = "csv/fse/fse.csv"
 
 def insert_element(value, term, i, j)
   # i = 通年かどうかで決まる 基本的に0のみ
@@ -34,7 +34,7 @@ def insert_element(value, term, i, j)
            value[20] )
 end
 
-def json_format(csv , json_file_path = "json/fse/fse_6.json", count = 0)
+def json_format(csv , json_file_path, count = 0)
   JSON.parse(File.open(json_file_path).read).each do |hash| #open json to parse
     count = count + 1
     if hash.values[19][0].empty?
@@ -73,5 +73,7 @@ end
 
 
 CSV.open(csv_file_path, "w") do |csv| #open new file for write
-  json_format(csv)
+  (1..10).each do |i|
+    json_format(csv, "json/fse/fse_#{i}.json")
+  end
 end
