@@ -1,7 +1,7 @@
 require "json"
 require "csv"
 
-csv_file_path = "csv/sps.csv"
+csv_file_path = "csv/sss.csv"
 
 def insert_element(value, term, i, j)
   # i = 通年かどうかで決まる 基本的に0のみ
@@ -73,8 +73,8 @@ end
 
 
 CSV.open(csv_file_path, "w") do |csv| #open new file for write
-  (1..4).each do |i|
-    json_format(csv, "json/sps/sps_#{i}.json")
+  (1..6).each do |i|
+    json_format(csv, "json/sss/sss_#{i}.json")
     puts "#{i}"
   end
 end
