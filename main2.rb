@@ -1,7 +1,7 @@
 require "json"
 require "csv"
 
-csv_file_path = "eva_csv/hum.csv"
+csv_file_path = "eva_csv/hss.csv"
 
 def eva_return(hash)
   return "なし" if hash["evaluation_method"].nil?
@@ -81,8 +81,8 @@ end
 
 
 CSV.open(csv_file_path, "w") do |csv| #open new file for write
-  (1..5).each do |i|
-    json_format(csv, "json/hum/hum_#{i}.json")
+  (1..11).each do |i|
+    json_format(csv, "json/hss/hss_#{i}.json")
     puts "#{i}"
   end
 end
