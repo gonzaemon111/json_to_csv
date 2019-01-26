@@ -13,6 +13,7 @@ end
 def insert_element(hash, term, i, j)
   # i = 通年かどうかで決まる 基本的に0のみ
   # j = その期で授業コマ文だけ回すため
+  category = hash["category"] != "" ? hash["category"] : "なし"
   campus = hash["campus"] != "" ? hash["campus"] : "なし"
   day = !hash["metadata"][0].empty? ? hash["metadata"][i][j]["day"] : "なし"
   period = !hash["metadata"][0].empty? ? hash["metadata"][i][j]["period"] : "なし"
@@ -23,7 +24,7 @@ def insert_element(hash, term, i, j)
            hash["name"] ,
            hash["professor"] ,
            hash["time"] ,
-           hash["category"] ,
+           category ,
            hash["target_grade"] ,
            hash["credit"] ,
            hash["classroom"] ,
