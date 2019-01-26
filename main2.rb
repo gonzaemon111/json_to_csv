@@ -1,7 +1,7 @@
 require "json"
 require "csv"
 
-csv_file_path = "eva_csv/hss.csv"
+# csv_file_path = "eva_csv/ase.csv"
 
 def eva_return(hash)
   return "なし" if hash["evaluation_method"].nil?
@@ -13,6 +13,7 @@ end
 def insert_element(hash, term, i, j)
   # i = 通年かどうかで決まる 基本的に0のみ
   # j = その期で授業コマ文だけ回すため
+  campus = hash["campus"] != "" ? hash["campus"] : "なし"
   day = !hash["metadata"][0].empty? ? hash["metadata"][i][j]["day"] : "なし"
   period = !hash["metadata"][0].empty? ? hash["metadata"][i][j]["period"] : "なし"
   classroom = !hash["metadata"][0].empty? ? hash["metadata"][i][j]["classroom"] : "なし"
@@ -26,7 +27,7 @@ def insert_element(hash, term, i, j)
            hash["target_grade"] ,
            hash["credit"] ,
            hash["classroom"] ,
-           hash["campus"] ,
+           campus,
            hash["language"] ,
            hash["field_large"] ,
            hash["field_middle"] ,
@@ -79,10 +80,20 @@ def json_format(csv , json_file_path, count = 0)
   end
 end
 
-
-CSV.open(csv_file_path, "w") do |csv| #open new file for write
-  (1..11).each do |i|
-    json_format(csv, "json/hss/hss_#{i}.json")
-    puts "#{i}"
+csv_dir = Dir::entries("csv")
+csv_dir.shift(2)
+puts "csv_dir : #{csv_dir}" # ["cse.csv", "sils.csv", "ase.csv", "hum.csv", "fse.csv", "cms.csv", "sps.csv", "hss.csv", "sss.csv", "edu.csv", "pse.csv"]
+csv_dir.each do |csv_name|
+  csv_file_path = "eva_csv/".concat(csv_name)
+  dir_length = Dir::entries("json/".concat(csv_name.sub(/.csv/,""))).length - 2
+  json_dir = Dir::entries("json/".concat(csv_name.sub(/.csv/,"")))
+  json_dir.shift(2)
+  CSV.open(csv_file_path, "w") do |csv| #open new file for write
+    json_dir.each do |value|
+      json_format(csv, "json/#{csv_name.sub(/.csv/,"")}/#{value}")
+    end
   end
 end
+
+
+
